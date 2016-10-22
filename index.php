@@ -6,14 +6,62 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Read Products</title>
+  <title>Thailand Kingdom of Luxury</title>
 
-  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
+    <link href="libs/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
+    <!-- Custom CSS -->
+    <link href="css/thkingdomofluxury.css" rel="stylesheet">
 </head>
 <body>
-  ddd
-	<div ng-view></div>
+    <!-- Navigation -->
+    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="#">Start Bootstrap</a>
+            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav">
+                    <li>
+                        <a href="/">Home</a>
+                    </li>
+                    <li>
+                        <a href="/hotels.resorts">Hotels & Resorts</a>
+                    </li>
+                    <li>
+                        <a href="#">Find Dining</a>
+                    </li>
+                    <li>
+                        <a href="#">One in A Lifetime</a>
+                    </li>
+                    <li>
+                        <a href="#">Made in Thailand</a>
+                    </li>
+                    <li>
+                        <a href="#">Wellness</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+
+    <div ng-view></div>
+
+    <div class="footer">
+      <div class="col-md-12 text-gold-header6">
+          <p>© 2016 by Thailand Kingdom of Luxury</p>
+      </div>
+    </div>
 </body>
 <script src="libs/jquery/jquery.min.js"></script>
 <script src="libs/angular/angular.min.js"></script>
