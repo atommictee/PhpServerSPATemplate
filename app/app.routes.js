@@ -5,13 +5,13 @@ thailuxuryApp.config(function($routeProvider, $locationProvider) {
   			templateUrl: 'app/components/home/view.html'
   		})
 
-			.when('/hotels.resorts', {
+		.when('/hotels.resorts', {
   			templateUrl: 'app/components/hotels.resorts/view.html'
   		})
 
 			
 
-		.otherwise(
+	.otherwise(
       {redirectTo:'/'}
     );
 

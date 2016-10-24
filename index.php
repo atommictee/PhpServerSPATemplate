@@ -37,10 +37,10 @@
                         <a href="/hotels.resorts">Hotels & Resorts</a>
                     </li>
                     <li>
-                        <a href="#">Find Dining</a>
+                        <a href="#southern">Find Dining</a>
                     </li>
                     <li>
-                        <a href="#">One in A Lifetime</a>
+                        <a href="#central">One in A Lifetime</a>
                     </li>
                     <li>
                         <a href="#">Made in Thailand</a>
