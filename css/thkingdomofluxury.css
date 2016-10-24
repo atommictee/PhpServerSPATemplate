@@ -52,11 +52,16 @@ body {
     font-size: 14px;
 }
 
+ .content-width .content-text-body{
+    padding: 15px;
+    margin: 30px 0px;
+}
+
 .content-width{
     width:100%;
     height: 100%;
     margin: 0;
-    padding: 0;;
+    padding: 0;
 }
 
     .content-width.col-two > div, .content-width.col-one > div{
@@ -65,13 +70,29 @@ body {
     }
 
     .content-width .content-left{
-        background: #9C2318;
+        /*background-color: #9c2318;*/
+        background-color: black;
+        opacity: 0.8;
+        height: 92%;
+        margin: 5px;
+        color:white;
     }
 
+    .content-textimage{
+        /*background-color: #9c2318;*/
+        background-color: black;
+        opacity: 0.1;
+        height: 96%;
+        width: 100%;
+        color:white;
+    }
+
+
+
     .content-width .content-text.center{
-        margin: auto;
-        width: 78%;
-        margin-top:30%;
+        text-align: center;
+        vertical-align: middle;
+        margin-top: 25%;
     }
 
         .content-width .content-text .text-body{
@@ -86,13 +107,13 @@ body {
     .content-width.header{
         height: 300px;
         min-height: 300px;
-        background: #9C2318;
     }
 
         .content-width.header .content-text.center{
-            margin: auto;
-            width: 78%;
-            margin-top:9%;
+           text-align: center;
+            vertical-align: middle;
+            line-height: 300px; 
+            margin-top:0px;
         }
 
 
@@ -124,3 +145,21 @@ body {
         height: 250px;
     }
 
+.parent {
+    width: 100%;
+    position: relative;
+    resize: vertical;
+    overflow: auto;
+}
+.child {
+    position: absolute;
+    top: 50%;
+    left: 20px;
+    right: 20px;
+    margin-top: -70px;
+    padding: 20px;
+}
+
+.header-parallax > div{
+    height: 100%;
+}

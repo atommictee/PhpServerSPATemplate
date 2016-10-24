@@ -5,11 +5,11 @@
     background-image: url("/images/hotel_resort/La Residence Royale Hua Hin Balcony Facing Ocean_resize.jpeg");
 
     /* Set a specific height */
-    min-height: 500px;
+    height: 800px !important;
 
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
-    background-position: 300px;
+    background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
