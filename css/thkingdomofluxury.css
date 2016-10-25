@@ -29,16 +29,11 @@ body {
     min-height: 100px;
 }*/
 
-.nav li ul {
-  position: absolute;
-  background-color: #fff;
-  display: none;
-}
 
-.nav li:hover ul {
-  display: block;
+.navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:focus, .navbar-inverse .navbar-nav>.open>a:hover {
+     color: inherit; 
+     background-color: inherit; 
 }
-
 
     .navbar-inverse .navbar-nav>li>a {
         color: #CEAB21;
@@ -191,9 +186,13 @@ body {
 }
 
 @media (min-width: 768px){
+    .nav li:hover ul {
+        display: block;
+    }
+
     .navbar-inverse {
         background-color:#fff; 
-        border-color: #fff;
+        border-color: #DADADA;
     }
 
     .navbar-inverse .navbar-nav>li>a:focus, .navbar-inverse .navbar-nav>li>a:hover {

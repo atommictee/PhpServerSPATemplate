@@ -33,28 +33,25 @@
                     <li>
                         <a href="/">Home</a>
                     </li>
-                    <li>
-                        <a href="/hotels.resorts">Hotels & Resorts</a>
+                    <li class="dropdown">
+                        <a href="/hotels.resorts" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Hotels & Resorts <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="#">Northern Thailand</a></li>
+                            <li><a href="/hotels.resorts#central">Central & Eastern Regions</a></li>
+                            <li><a href="/hotels.resorts#southern">Southern Thailand</a></li>
+                        </ul>
                     </li>
                     <li>
-                        <a href="#southern">Find Dining</a>
+                        <a href="#">Find Dining</a>
                     </li>
                     <li>
-                        <a href="#central">One in A Lifetime</a>
+                        <a href="#">One in A Lifetime</a>
                     </li>
                     <li>
                         <a href="#">Made in Thailand</a>
                     </li>
                     <li>
                         <a href="#">Wellness</a>
-                    </li>
-                     <li>
-                        <a href="#">test</a>
-                        <ul class="nav navbar-nav">
-                            <li>
-                                <a href="/">test s</a>
-                            </li>
-                        </ul>
                     </li>
                 </ul>
             </div>
