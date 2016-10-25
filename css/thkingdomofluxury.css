@@ -29,6 +29,16 @@ body {
     min-height: 100px;
 }*/
 
+.nav li ul {
+  position: absolute;
+  background-color: #fff;
+  display: none;
+}
+
+.nav li:hover ul {
+  display: block;
+}
+
 
     .navbar-inverse .navbar-nav>li>a {
         color: #CEAB21;

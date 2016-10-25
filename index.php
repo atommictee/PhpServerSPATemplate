@@ -48,6 +48,14 @@
                     <li>
                         <a href="#">Wellness</a>
                     </li>
+                     <li>
+                        <a href="#">test</a>
+                        <ul class="nav navbar-nav">
+                            <li>
+                                <a href="/">test s</a>
+                            </li>
+                        </ul>
+                    </li>
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
@@ -55,7 +63,7 @@
         <!-- /.container -->
     </nav>
 
-    <div ng-view></div>
+    <div ng-view  autoscroll="true"></div>
 
     <div class="footer">
       <div class="col-md-12 text-gold-header6">
@@ -73,6 +81,9 @@
 <script src="libs/angular/loading-bar/loading-bar.min.js"></script>
 <script src="libs/angular/angular-messages.js"></script>
 <script src="libs/moment.min.js"></script>
+<script src="libs/angular-translate.min.js"></script>
+
+
 
 <script src="app/app.module.js"></script>
 <script src="app/app.routes.js"></script>
