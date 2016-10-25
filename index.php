@@ -31,27 +31,35 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
                     <li>
-                        <a href="/">Home</a>
+                        <a href="/">{{ 'NAV_HOME' | translate }}</a>
                     </li>
                     <li class="dropdown">
-                        <a href="/hotels.resorts" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Hotels & Resorts <span class="caret"></span></a>
+                        <a href="/hotels.resorts" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ 'NAV_HOTELS' | translate }}<span class="caret"></span></a>
                         <ul class="dropdown-menu">
-                            <li><a href="#">Northern Thailand</a></li>
-                            <li><a href="/hotels.resorts#central">Central & Eastern Regions</a></li>
-                            <li><a href="/hotels.resorts#southern">Southern Thailand</a></li>
+                            <li><a href="#">{{ 'NAV_NORTHTH' | translate }}</a></li>
+                            <li><a href="/hotels.resorts#central">{{ 'NAV_CENTRAL' | translate }}</a></li>
+                            <li><a href="/hotels.resorts#southern">{{ 'NAV_SOUTHEN' | translate }}</a></li>
                         </ul>
                     </li>
                     <li>
-                        <a href="#">Find Dining</a>
+                        <a href="#">{{ 'NAV_DINING' | translate }}</a>
                     </li>
                     <li>
-                        <a href="#">One in A Lifetime</a>
+                        <a href="#">{{ 'NAV_LIFTIME' | translate }}</a>
                     </li>
                     <li>
-                        <a href="#">Made in Thailand</a>
+                        <a href="#">{{ 'NAV_MADEINTH' | translate }}</a>
                     </li>
                     <li>
-                        <a href="#">Wellness</a>
+                        <a href="#">{{ 'NAV_WELLNESS' | translate }}</a>
+                    </li>
+
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ 'NAV_LANG' | translate }} <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="#" ng-click="changeLanguage('th')">ไทย</a></li>
+                            <li><a href="#" ng-click="changeLanguage('en')">English</a></li>
+                        </ul>
                     </li>
                 </ul>
             </div>
@@ -68,9 +76,12 @@
       </div>
     </div>
 </body>
+
+
 <script src="libs/jquery/jquery.min.js"></script>
 <script src="libs/angular/angular.min.js"></script>
 <script src="libs/angular-route/angular-route.min.js"></script>
+<script src="libs/angular-cookies/angular-cookies.min.js"></script>
 <script src="libs/bootstrap/js/bootstrap.min.js"></script>
 <script src="libs/angular/angular-animate.min.js"></script>
 <script src="libs/angular/angular-ui-router.min.js"></script>
@@ -78,11 +89,14 @@
 <script src="libs/angular/loading-bar/loading-bar.min.js"></script>
 <script src="libs/angular/angular-messages.js"></script>
 <script src="libs/moment.min.js"></script>
-<script src="libs/angular-translate.min.js"></script>
-
-
+<script src="libs/angular-translate/angular-translate.min.js"></script>
+<script src="libs/angular-translate/angular-translate-storage-cookie/angular-translate-storage-cookie.js"></script>
+<script src="libs/angular-translate/angular-translate-storage-local/angular-translate-storage-local.min.js"></script>
 
 <script src="app/app.module.js"></script>
 <script src="app/app.routes.js"></script>
+
+<script src="app/shared/lang/english.js"></script>
+<script src="app/shared/lang/thai.js"></script>
 
 </html>

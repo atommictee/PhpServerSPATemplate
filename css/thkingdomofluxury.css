@@ -30,10 +30,6 @@ body {
 }*/
 
 
-.navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:focus, .navbar-inverse .navbar-nav>.open>a:hover {
-     color: inherit; 
-     background-color: inherit; 
-}
 
     .navbar-inverse .navbar-nav>li>a {
         color: #CEAB21;
@@ -189,6 +185,12 @@ body {
     .nav li:hover ul {
         display: block;
     }
+
+    .navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:focus, .navbar-inverse .navbar-nav>.open>a:hover {
+        color: inherit; 
+        background-color: inherit; 
+    }
+
 
     .navbar-inverse {
         background-color:#fff; 
