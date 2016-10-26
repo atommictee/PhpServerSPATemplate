@@ -204,4 +204,90 @@ var translationsEN = {
         HOTEL_SOUTHRN_FSK_H : 'Four Seasons Resort Koh Samui',
         HOTEL_SOUTHRN_FSK_P1 : 'Synonymous with superlative service and an authentic understanding of Thai-style luxury hospitality, the private hillside villas of Four Seasons Resort Koh Samui make an ideal retreat for relaxation and rejuvenation. A lush, tropical setting with awe-inspiring views over the Gulf of Siam provide more than enough visual stimulation, while the culinary team and resort concierge ensure that every guest’s needs are seen to in a personalised way. Whether you select a day out at sea or exploring nearby attractions on land – or simply choose to enjoy the splendour of this very special place – guests are assured of a stay that will remain with them forever.',
 
+        DINNING_FRENCH_H : 'The French Tradition',
+
+        DINNING_LB_H : 'Le Beaulieu',
+        DINNING_LB_P1 : 'Chef Hervé Frerard masters the challenging task of serving classic French food that is both satisfyingly familiar and surprisingly fresh. Embracing seasonality and using a blend of imported and local products, Hervé brings out the detail and simplicity of each ingredient to maximum effect.',
+
+        DINNING_LN_H : 'Le Normandie',
+        DINNING_LN_P1 : 'A formidable showcase and bastion of French haute cuisine, Le Normandie at Mandarin Oriental Bangkok offers a synthesis of fine French cuisine, impeccable service and an opulent venue overlooking the Chao Phraya River.',
+
+        DINNING_WL_H : 'Water Library',
+        DINNING_WL_P1 : 'Casual dining concept by day and  ne dining establishment by night, Water Library at Chamchuri Square is the height of good taste. One of  ailand’s most comprehensive wine collections and certainly the most expansive water collection complement a menu that is highly technical, imaginative and original.',
+
+        DINNING_BKS_H : 'H Bistro (Koh Samui)',
+        DINNING_BKS_P1 : 'Inspired by the  avours of the French Mediterranean, H Bistro at Hansar Koh Samui o ers a re ned epicurean experience in a relaxed seaside setting. The menu is governed by fresh local and imported seafood, Mediterranean spices and an extensive wine list.',
+
+        DINNING_M_H : 'Mezzaluna',
+        DINNING_M_P1 : 'With a location on the 63rd floor high above the streets of Bangkok, Mezzaluna at five-star hotel lebua offers a menu as mesmerising as its dazzling views, using familiar French techniques to create unfamiliar forms and flavours.',
+
+        DINNING_TSM_H : 'Farang Ses (Chiang Mai)',
+        DINNING_TSM_P1 : 'The signature fine dining outlet of Chiang Mai’s famous Dhara Dhevi hotel, Farang Ses combines superb cuisine, beautiful décor and spectacular views of the surrounding area. It’s one of the most revered French restaurants in Thailand and the most well-respected fine dining establishment in the north.',
+
+        DINNING_FLAVOURS_H : 'The Flavours of  Thailand',
+
+        DINNING_LGLM_H : 'Le Grand Lanna (Chiang Mai)',
+        DINNING_LGLM_P1 : 'Set against an attractive Lanna-style backdrop with raised wooden pavilions and precious antiques, Le Grand Lanna at Dhara Dhevi Chiang Mai serves authentic specialties that reflect the rich culinary tradition of northern Thailand, using local, seasonal ingredients.',
+
+        DINNING_SRN_H : 'Sala Rim Naam',
+        DINNING_SRN_P1 : 'An institution for decades, Sala Rim Naam, signature outlet of the famed Mandarin Oriental Bangkok, blends the culinary with the cultural, serving traditional Thai cuisine in an elaborate northern-style pavilion on the banks of the majestic Chao Phraya River.',
+
+        DINNING_BL_H : 'Bo.lan',
+        DINNING_BL_P1 : 'Owner and chef team Dylan Jones and Duangporn Songvisava’s culinary concept is a carefully planned and cleverly executed celebration of Thailan’s rich pantry. Championing sustainability and product diversity, the chefs manage the difficult task of bridging the “then” and “now” of Thai cuisine.',
+
+        DINNING_LSC_H : 'Issaya Siamese Club',
+        DINNING_LSC_P1 : 'Set in a beautifully restored colonial-style building and surrounded by lush gardens,  ai celebrity chef Ian Kittichai’s Issaya Siamese Club invites guests into a creative culinary universe with every dish designed to tell a story or evoke an emotion.',
+
+        DINNING_LD_H : 'Le Du',
+        DINNING_LD_P1 : 'Smell, sight and  avour are the guiding principless of chef  itid Tassanakajohn’s culinary o ering at Le Du. Using modernist tech- niques and a novel approach to  ai cuisine, the young chef plays with taste, texture and temperature to deliver a dining experience with lasting impact.',
+
+        DINNING_P_H : 'Paste',
+        DINNING_P_P1 : 'Paste is part of a wave of restaurants rede ning modern  ai food, showcasing daring culinary innovation while at the same time re- maining respectful of  ailand’s rich culinary heritage. Constantly evolving dishes are inspired by age-old recipe books and enhanced by champion technique.',
+
+        DINNING_JKS_H : 'Jahn (Koh Samui)',
+        DINNING_JKS_P1 : 'Jahn takes diners on a culinary journey through the multifaceted tradition of Thai cuisine. Expert execution and artistic presentation guide a menu that blends fine imported ingredients with the freshest local produce.',
+
+        DINNING_BEP_H : 'Blue Elephant (Phuket)',
+        DINNING_BEP_P1 : 'Located at the site of the historic 105-year-old Phra Pitak Chinpracha Mansion in Phuket, the Blue Elephant restaurant is a national marvel of culinary excellence. Crafted by world-renowned chef Noroor Somany Steppe, the restaurant’s exquisite menu is a journey through Thailand’s greatest gastronomic creations – both past and present.',
+
+
+        DINNING_IMPERIAL_H : 'Imperial Pleasures',
+
+        DINNING_IMPERIAL_SP_H : 'Summer Palace',
+        DINNING_IMPERIAL_SP_P1 : 'Set against a sophisticated fine dining backdrop, Summer Palace succeeds in the difficult exercise of remaining true to rich Chinese traditions while at the same time embracing new techniques, unique ingredients and a contemporary style of service.',
+
+        DINNING_IMPERIAL_FY_H : 'Fei Ya',
+        DINNING_IMPERIAL_FY_P1 : 'Using both local and imported ingredients, the chefs at Fei Ya reinvent timeless Cantonese classics. The result is traditional dishes accompanied by and accomplished  using unusual ingredients and served in a contemporary, fine dining environment.',
+
+        DINNING_IMPERIAL_BZ_H : 'Breeze',
+        DINNING_IMPERIAL_BZ_P1 : 'The multifaceted menu at Breeze showcases a high level of culinary innovation with its unique blend of Asian flavours and tradition. With the precision of the Japanese kitchen, the skill of the Chinese and the nerve the Thai, the chefs take diners on a tour around the region’s best cuisines.',
+
+        DINNING_IMPERIAL_SP_H : 'Shang Palace',
+        DINNING_IMPERIAL_SP_P1 : 'Under the tutelage of Hong Kong Chef Sham Yun Ming, Shang Palace serves Cantonese specialties using traditional techniques, earning itself a reputation as one of the most authentic Cantonese restaurants in Bangkok in the process.',
+
+
+        DINNING_IMPERIAL_CH_H : 'China House',
+        DINNING_IMPERIAL_CH_P1 : 'The food at China House is as spectacular as the surroundings in which it is served. The lunchtime dim sum extravaganza is a Bangkok staple while the nighttime offerings showcase a selection of classic Cantonese specialties with modern interpretations.',
+
+
+        DINNING_ITALY_H : 'With Love from Italy',
+
+        DINNING_ITALY_O_H : 'Opus',
+        DINNING_ITALY_O_P1 : 'High quality ingredients rule supreme as Opus takes diners on a culinary journey of Italy’s most loved regional dishes. Using each ingredient to maximum effect, Chef Davide Calo delivers fine Italian cuisine with expert skill and astute invention.',
+
+        DINNING_ITALY_LS_H : 'La Scala',
+        DINNING_ITALY_LS_P1 : 'Long-established as one of Bangkok’s finest Italian restaurants, La Scala is a bastion of traditional Italian cuisine, executed with the utmost respect for the ingredients and presented with refreshingly creative flair.',
+
+        DINNING_ITALY_LBAL_H : 'La Bottega di Luca',
+        DINNING_ITALY_LBAL_P1 : 'With an emphasis on imported, seasonal ingredients, Chef Luca Appino pushes the boundaries of traditional Italian cuisine while simultaneously remaining respectful of his culinary heritage. Taking inspiration from the entire Mediterranean region, he uses traditional Italian ingredients in innovative and unexpected ways.',
+
+        DINNING_ITALY_TJ_H : 'Jojo',
+        DINNING_ITALY_TJ_P1 : 'Cleverly executed traditional Italian cuisine, perfectly polished service and elegant, contemporary surroundings make for a refined culinary experience at Jojo. By day a bustling lunch-time favourite, Jojo turns into a sophisticated restaurant when night falls.',
+
+        DINNING_ITALY_ET_H : 'Enoteca Italiana',
+        DINNING_ITALY_ET_P1 : 'Guided by the mantra of tradition with innovation and inspired by terroir and seasonality, Chef Stefano Merlo turns Italian classics into contemporary eats, each dish telling a story, evoking a memory or prompting an emotion.',
+
+        DINNING_ITALY_SS_H : 'Sensi',
+        DINNING_ITALY_SS_P1 : 'Sensi offers a seductive dining experience, engaging all the senses in an artistic display of culinary prowess. Importing the majority of the ingredients from Europe, Chef Christian Martena is guided by a desire to showcase the best of the Italian culinary tradition while at the same time challenging and surprising his guests.',
+
 }
