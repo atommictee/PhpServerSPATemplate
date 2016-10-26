@@ -6,8 +6,10 @@ var translationsEN = {
             NAV_SOUTHEN: 'Southern Thailand',
         NAV_DINING: 'Find Dining',
         NAV_LIFTIME: 'One in A Lifetime',
+        NAV_AFTERDARK: 'After Dark',
         NAV_MADEINTH: 'Made in Thailand',
         NAV_WELLNESS: 'Wellness',
+        NAV_MEDICALTOURISM: 'Medical Tourism',
         NAV_LANG: 'Lang',
 
         INTRO_H : 'Introduction',

@@ -6,8 +6,10 @@ var translationsTH = {
             NAV_SOUTHEN: 'ภาคใต้',
         NAV_DINING: 'อาหารและเครื่องดื่ม',
         NAV_LIFTIME: 'ครั้งหนึ่งในชีวิต',
+        NAV_AFTERDARK: 'ยามค่ําคืน',
         NAV_MADEINTH: 'เมดอินไทยแลนด์',
         NAV_WELLNESS: 'สุขภาพ',
+        NAV_MEDICALTOURISM: 'การแพทย์',
         NAV_LANG: 'ภาษา',
 
         INTRO_H : 'บทนำ',

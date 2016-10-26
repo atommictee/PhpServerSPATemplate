@@ -48,12 +48,17 @@
                         <a href="#">{{ 'NAV_LIFTIME' | translate }}</a>
                     </li>
                     <li>
+                        <a href="#">{{ 'NAV_AFTERDARK' | translate }}</a>
+                    </li>
+                    <li>
                         <a href="#">{{ 'NAV_MADEINTH' | translate }}</a>
                     </li>
                     <li>
                         <a href="#">{{ 'NAV_WELLNESS' | translate }}</a>
                     </li>
-
+                    <li>
+                        <a href="#">{{ 'NAV_MEDICALTOURISM' | translate }}</a>
+                    </li>
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ 'NAV_LANG' | translate }} <span class="caret"></span></a>
                         <ul class="dropdown-menu">

@@ -1,2 +1,4 @@
 magick convert RCPHUBY_00055.jpg -profile sRGB.icc rgb_RCPHUBY_00055.jpg
-magick convert *.jpg -profile sRGB.icc
+magick convert *.jpg -profile sRGB.icc *.jpg
+
+magick mogrify -resize 256 *.jpg
