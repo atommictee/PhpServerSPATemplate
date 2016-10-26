@@ -13,6 +13,10 @@ body {
     width: 100%;
 }
 
+.navbar-toggle {
+    margin-right: 5px;
+}
+
 .footer{
     position: absolute;
     bottom: 0px;
@@ -137,7 +141,7 @@ body {
         color: rgb(96, 94, 94);
     }
 
-    .content-article hr{
+    .content-article hr, .gold-hr{
         border-top: 1px solid #CEAB21;
     }
 
@@ -165,6 +169,22 @@ body {
 .content-width .content-text-body{
     padding: 15px;
     margin: 30px 0px;
+}
+
+.language{
+    float: right;
+}
+
+    .language .line{
+       width: 1px; 
+       top: 15px; 
+       left: 0px;  
+       background-color: #CEAB21; 
+       overflow: hidden;
+    }
+
+.lang-toggle{
+    color: #fff;
 }
 
 @media (min-width: 768px){

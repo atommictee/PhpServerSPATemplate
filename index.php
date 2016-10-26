@@ -25,7 +25,10 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="#">Thailand Kingdom of Luxury</a>
+                <button type="button" class="navbar-toggle lang-toggle" ng-click="changeLanguage()">
+                    {{lang}}
+                </button>
+                <a class="navbar-brand visible-xs-block" href="#">Thailand Kingdom of Luxury</a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -59,13 +62,18 @@
                     <li>
                         <a href="#">{{ 'NAV_MEDICALTOURISM' | translate }}</a>
                     </li>
-                    <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ 'NAV_LANG' | translate }} <span class="caret"></span></a>
+                    <li class="dropdown hidden-lg">
+                        <a href="#">{{ 'NAV_LANG' | translate }}<span class="caret"></span></a>
                         <ul class="dropdown-menu">
-                            <li><a href="#" ng-click="changeLanguage('th')">ไทย</a></li>
                             <li><a href="#" ng-click="changeLanguage('en')">English</a></li>
+                            <li><a href="#" ng-click="changeLanguage('th')">ภาษาไทย</a></li>
                         </ul>
                     </li>
+                </ul>
+                <ul class="nav navbar-nav language visible-lg-block ">
+                    <li><a href="#" ng-click="changeLanguage('en')">English</a></li>
+                    <li class="line">&nbsp;</li>
+                    <li><a href="#" ng-click="changeLanguage('th')">ภาษาไทย</a></li>
                 </ul>
             </div>
             <!-- /.navbar-collapse -->

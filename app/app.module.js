@@ -9,8 +9,24 @@ thailuxuryApp.config(function ($translateProvider) {
 });
 
 
+
 thailuxuryApp.run(function ($rootScope, $translate) {
+
+    $translate.use() === 'en'?$rootScope.lang = "ไทย" : $rootScope.lang = 'EN';
+
     $rootScope.changeLanguage = function (key) {
-        $translate.use(key);
+        if(key && key != ''){
+            $translate.use(key);
+        }
+        else{
+            if($translate.use() === 'en'){
+                $translate.use('th');
+                $rootScope.lang = 'EN'
+            }else
+            {
+                $translate.use('en');
+                $rootScope.lang = 'ไทย'
+            }
+        }
     };
 });
