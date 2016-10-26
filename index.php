@@ -36,13 +36,13 @@
                     <li class="dropdown">
                         <a href="/hotels.resorts" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ 'NAV_HOTELS' | translate }}<span class="caret"></span></a>
                         <ul class="dropdown-menu">
-                            <li><a href="#">{{ 'NAV_NORTHTH' | translate }}</a></li>
+                            <li><a href="/hotels.resorts#northern">{{ 'NAV_NORTHTH' | translate }}</a></li>
                             <li><a href="/hotels.resorts#central">{{ 'NAV_CENTRAL' | translate }}</a></li>
                             <li><a href="/hotels.resorts#southern">{{ 'NAV_SOUTHEN' | translate }}</a></li>
                         </ul>
                     </li>
                     <li>
-                        <a href="#">{{ 'NAV_DINING' | translate }}</a>
+                        <a href="/find.dining">{{ 'NAV_DINING' | translate }}</a>
                     </li>
                     <li>
                         <a href="#">{{ 'NAV_LIFTIME' | translate }}</a>

@@ -1,0 +1,43 @@
+
+
+.header-parallax {
+    /* The image used */
+    background-image: url("/images/dining/nahm-southern curry of mudcrab.jpeg");
+
+    background-repeat: no-repeat;
+    background-size: contain;
+
+    margin-top: -20px;
+}
+
+.content-dining{
+    height: auto;
+}
+
+.remove-height{
+    height: auto !important;
+    min-height: 0px !important;
+}
+
+@media (min-width: 768px){
+    .header-parallax {
+        /* The image used */
+        background-image: url("/images/dining/nahm-southern curry of mudcrab.jpeg");
+
+        /* Set a specific height */
+        height: 900px !important;
+        min-height: 900px !important;
+     
+
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+
+        margin-top: -20px;
+    }
+
+    .content-dining{
+        height: 650px;
+    }
+
+}

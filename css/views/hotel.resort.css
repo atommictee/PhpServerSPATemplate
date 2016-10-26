@@ -6,10 +6,16 @@
 
     /* Set a specific height */
     height: 800px !important;
-
-    /* Create the parallax scrolling effect */
+    min-height: 800px !important;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+
+    margin-top: -20px;
+}
+
+.header-parallax.sm{
+        /* Set a specific height */
+    height: 400px !important;
 }

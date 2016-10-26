@@ -153,20 +153,6 @@ body {
         height: 250px;
     }
 
-.parent {
-    width: 100%;
-    position: relative;
-    resize: vertical;
-    overflow: auto;
-}
-.child {
-    position: absolute;
-    top: 50%;
-    left: 20px;
-    right: 20px;
-    margin-top: -70px;
-    padding: 20px;
-}
 
 .header-parallax > div{
     height: 100%;
@@ -206,4 +192,20 @@ body {
         margin-left: 20%;
         margin-right: 20%;
     }
+
+    .parent {
+        width: 100%;
+        position: relative;
+        resize: vertical;
+        overflow: hidden;
+    }
+    .child {
+        position: absolute;
+        top: 50%;
+        left: 20px;
+        right: 20px;
+        margin-top: -70px;
+        padding: 20px;
+    }
+
 }

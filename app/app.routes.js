@@ -8,6 +8,10 @@ thailuxuryApp.config(function($routeProvider, $locationProvider) {
 		.when('/hotels.resorts', {
   			templateUrl: 'app/components/hotels.resorts/view.html'
   		})
+	
+		.when('/find.dining', {
+  			templateUrl: 'app/components/dining/view.html'
+  		})
 
 			
 
