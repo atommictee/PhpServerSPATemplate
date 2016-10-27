@@ -290,4 +290,34 @@ var translationsEN = {
         DINNING_ITALY_SS_H : 'Sensi',
         DINNING_ITALY_SS_P1 : 'Sensi offers a seductive dining experience, engaging all the senses in an artistic display of culinary prowess. Importing the majority of the ingredients from Europe, Chef Christian Martena is guided by a desire to showcase the best of the Italian culinary tradition while at the same time challenging and surprising his guests.',
 
+
+        DINNING_RISING_H : 'Form The Land of the Rising Sun',
+
+        DINNING_RISING_MD_H : 'Mugendai',
+        DINNING_RISING_MD_P1 : 'Mugendai is a testament to the proud Japanese culinary tradition of using purely the best, seasonal ingredients in the most natural way possible, resulting in an authentic fine dining experience.',
+        
+        DINNING_RISING_ZA_H : 'Zuma',
+        DINNING_RISING_ZA_P1 : 'Zuma offers a highly conceptualised, contemporary Japanese dining experience that has been replicated to great success across the world. At the core of the concept is a bold and creative approach to traditional Izakaya-style dining and drinking.',
+
+        DINNING_RISING_ST_H : 'Signature',
+        DINNING_RISING_ST_P1 : 'Through a succession of small plates containing freshly imported fish and seafood prepared with meticulous attention to detail, the chefs at Signature demonstrate a high level of originality, an eye for presentation and an unyielding commitment to high quality ingredients.',
+
+        DINNING_RISING_YT_H : 'Yamazato',
+        DINNING_RISING_YT_P2 : 'The award-winning Yamazato is a fine dining restaurant located in The Okura Prestige Bangkok hotel. With two teppanyaki tables, a private dining room and premium seafood from Tokyo’s famed Tsukiji Market, Yamazato promises to satisfy any and all cravings for Japanese fare.',
+
+
+        DINNING_SPECIAL_H : 'Special Treats',
+
+        DINNING_SPECIAL_GG_H : 'Gaggan',
+        DINNING_SPECIAL_GG_P1 : 'Chef Gaggan Anand’s readiness to subvert convention and push the boundaries of his native Indian cuisine has propelled him to the forefront of Thailand’s dining scene. His vivid imagination shocks, surprises and delights and breaks the mould of a rich culinary tradition.',
+        
+        DINNING_SPECIAL_EM_H : 'Eat Me',
+        DINNING_SPECIAL_EM_P1 : 'A passionate promoter of sustainability, American chef Tim Butler delivers a constantly evolving range of dishes that can be described both as comfort food and refined cuisine. Served with little pomp and pretence, the focus is on sustainability, seasonality and clean flavours.',
+
+        DINNING_SPECIAL_AT_H : 'Afternoon Tea at Author’s Lounge',
+        DINNING_SPECIAL_AT_P1 : 'Served in the historic Author’s Lounge at the Mandarin Oriental Bangkok Hotel, the afternoon tea is the perfect marriage between old English charm and time-honed Siamese hospitality tradition.',
+
+        DINNING_SPECIAL_ST_H : 'Surf & Turf Champagne Brunch',
+        DINNING_SPECIAL_ST_P2 : 'A logistical feat as much as a epicurean Elysium, the once-monthly Surf & Turf Champagne brunch is a display of the world’s most luxurious foodstuffs. Painstakingly sourced and imported from all over the world, the spread has the highest concentration of gourmet food diners will find in Bangkok.',
+
 }
