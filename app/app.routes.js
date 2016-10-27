@@ -13,6 +13,30 @@ thailuxuryApp.config(function($routeProvider, $locationProvider) {
   			templateUrl: 'app/components/dining/view.html'
   		})
 
+		.when('/once.lift.time', {
+  			templateUrl: 'app/components/once.lifetime/view.html'
+  		})
+
+		.when('/after.dark', {
+  			templateUrl: 'app/components/after.dark/view.html'
+  		})
+
+
+		.when('/made.thailand', {
+  			templateUrl: 'app/components/made.thailand/view.html'
+  		})
+
+
+		.when('/wellness', {
+  			templateUrl: 'app/components/wellness/view.html'
+  		})
+
+
+		.when('/medical.tourism', {
+  			templateUrl: 'app/components/medical.tourism/view.html'
+  		})
+
+
 			
 
 	.otherwise(

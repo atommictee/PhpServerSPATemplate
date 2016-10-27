@@ -35,7 +35,7 @@ body {
 
 
 
-    .navbar-inverse .navbar-nav>li>a {
+    .navbar-inverse .navbar-nav>li a {
         color: #CEAB21;
     }
 
@@ -79,6 +79,7 @@ body {
     .content-width.col-two > div, .content-width.col-one > div{
         height: 600px;
         min-height: 400px;
+        
     }
 
     .content-width .content-left{
@@ -203,9 +204,11 @@ body {
         border-color: #DADADA;
     }
 
-    .navbar-inverse .navbar-nav>li>a:focus, .navbar-inverse .navbar-nav>li>a:hover {
-        color: #9C2318;
+    .navbar-inverse .navbar-nav>li>a:focus, .navbar-inverse .navbar-nav>li>a:hover,
+    .navactive > a{
+        color: #9C2318 !important;
     }
+
 
     .content-width .content-text-body{
         padding: 15px;
@@ -228,4 +231,8 @@ body {
         padding: 20px;
     }
 
+    .col-one{
+        background-color: #9C2318;
+        color: #fff;
+    }
 }

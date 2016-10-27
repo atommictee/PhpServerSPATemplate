@@ -15,7 +15,7 @@
 </head>
 <body>
     <!-- Navigation -->
-    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation" ng-controller="HeaderController">
         <div class="container">
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header">
@@ -33,10 +33,10 @@
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
-                    <li>
+                    <li ng-class="{navactive: isActive('/')}">
                         <a href="/">{{ 'NAV_HOME' | translate }}</a>
                     </li>
-                    <li class="dropdown">
+                    <li class="dropdown" ng-class="{navactive: isActive('/hotels.resorts')}">
                         <a href="/hotels.resorts" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ 'NAV_HOTELS' | translate }}<span class="caret"></span></a>
                         <ul class="dropdown-menu">
                             <li><a href="/hotels.resorts#northern">{{ 'NAV_NORTHTH' | translate }}</a></li>
@@ -44,23 +44,23 @@
                             <li><a href="/hotels.resorts#southern">{{ 'NAV_SOUTHEN' | translate }}</a></li>
                         </ul>
                     </li>
-                    <li>
+                    <li ng-class="{navactive: isActive('/find.dining')}">
                         <a href="/find.dining">{{ 'NAV_DINING' | translate }}</a>
                     </li>
-                    <li>
-                        <a href="#">{{ 'NAV_LIFTIME' | translate }}</a>
+                    <li ng-class="{navactive: isActive('/once.lift.time')}">
+                        <a href="/once.lift.time">{{ 'NAV_LIFTIME' | translate }}</a>
                     </li>
-                    <li>
-                        <a href="#">{{ 'NAV_AFTERDARK' | translate }}</a>
+                    <li ng-class="{navactive: isActive('/after.dark')}">
+                        <a href="/after.dark">{{ 'NAV_AFTERDARK' | translate }}</a>
                     </li>
-                    <li>
-                        <a href="#">{{ 'NAV_MADEINTH' | translate }}</a>
+                    <li ng-class="{navactive: isActive('/made.thailand')}">
+                        <a href="/made.thailand">{{ 'NAV_MADEINTH' | translate }}</a>
                     </li>
-                    <li>
-                        <a href="#">{{ 'NAV_WELLNESS' | translate }}</a>
+                    <li ng-class="{navactive: isActive('/wellness')}">
+                        <a href="/wellness">{{ 'NAV_WELLNESS' | translate }}</a>
                     </li>
-                    <li>
-                        <a href="#">{{ 'NAV_MEDICALTOURISM' | translate }}</a>
+                    <li ng-class="{navactive: isActive('/medical.tourism')}">
+                        <a href="/medical.tourism">{{ 'NAV_MEDICALTOURISM' | translate }}</a>
                     </li>
                     <li class="dropdown hidden-lg">
                         <a href="#">{{ 'NAV_LANG' | translate }}<span class="caret"></span></a>

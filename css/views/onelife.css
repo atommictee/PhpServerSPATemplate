@@ -2,17 +2,14 @@
 
 .header-parallax {
     /* The image used */
-    background-image: url("/images/dining/nahm-southern curry of mudcrab.jpeg");
+    background-image: url("/images/lifetime/image (16).jpeg");
 
     background-repeat: no-repeat;
-
-
     background-position: center;
     background-size: cover;
-
     margin-top: -20px;
 
-        height: 100% !important;
+    height: 100% !important;
     min-height: 300px !important;
 }
 
@@ -28,11 +25,11 @@
 @media (min-width: 768px){
     .header-parallax {
         /* The image used */
-        background-image: url("/images/dining/nahm-southern curry of mudcrab.jpeg");
+        background-image: url("/images/lifetime/image (16).jpeg");
 
         /* Set a specific height */
-        height: 900px !important;
-        min-height: 900px !important;
+        height: 800px !important;
+        min-height: 800px !important;
      
 
         background-position: center;
