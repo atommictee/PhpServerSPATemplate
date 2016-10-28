@@ -4,12 +4,34 @@ var translationsTH = {
             NAV_NORTHTH: 'ภาคเหนือ',
             NAV_CENTRAL: 'ภาคกลาง & ตะวันออก',
             NAV_SOUTHEN: 'ภาคใต้',
-        NAV_DINING: 'อาหารและเครื่องดื่ม',
-        NAV_LIFTIME: 'ครั้งหนึ่งในชีวิต',
-        NAV_AFTERDARK: 'ยามค่ำคืน',
-        NAV_MADEINTH: 'เมดอินไทยแลนด์',
-        NAV_WELLNESS: 'สุขภาพ',
+        NAV_DINING: 'อาหารเลิศหรู',
+            NAV_MICHELIN: 'สายสัมพันธ์ระดับมิชลิน',
+            NAV_FRENCH: 'ต้นตำรับอาหารฝรั่งเศส',
+            NAV_FLAVOURSTH: 'รสชาติแห่งอาหารไทย',
+            NAV_IMPERIAL: 'รื่นรมย์เยี่ยงจักรพรรดิ',
+            NAV_WITHLOVEITALY: 'ด้วยรักจากอิตาลี',
+            NAV_RISINGSUN: 'จากดินแดนอาทิตย์อุทัย',
+            NAV_SPECIALTREATS: 'บริการเอาอกเอาใจเป็นพิเศษ',
+        NAV_LIFTIME: 'สักครั้งหนึ่งในชีวิต',
+            NAV_YACHTING : 'แล่นเรือยอร์ช',
+            NAV_GOFFING : 'ตีกอล์ฟ',
+        NAV_AFTERDARK: 'ท่องราตรี',
+            NAV_WISKY: 'แชมเปญ ซิการ์ และวิสกี้',
+            NAV_CLUBS: 'คลับ และบาร์',
+            NAV_BEACH: 'บีชคลับ',
+        NAV_MADEINTH: 'ผลิตภัณฑ์',
+            NAV_FASHION: 'แฟชั่น',
+            NAV_JEWELLERY: 'เพชรพลอย',
+            NAV_SPA: 'ผลิตภัณฑ์สปา',
+            NAV_BESPOKE: 'งานออกแบบและตกแต่งภายใน',
+            NAV_LUXURYSHOP: 'รายชื่อแหล่งชอปปิ้ง',
+        NAV_WELLNESS: 'ท่องเที่ยวเพื่อสุขภาพ',
+            NAV_SPAMASSAGE: 'สปาและการนวดผ่อนคลาย',
+            NAV_YOGA: 'โยคะ',
+            NAV_MEDITATION: 'การทำสมาธิ',
+            NAV_REHAB: 'การพักฟื้นและล้างพิษ',
         NAV_MEDICALTOURISM: 'การแพทย์',
+        NAV_INFORMATION : 'ข้อมูลสำนักงาน',
         NAV_LANG: 'ภาษา',
 
         INTRO_H : 'บทนำ',
@@ -202,119 +224,199 @@ var translationsTH = {
         HOTEL_SOUTHRN_FSK_H : 'โรงแรมโฟว์ซีซั่นส์ รีสอร์ท เกาะสมุย',
         HOTEL_SOUTHRN_FSK_P1 : 'เปรียบประหนึ่งบริการขั้นสุดยอดและการเป็นเจ้าบ้านสุดวิเศษในแบบไทยอย่างแท้จริง พบได้ที่วิลล่าริมเขาส่วนตัวแห่งโฟว์ซีซั่นส์ รีสอร์ท เกาะสมุย พักผ่อนอย่างแสนสบายให้ความเยาว์กลับฟื้นคืนมา เสน่ห์ของภาพความชุ่มชื้นและความงามแห่งอ่าวไทยก่อให้เกิดความงดงามเมื่อได้เห็น อาหารและบริการในแบบที่มั่นใจได้ว่าตรงตามประสงค์ของแขกทุกคนที่ได้มาพัก ไม่ว่าจะเลือกไปตามจุดท่องเที่ยวใกล้เคียงบนเกาะ หรืออยากจะไปที่พิเศษอื่นใด รับรองได้ว่าเมื่อได้มาพักสักครั้งแล้วจะต้องกลับมาเยือนอีกตลอดไป ',
 
-         DINNING_FRENCH_H : 'The French Tradition',
+        DINNING_H : 'อาหารเลิศหรู ต้องลองลิ้มสักครั้งในชีวิต',
+        DINNING_P1 : 'จากหลากหลายภัตตาคารสุดหรูระดับมิชลินสตาร์ สู่อาหารที่มาจากครัวทั่วทุกมุมโลก จนถึงรสชาติในแบบไทยที่จะไม่วันลืมเลือน ความหลากหลายของอาหารในอาณาจักรแห่งนี้ขยับระดับขึ้นไปแล้ว',
+      
+        DINNING_MICHELIN_H : 'สายสัมพันธ์ระดับมิชลิน',
 
-        DINNING_LB_H : 'Le Beaulieu',
-        DINNING_LB_P1 : 'Chef Hervé Frerard masters the challenging task of serving classic French food that is both satisfyingly familiar and surprisingly fresh. Embracing seasonality and using a blend of imported and local products, Hervé brings out the detail and simplicity of each ingredient to maximum effect.',
+        DINNING_MICHELIN_LD_H : 'ห้องอาหารลัตตาลิเย เดอ โจเอล โรบูชง',
+        DINNING_MICHELIN_LD_P1 : 'ลองลิ้มอาหารฝรั่งเศสในบรรยากาศสุดเลิศหรูแต่ร่วมสมัย การผสมผสานงานสร้างสรรค์ขั้นสูงจากเชฟและแขกคือสูตรที่ทำให้ครัวแห่งนี้ได้รับรางวัลในอีกหลายเมืองทั่วโลก',
 
-        DINNING_LN_H : 'Le Normandie',
-        DINNING_LN_P1 : 'A formidable showcase and bastion of French haute cuisine, Le Normandie at Mandarin Oriental Bangkok offers a synthesis of fine French cuisine, impeccable service and an opulent venue overlooking the Chao Phraya River.',
+        DINNING_MICHELIN_ST_H : 'ห้องอาหารซาเวิลเบิร์ก ไทยแลนด์',
+        DINNING_MICHELIN_ST_P1 : 'ห้องอาหารนอกประเทศแห่งแรกของเชฟชาวดัชต์ Henk Savelberg เจ้าของห้องอาหารรางวัลมิชลินสตาร์มากมายหลายแห่งในเนเธอร์แลนด์มามากกว่าสามทศวรรษ สัมผัสอาหารฝรั่งเศสร่วมสมัยที่หลับตาทุกครั้งแล้วต้องคิดถึงเลยทีเดียว',
 
-        DINNING_WL_H : 'Water Library',
-        DINNING_WL_P1 : 'Casual dining concept by day and  ne dining establishment by night, Water Library at Chamchuri Square is the height of good taste. One of  ailand’s most comprehensive wine collections and certainly the most expansive water collection complement a menu that is highly technical, imaginative and original.',
+        DINNING_MICHELIN_SKK_H : 'ห้องอาหารสระบัว บาย กิน กิน',
+        DINNING_MICHELIN_SKK_P1 : 'ด้วยการดัดแปลงอาหารไทยเชฟ Henrik Yde-Andersen ได้รับรางวัลมิชลินสตาร์ เมื่อปี 2550 จากห้องอาหาร Kiin Kiin ในกรุงโคเปนเฮเกน สำหรับกรุงเทพ เชฟ Henrik เปลี่ยนอาหารแบบดั้งเดิมเป็นการรังสรรค์รสสัมผัสจากองค์ประกอบหลากหลายในแบบเอเชียร่วมสมัย',
+
+        DINNING_MICHELIN_N_H : 'ห้องอาหารน้ำ',
+        DINNING_MICHELIN_N_P1 : 'จากการกล้าค้นคว้าและลองทำของเชฟชาวออสเตรเลีย David Thompson จนได้รับเป็นผู้ดูแลอาหารไทย ภายใต้การประคบประหงมของ David ห้องอาหารนาม (ที่โรงแรมเมโทรโพลิแตน กรุงเทพ ฯ - Metropolitan Bangkok) กลายเป็นเครื่องประกันคุณภาพของครัวไทยแบบดั้งเดิมที่ชนะใจทั้งคนไทยและชาวต่างชาติ',
+
+        DINNING_MICHELIN_GG_H : 'ห้องอาหารกินซา อิชิ ซูชิ',
+        DINNING_MICHELIN_GG_P1 : 'วัตถุดิบส่งตรงจากตลาดปลาทสึคิจิ (Tsukiji Fish Market) ในกรุงโตเกียวทุกวัน ผสมผสานกับเทคนิคการทำซูชิแบบเอโดะดั้งเดิมจากเชฟที่ได้รับการฝึกฝนเป็นอย่างดี อิชิซูชิขอนำเสนอสุดยอดซูชิญี่ปุ่นดั้งเดิมที่สุดในกรุงเทพ ร้านต้นตำรับในโตเกียวได้รับรางวับมิชลินสตาร์ตั้งแต่ปี 2554-2555',
+
+        DINNING_MICHELIN_A_H : 'ห้องอาหารอาเซียมันดิ (พังงา ภูเก็ต)',
+        DINNING_MICHELIN_A_P1 : 'อัจฉริยะเชฟชาวสเปน Eneko Atxa ปลุกสัมผัสทั้งห้าจากอาหารที่ปรุงแต่งพร้อมสรรพด้วยรูป รส กลิ่น และสัมผัส ความเป็นชาวบาสค์และแรงบันดาลใจจากรสชาติอาหารไทย Eneko จะทำให้แขกจะปลื้มกับอาหารที่ไม่เหมือนใครจากครัวแห่งนี้',
+
+        DINNING_MICHELIN_JM_H : 'ห้องอาหารแฌม บาย ฌอง-มิเชล โลรอง',
+        DINNING_MICHELIN_JM_P1 : 'เชฟฌอง-มิเชล โลรอง (Jean-Michel Lorain)  หนึ่งในบรรดาเชฟมิชลินสตาร์ของโลกไม่กี่คนที่ได้รางวัลนี้ถึงสามครั้งในระยะเกือบสามสิบปี ผู้เป็นเชฟเพชรน้ำหนึ่งในวงการอาหารฝรั่งเศสสุดหรู ที่แฌม นี้เขาผันจากอาหารฝรั่งเศสดั้งเดิมไปสู่เมนูที่ได้รับแรงบันดาลใจแบบเอเชียที่สามารถแบ่งกันลิ้มลองได้ มุ่งบริการเป็นส่วนตัวและใส่ใจในรายละเอียดอย่างพิถีพิถัน',
+
+
+        DINNING_FRENCH_H : 'ต้นตำรับอาหารฝรั่งเศส',
+
+        DINNING_LB_H : 'ห้องอาหารเลอโบลิเออร์',
+        DINNING_LB_P1 : 'เชฟ Harvé Frerard รับผิดชอบหน้าที่อันท้าทายของการบริการอาหารฝรั่งเศสแบบคลาสสิคที่คุณจะพึงพอใจและสดชื่นอย่างน่าประหลาด  ด้วยเครื่องปรุงและความกลมกลืนของวัตถุดิบจากทั้งในและนอกประเทศเชฟสามารถดึงรายละเอียดและความเรียบง่ายของส่วนผสมมานำเสนอได้สุดวิเศษ',
+
+        DINNING_LN_H : 'ห้องอาหารเลอ นอร์มันดี',
+        DINNING_LN_P1 : 'อาหารอันน่ายำเกรงและห้องอาหารฝรั่งเศสระดับยอดหรูหรา เลอ นอร์มันดี แห่งโรงแรมแมนดาริน โอเรียลเต็ล กรุงเทพ ฯ  คือ ที่รวมแห่งอาหารฝรั่งเศสชั้นเยี่ยม บริการสุดเฉียบไร้ที่ติ และสถานที่ชมภาพความงามแห่งลำน้ำเจ้าพระยาอันงดงาม',
+
+        DINNING_WL_H : 'ห้องอาหารวอเตอร์ ไลบรารี่',
+        DINNING_WL_P1 : 'หากต้องการห้องอาหารแบบสบายสำหรับมื้อกลางวันและอาหารสุดหรูในมื้อค่ำ วอเตอร์ ไลบรารี่ บนอาคารจามจุรีสแควร์เป็นตัวเลือกระดับต้น นี่คือห้องอาหารที่มีไวน์ให้เลือกมากมายที่สุดแห่งหนึ่งของไทย และเมนูอาหารที่ร้านเครื่องดื่มราคาแพงเช่นนี้ย่อมใช้เทคนิคการปรุงขั้นสูง มีจินตนาการและเป็นอาหารต้นตำรับ',
 
         DINNING_BKS_H : 'H Bistro (Koh Samui)',
-        DINNING_BKS_P1 : 'Inspired by the  avours of the French Mediterranean, H Bistro at Hansar Koh Samui o ers a re ned epicurean experience in a relaxed seaside setting. The menu is governed by fresh local and imported seafood, Mediterranean spices and an extensive wine list.',
+        DINNING_BKS_P1 : 'ถือกำเนิดจากแรงบันดาลใจจากรสชาติของอาหารฝรั่งเศสแถบเมดิเตอร์เรเนียน ห้องอาหาร H Bistro ของโรงแรมหรรษา เกาะสมุย ปรับแต่งอาหารให้สร้างความสำราญใจแบบนั่งผ่อนคลายอยู่ริมทะเล ด้วยวัตถุดิบท้องถิ่นที่สด อาหารทะเลระดับนำเข้าจากต่างประเทศ เครื่องเทศจากเมดิเตอร์เรเนียน และไวน์ราคาแพง',
 
-        DINNING_M_H : 'Mezzaluna',
-        DINNING_M_P1 : 'With a location on the 63rd floor high above the streets of Bangkok, Mezzaluna at five-star hotel lebua offers a menu as mesmerising as its dazzling views, using familiar French techniques to create unfamiliar forms and flavours.',
+        DINNING_M_H : 'ห้องอาหารเมซซาลูนา',
+        DINNING_M_P1 : 'จากทำเลที่ตั้งบนชั้น 63 ของโรงแรมระดับห้าดาวนามเลอบัวบนถนนสายหลักของกรุงเทพ รายการอาหารของห้องอาหารเมซาลูนานี้จึงน่าหลงใหลพอกันกับทิวทัศน์อันระยิบระยับ ด้วยเทคนิคการปรุงแบบฝรั่งเศสที่เคยคุ้นแต่สร้างสรรค์อาหารให้มีรสชาติและรูปลักษณ์แบบที่ไม่เคยพบมาก่อน',
 
-        DINNING_TSM_H : 'Farang Ses (Chiang Mai)',
-        DINNING_TSM_P1 : 'The signature fine dining outlet of Chiang Mai’s famous Dhara Dhevi hotel, Farang Ses combines superb cuisine, beautiful décor and spectacular views of the surrounding area. It’s one of the most revered French restaurants in Thailand and the most well-respected fine dining establishment in the north.',
+        DINNING_TSM_H : 'ห้องอาหารฝรั่งเศส (เชียงใหม่) ',
+        DINNING_TSM_P1 : 'ห้องอาหารหรูลือชื่อของโรงแรมดาราเทวีเชียงใหม่อันโด่งดัง ฝรั่งเศส คือห้องอาหารที่ผสมผสานสุดยอดการปรุง การตกแต่งร้านและภาพทิวทัศน์รอบด้านอันงดงามไว้ด้วยกัน ที่นี่เป็นหนึ่งในบรรดาห้องอาหารฝรั่งเศสที่มีชื่อเสียงมากที่สุดในไทยและเป็นที่น่ายกย่องมากที่สุดในภาคเหนืออีกด้วย',
 
-        DINNING_FLAVOURS_H : 'The Flavours of  Thailand',
+        DINNING_FLAVOURS_H : 'รสชาติแห่งอาหารไทย',
 
-        DINNING_LGLM_H : 'Le Grand Lanna (Chiang Mai)',
-        DINNING_LGLM_P1 : 'Set against an attractive Lanna-style backdrop with raised wooden pavilions and precious antiques, Le Grand Lanna at Dhara Dhevi Chiang Mai serves authentic specialties that reflect the rich culinary tradition of northern Thailand, using local, seasonal ingredients.',
+        DINNING_LGLM_H : 'ห้องอาหารเลอกรอง ล้านนา (เชียงใหม่)',
+        DINNING_LGLM_P1 : 'ฉากหลังแบบล้านนาอันน่ามองและศาลาไม้ทรงไทยรายรอบด้วยของโบราณที่ใช้ตกแต่งของห้องอาหารเลอกรอง ล้านนาแห่งโรงแรมดาราเทวี ที่นี่รับรองด้วยอาหารไทยดั้งเดิมสุดพิเศษหลากหลายรายการที่สะท้อนวัฒนธรรมประเพณีภาคเหนือของไทยด้วยวัตถุดิบและเครื่องปรุงจากท้องถิ่น',
 
-        DINNING_SRN_H : 'Sala Rim Naam',
-        DINNING_SRN_P1 : 'An institution for decades, Sala Rim Naam, signature outlet of the famed Mandarin Oriental Bangkok, blends the culinary with the cultural, serving traditional Thai cuisine in an elaborate northern-style pavilion on the banks of the majestic Chao Phraya River.',
+        DINNING_SRN_H : 'ห้องอาหารศาลาริมน้ำ',
+        DINNING_SRN_P1 : 'ศาลาริมน้ำ สถาบันแห่งทศวรรษเป็นห้องอาหารมีชื่อของโรงแรมแมนดาริน โอเรียนเต็ล กรุงเทพ หล่อหลอมงานด้านอาหารเข้ากับวัฒนธรรมด้วยบริการอาหารไทยต้นตำรับในศาลาไทยแบบล้านนาอันประณีตงดงามที่ตั้งอยู่ริมฝั่งแม่น้ำเจ้าพระยาอันเรืองรอง',
 
-        DINNING_BL_H : 'Bo.lan',
-        DINNING_BL_P1 : 'Owner and chef team Dylan Jones and Duangporn Songvisava’s culinary concept is a carefully planned and cleverly executed celebration of Thailan’s rich pantry. Championing sustainability and product diversity, the chefs manage the difficult task of bridging the “then” and “now” of Thai cuisine.',
+        DINNING_BL_H : 'ห้องอาหารโบลาน',
+        DINNING_BL_P1 : 'จากความคิดของเจ้าของและหัวหน้าทีมเชฟ ดีแลน โจนส์ (Dylan Jones) และดวงพร ทรงวิศวะ ที่ต้องการวางแผนให้รอบคอบและนำเสนอความหลากหลายของอาหารไทยแบบชาญฉลาด ยืนหยัดในการเป็นผู้นำและนำเสนออาหารแบบหลากหลาย จึงเกิดเป็นแนวคิดเชื่อมต่ออาหารไทยแบบ “เมื่อก่อน” ให้เข้ากับแบบ “ปัจจุบัน”',
 
-        DINNING_LSC_H : 'Issaya Siamese Club',
-        DINNING_LSC_P1 : 'Set in a beautifully restored colonial-style building and surrounded by lush gardens,  ai celebrity chef Ian Kittichai’s Issaya Siamese Club invites guests into a creative culinary universe with every dish designed to tell a story or evoke an emotion.',
+        DINNING_LSC_H : 'ห้องอาหารอิษยา สยามมีส คลับ',
+        DINNING_LSC_P1 : 'ห้องอาหารอิษยา อาคารสไตล์โคโลเนียลอันงดงาม ล้อมรอบด้วยสวนสวย ของเชฟชื่อดัง เอียน กิตติชัย เชื้อเชิญให้ลิ้มลองผลงานอาหารที่สร้างสรรค์ในแบบที่ทุกจานมีเรื่องราวในตัวเองหรือปลุกความรู้สึกของคุณได้',
 
-        DINNING_LD_H : 'Le Du',
-        DINNING_LD_P1 : 'Smell, sight and  avour are the guiding principless of chef  itid Tassanakajohn’s culinary o ering at Le Du. Using modernist tech- niques and a novel approach to  ai cuisine, the young chef plays with taste, texture and temperature to deliver a dining experience with lasting impact.',
+        DINNING_LD_H : 'ห้องอาหารฤดู',
+        DINNING_LD_P1 : 'กลิ่นอาหาร ความน่ามองและรสชาติคือหลักการทำงานของเชฟ ธิติฏฐ์ ทัศนาขจร ณ ห้องอาหารฤดู ด้วยการใช้เทคนิคสมัยใหม่กับเรื่องราวที่เข้าถึงอาหารไทย เชฟหนุ่มผู้นี้จึงใช้ลูกเล่นของรส เนื้อสัมผัสและอุณหภูมินำเสนออาหารที่ทำให้ถูกใจจนคำสุดท้าย',
 
-        DINNING_P_H : 'Paste',
-        DINNING_P_P1 : 'Paste is part of a wave of restaurants rede ning modern  ai food, showcasing daring culinary innovation while at the same time re- maining respectful of  ailand’s rich culinary heritage. Constantly evolving dishes are inspired by age-old recipe books and enhanced by champion technique.',
+        DINNING_P_H : 'ห้องอาหารเพสท์',
+        DINNING_P_P1 : 'คลื่นลูกหนึ่งของการเปลี่ยนโฉมห้องอาหารแบบไทย ที่กล้าใช้นวัตกรรมการทำอาหารแต่ยังคงไว้ซึ่งความเคารพในมรดกแห่งภูมิปัญญาของอาหารไทยแบบดั้งเดิม นำเอาตำรับเก่าแก่มาพัฒนาอย่างต่อเนื่องด้วยการใช้เทคนิคหลากหลาย',
 
-        DINNING_JKS_H : 'Jahn (Koh Samui)',
-        DINNING_JKS_P1 : 'Jahn takes diners on a culinary journey through the multifaceted tradition of Thai cuisine. Expert execution and artistic presentation guide a menu that blends fine imported ingredients with the freshest local produce.',
+        DINNING_JKS_H : 'ห้องอาหารจาน (เกาะสมุย)',
+        DINNING_JKS_P1 : 'จาน ห้องอาหารที่พาท่านเดินทางสู่ดินแดนอาหารไทยดั้งเดิมที่หลากหลายรูปแบบ การนำเสนออย่างชำนาญและมีศิลปะด้วยรายการอาหารที่ผสมผสานวัตถุดิบนำเข้าจากต่างประเทศและผลิตภัณฑ์สุดสดใหม่ของประเทศเข้าด้วยกัน ',
 
-        DINNING_BEP_H : 'Blue Elephant (Phuket)',
-        DINNING_BEP_P1 : 'Located at the site of the historic 105-year-old Phra Pitak Chinpracha Mansion in Phuket, the Blue Elephant restaurant is a national marvel of culinary excellence. Crafted by world-renowned chef Noroor Somany Steppe, the restaurant’s exquisite menu is a journey through Thailand’s greatest gastronomic creations – both past and present.',
-
-
-        DINNING_IMPERIAL_H : 'Imperial Pleasures',
-
-        DINNING_IMPERIAL_SP_H : 'Summer Palace',
-        DINNING_IMPERIAL_SP_P1 : 'Set against a sophisticated fine dining backdrop, Summer Palace succeeds in the difficult exercise of remaining true to rich Chinese traditions while at the same time embracing new techniques, unique ingredients and a contemporary style of service.',
-
-        DINNING_IMPERIAL_FY_H : 'Fei Ya',
-        DINNING_IMPERIAL_FY_P1 : 'Using both local and imported ingredients, the chefs at Fei Ya reinvent timeless Cantonese classics. The result is traditional dishes accompanied by and accomplished  using unusual ingredients and served in a contemporary, fine dining environment.',
-
-        DINNING_IMPERIAL_BZ_H : 'Breeze',
-        DINNING_IMPERIAL_BZ_P1 : 'The multifaceted menu at Breeze showcases a high level of culinary innovation with its unique blend of Asian flavours and tradition. With the precision of the Japanese kitchen, the skill of the Chinese and the nerve the Thai, the chefs take diners on a tour around the region’s best cuisines.',
-
-        DINNING_IMPERIAL_SP_H : 'Shang Palace',
-        DINNING_IMPERIAL_SP_P1 : 'Under the tutelage of Hong Kong Chef Sham Yun Ming, Shang Palace serves Cantonese specialties using traditional techniques, earning itself a reputation as one of the most authentic Cantonese restaurants in Bangkok in the process.',
+        DINNING_BEP_H : 'ห้องอาหารบลู เอเลฟแฟ้นท์ (ภูเก็ต)',
+        DINNING_BEP_P1 : 'อยู่บนอาคารเก่าแก่ 105 ปีแห่งบ้านพระพิทักษ์ชินประชาในภูเก็ต ห้องอาหารบลู เอเลฟแฟ้นท์นับเป็นสุดยอดห้องอาหารอันน่าประทับใจแห่งหนึ่งของประเทศ สร้างสรรค์เมนูโดยเชฟชื่อก้องโลก Noroor Somany Steppe รายการอาหารของที่นี่เปรียบเสมือนการได้เดินทางไปทั่วประเทศไทยทั้งในอดีตและปัจจุบัน',
 
 
-        DINNING_IMPERIAL_CH_H : 'China House',
-        DINNING_IMPERIAL_CH_P1 : 'The food at China House is as spectacular as the surroundings in which it is served. The lunchtime dim sum extravaganza is a Bangkok staple while the nighttime offerings showcase a selection of classic Cantonese specialties with modern interpretations.',
+        DINNING_IMPERIAL_H : 'รื่นรมย์เยี่ยงจักรพรรดิ',
+
+        DINNING_IMPERIAL_SP_H : 'ห้องอาหารซัมเมอร์ พาเลซ',
+        DINNING_IMPERIAL_SP_P1 : 'ห้องอาหารตกแต่งตระการตาคงความงาม บริการอาหารจีนดั้งเดิมหลากหลายเทคนิคโดยใช้การปรุงแบบใหม่ และส่วนประกอบในอาหารที่ไม่ซ้ำใคร ด้วยบริการในแบบร่วมสมัย',
+
+        DINNING_IMPERIAL_FY_H : 'ห้องอาหารเฟย ยา',
+        DINNING_IMPERIAL_FY_P1 : 'ด้วยวัตถุดิบทั้งในประเทศและนำเข้าจากต่างประเทศ เชฟของเฟย ยา สร้างสรรค์อาหารจีนกว้างตุ้งแบบคลาสสิคให้ได้ชิมทำให้นำเสนออาหารแบบดั้งเดิมที่ปรุงจากวัตถุดิบไม่เหมือนใคร บริการในบรรยากาศแบบร่วมสมัยในห้องอาหารสุดหรู',
+
+        DINNING_IMPERIAL_BZ_H : 'ห้องอาหารบรีซ',
+        DINNING_IMPERIAL_BZ_P1 : 'รายการอาหารอันหลากหลายของห้องอาหารบรีซ คือ ผลงานแห่งนวัตกรรมอาหารที่ผสมผสานรสชาติและวัฒนธรรมเอเชียได้อย่างกลมกลืนลงตัว ความแม่นยำเรื่องอาหารญี่ปุ่น ทักษะแห่งอาหารจีน และประสาทสัมผัสแห่งอาหารไทย เชฟสามารถพาท่านเดินทางไปยังอาหารที่ดีที่สุดของภูมิภาคเลยที่เดียว',
+
+        DINNING_IMPERIAL_SP_H : 'ห้องอาหารแชง พาเลซ',
+        DINNING_IMPERIAL_SP_P1 : 'เชฟชาวฮ่องกง Shan Yun Ming แห่งแชง พาเลซ นำเสนออาหารจีนกวางตุ้งพิเศษสุดด้วยเทคนิคการปรุงแบบดั้งเดิม ที่นี่จึงเป็นสุดยอดห้องอาหารจีนกวางตุ้งดั้งเดิมในกรุงเทพที่มีชื่อเรื่องกระบวนการปรุงอาหาร.',
 
 
-        DINNING_ITALY_H : 'With Love from Italy',
-
-        DINNING_ITALY_O_H : 'Opus',
-        DINNING_ITALY_O_P1 : 'High quality ingredients rule supreme as Opus takes diners on a culinary journey of Italy’s most loved regional dishes. Using each ingredient to maximum effect, Chef Davide Calo delivers fine Italian cuisine with expert skill and astute invention.',
-
-        DINNING_ITALY_LS_H : 'La Scala',
-        DINNING_ITALY_LS_P1 : 'Long-established as one of Bangkok’s finest Italian restaurants, La Scala is a bastion of traditional Italian cuisine, executed with the utmost respect for the ingredients and presented with refreshingly creative flair.',
-
-        DINNING_ITALY_LBAL_H : 'La Bottega di Luca',
-        DINNING_ITALY_LBAL_P1 : 'With an emphasis on imported, seasonal ingredients, Chef Luca Appino pushes the boundaries of traditional Italian cuisine while simultaneously remaining respectful of his culinary heritage. Taking inspiration from the entire Mediterranean region, he uses traditional Italian ingredients in innovative and unexpected ways.',
-
-        DINNING_ITALY_TJ_H : 'Jojo',
-        DINNING_ITALY_TJ_P1 : 'Cleverly executed traditional Italian cuisine, perfectly polished service and elegant, contemporary surroundings make for a refined culinary experience at Jojo. By day a bustling lunch-time favourite, Jojo turns into a sophisticated restaurant when night falls.',
-
-        DINNING_ITALY_ET_H : 'Enoteca Italiana',
-        DINNING_ITALY_ET_P1 : 'Guided by the mantra of tradition with innovation and inspired by terroir and seasonality, Chef Stefano Merlo turns Italian classics into contemporary eats, each dish telling a story, evoking a memory or prompting an emotion.',
-
-        DINNING_ITALY_SS_H : 'Sensi',
-        DINNING_ITALY_SS_P1 : 'Sensi offers a seductive dining experience, engaging all the senses in an artistic display of culinary prowess. Importing the majority of the ingredients from Europe, Chef Christian Martena is guided by a desire to showcase the best of the Italian culinary tradition while at the same time challenging and surprising his guests.',
+        DINNING_IMPERIAL_CH_H : 'ห้องอาหารไชน่า เฮาส์',
+        DINNING_IMPERIAL_CH_P1 : 'อาหารของไชน่า เฮาส์น่าตื่นจาตื่นใจมากพอกันกับบรรยากาศของห้องอาหาร บริการด้วยติ่มซำมื้อเที่ยงหลากหลายราวมหกรรม และเมนูจีนกว้างตุ้งคลาสสิคสุดพิเศษในแบบสมัยใหม่สำหรับมื้อค่ำ',
 
 
-        DINNING_RISING_H : 'Form The Land of the Rising Sun',
+        DINNING_ITALY_H : 'ด้วยรักจากอิตาลี',
 
-        DINNING_RISING_MD_H : 'Mugendai',
-        DINNING_RISING_MD_P1 : 'Mugendai is a testament to the proud Japanese culinary tradition of using purely the best, seasonal ingredients in the most natural way possible, resulting in an authentic fine dining experience.',
+        DINNING_ITALY_O_H : 'ห้องอาหารโอปุส',
+        DINNING_ITALY_O_P1 : 'ส่วนประกอบคุณภาพเยี่ยมจะทำให้อาหารดีสุดยอด คือ สิ่งที่ห้องอาหารนี้นำพาไปสู่การเดินทางแห่งการลิ้มรสอาหารอิตาเลี่ยนที่ดีที่สุดของภูมิภาค เชฟ Davide Calo เลือกใช้ส่วนผสมของอาหารแต่ละอย่างที่จะทำให้รสชาติดีที่สุด รวมกับทักษะอันเชี่ยวชาญและการคิดค้นอย่างชาญฉลาดเพื่อนำเสนออาหารอิตาเลี่ยนจานหรู',
+
+        DINNING_ITALY_LS_H : 'ห้องอาหารลา สกาล่า',
+        DINNING_ITALY_LS_P1 : 'ห้องอาหารอิตาเลี่ยนที่ดำเนินกิจการมายาวนานและดีที่สุดแห่งหนึ่งของกรุงเทพมหานคร ลา สกาล่า ห้องอาหารอิตาเลี่ยนดุจดั่งปราการแห่งต้นตำรับอาหารอิตาเลี่ยน ใส่ใจในส่วนประกอบดั้งเดิมของอาหารและนำเสนอแบบสร้างสรรค์',
+
+        DINNING_ITALY_LBAL_H : 'ห้องอาหารลา โบเตกา ดิ ลูกา',
+        DINNING_ITALY_LBAL_P1 : 'เน้นส่วนประกอบอาหารและเครื่องปรุงที่นำเข้าจากต่างประเทศ เชฟ Luca Appino นำเสนออาหารอิตาเลี่ยนดั้งเดิมแนวใหม่แต่ยังคงเคารพไว้ซึ่งมรดกอันเก่าแก่ ด้วยแรงบันดาลใจจากภูมิภาคเมดิเตอร์เรเนียน เชฟจึงนำส่วนประกอบอาหารอิตาเลี่ยนดั้งเดิมมาดัดแปลงและนำเสนอในรูปแบบที่ไม่คาดคิด',
+
+        DINNING_ITALY_TJ_H : 'ห้องอาหารโจโจ้',
+        DINNING_ITALY_TJ_P1 : 'นำเสนออาหารอิตาเลี่ยนต้นตำรับอย่างชาญฉลาด การบริการที่ขัดเกลาอย่างดีเยี่ยม และบรรยากาศร่วมสมัยโก้หรูทำให้ห้องอาหารโจโจ้แห่งนี้คู่ควรกับการไปลิ้มลอง มื้อกลางวันเต็มไปด้วยบรรดาผู้ชื่นชมเมนูประจำ ในขณะที่มื้อเย็นห้องอาหารจะโก้หรูไปอีกแบบยามเมื่ออาทิตย์ตกดิน',
+
+        DINNING_ITALY_ET_H : 'ห้องอาหารอิโนติกาอิตาเลียนา',
+        DINNING_ITALY_ET_P1 : 'มนตราแห่งประเพณี นวัตกรรม และแรงบันดาลใจแห่งโลกเก่าและฤดูกาล เชฟ Stefano Merlo ปรับอาหารอิตาเลี่ยนดั้งเดิมให้เป็นแนวร่วมสมัย แต่ละจานเต็มไปด้วยเรื่องราวที่จะกระตุ้นเตือนความทรงจำได้เป็นอย่างดี',
+
+        DINNING_ITALY_SS_H : 'ห้องอาหารเซนซี',
+        DINNING_ITALY_SS_P1 : 'ลิ้มลองเสน่ห์ของอาหารที่เกี่ยวร้อยทุกความรู้สึกด้วยการกล้านำเสนออย่างมีศิลปะ ส่วนประกอบของอาหารส่วนใหญ่นำเข้ามาจากยุโรป เชฟ Christian Martena ต้องการทำอาหารอิตาเลี่ยนต้นตำรับที่ดีที่สุดด้วยวิธีการนำเสนออันท้าทายและทำให้แขกแปลกใจได้เสมอ',
+
+
+        DINNING_RISING_H : 'จากดินแดนอาทิตย์อุทัย',
+
+        DINNING_RISING_MD_H : 'ห้องอาหารมูเกนได',
+        DINNING_RISING_MD_P1 : 'มูเกนได คือ ข้อพิสูจน์แห่งความภาคภูมิใจในแบบญี่ปุ่นต้นตำรับ ที่เลือกสรรใช้ส่วนผสมของอาหารตามฤดูกาลที่ดีที่สุดอย่างแท้จริงตามวิถีแห่งธรรมชาติมากเท่าที่จะเป็นได้ จนเป็นอาหารเลิศรสขนานแท้ที่คุณจะสัมผัสได้',
         
-        DINNING_RISING_ZA_H : 'Zuma',
-        DINNING_RISING_ZA_P1 : 'Zuma offers a highly conceptualised, contemporary Japanese dining experience that has been replicated to great success across the world. At the core of the concept is a bold and creative approach to traditional Izakaya-style dining and drinking.',
+        DINNING_RISING_ZA_H : 'ห้องอาหารซูม่า',
+        DINNING_RISING_ZA_P1 : 'ห้องอาหารซูม่า มีชื่อเสียงไปก้องโลกด้วยอาหารญี่ปุ่นชั้นเยี่ยมในแบบร่วมสมัยและมีแนวความคิดโดดเด่น ด้วยแนวคิดหลักที่หลากหลายและมีความสร้างสรรค์ตามวิถีดั้งเดิมของการดื่มกินรูปแบบ Izakaya ',
 
-        DINNING_RISING_ST_H : 'Signature',
-        DINNING_RISING_ST_P1 : 'Through a succession of small plates containing freshly imported fish and seafood prepared with meticulous attention to detail, the chefs at Signature demonstrate a high level of originality, an eye for presentation and an unyielding commitment to high quality ingredients.',
+        DINNING_RISING_ST_H : 'ห้องอาหารซิกเนเจ้อร์',
+        DINNING_RISING_ST_P1 : 'ด้วยผลงานความสำเร็จจากอาหารจานเล็กปรุงจากปลาและอาหารทะเลนำเข้าสดใหม่ที่เน้นรายละเอียด บรรดาเชฟแห่งห้องอาหารนี้ได้นำเสนอผลงานชั้นสูงแห่งความเป็นต้นตำรับ ความงดงาม และความน่าเชื่อถือที่ไร้คู่แข่งในเรื่องวัตถุดิบคุณภาพชั้นดี',
 
-        DINNING_RISING_YT_H : 'Yamazato',
-        DINNING_RISING_YT_P1 : 'The award-winning Yamazato is a fine dining restaurant located in The Okura Prestige Bangkok hotel. With two teppanyaki tables, a private dining room and premium seafood from Tokyo’s famed Tsukiji Market, Yamazato promises to satisfy any and all cravings for Japanese fare.',
+        DINNING_RISING_YT_H : 'ห้องอาหารยามาซาโตะ',
+        DINNING_RISING_YT_P1 : 'ห้องอาหารของโรงแรมดิโอกุระ เพรสทีจ กรุงเทพ ฯ ที่ได้รับรางวัลห้องอาหารชั้นเลิศหรู พร้อมบริการด้วยแท่นปรุงเทปปันยากิสองแท่น ห้องอาหารอาหารส่วนตัว และอาหารทะเลชั้นเลิศจากตลาดทสึกิจิอันลือนามแห่งโตเกียวที่จะให้ท่านได้พึงพอใจกับความปรารถนารสชาติแห่งญี่ปุ่น',
 
 
-        DINNING_SPECIAL_H : 'Special Treats',
+        DINNING_SPECIAL_H : 'บริการเอาอกเอาใจเป็นพิเศษ',
 
-        DINNING_SPECIAL_GG_H : 'Gaggan',
-        DINNING_SPECIAL_GG_P1 : 'Chef Gaggan Anand’s readiness to subvert convention and push the boundaries of his native Indian cuisine has propelled him to the forefront of Thailand’s dining scene. His vivid imagination shocks, surprises and delights and breaks the mould of a rich culinary tradition.',
+        DINNING_SPECIAL_GG_H : 'ห้องอาหารกากั้น',
+        DINNING_SPECIAL_GG_P1 : 'ด้วยความเต็มใจของเชฟ Gaggan Anand ที่จะแหวกวงล้อมจากธรรมเนียมแห่งสายเลือดครัวอาหารอินเดียมาสู่แวดวงอาหารไทย จินตนาการอันหลากหลายของเชฟได้สร้างความตะลึงพรึงเพริด ปลื้มเปรมและก้าวผ่านจากรูปแบบวัฒนธรรมรุ่งเรืองแบบดั้งเดิมออกมาได้ ',
         
-        DINNING_SPECIAL_EM_H : 'Eat Me',
-        DINNING_SPECIAL_EM_P1 : 'A passionate promoter of sustainability, American chef Tim Butler delivers a constantly evolving range of dishes that can be described both as comfort food and refined cuisine. Served with little pomp and pretence, the focus is on sustainability, seasonality and clean flavours.',
+        DINNING_SPECIAL_EM_H : 'ห้องอาหารอีทมี',
+        DINNING_SPECIAL_EM_P1 : 'เชฟชาวอเมริกัน Tim Butler ผู้สนับสนุนแนวคิดความยั่งยืนสรรสร้างรายการอาหารหลากหลายที่มอบทั้งความสบายใจและอาหารชั้นยอด ด้วยการมุ่งเน้นแนวคิดในความยั่งยืน จึงนำเสนออาหารแบบเรียบง่าย ตามฤดูกาล และรสชาติที่สดสะอาด',
 
-        DINNING_SPECIAL_AT_H : 'Afternoon Tea at Author’s Lounge',
-        DINNING_SPECIAL_AT_P1 : 'Served in the historic Author’s Lounge at the Mandarin Oriental Bangkok Hotel, the afternoon tea is the perfect marriage between old English charm and time-honed Siamese hospitality tradition.',
+        DINNING_SPECIAL_AT_H : 'ห้องอาหาร Afternoon Tea at Author’s Lounge',
+        DINNING_SPECIAL_AT_P1 : 'น้ำชายามบ่าย ที่จัดรับรอง ณ Author’s Lounge อันทรงคุณค่าทางประวัติศาสตร์ของโรงแรมแมนดาริน โอเรียนเต็ล กรุงเทพ เปรียบเสมือนการแต่งงานอันสมบูรณ์แบบระหว่างเสน่ห์อังกฤษแบบเก่าและธรรมเนียมการเป็นเจ้าบ้านเจ้าเรือนแห่งสยามอันยาวนาน',
 
-        DINNING_SPECIAL_ST_H : 'Surf & Turf Champagne Brunch',
-        DINNING_SPECIAL_ST_P2 : 'A logistical feat as much as a epicurean Elysium, the once-monthly Surf & Turf Champagne brunch is a display of the world’s most luxurious foodstuffs. Painstakingly sourced and imported from all over the world, the spread has the highest concentration of gourmet food diners will find in Bangkok.',
+        DINNING_SPECIAL_ST_H : 'ห้องอาหาร Surf & Turf Champagne Brunch',
+        DINNING_SPECIAL_ST_P2 : 'อาหารควบมื้อเช้าและกลางวันหรือ brunch ที่จัดเดือนละครั้งราวเทศกาลแห่งอาหารจากสรวงสวรรค์ของห้องอาหารนี้ คือ งานแสดงอาหารอันหรูหราที่สุดของโลก ด้วยการมานะอุสาหะคัดสรรและนำเข้าอาหารมาจากทั่วทุกมุมโลก ทำให้นักชิมตั้งตารอคอยเมนูของที่นี่ ',
+
+
+        ONCE_H : 'เพียงสักครั้งหนึ่งในชีวิตนี้',
+        ONCE_P1 : 'เมืองไทยมีเรื่องราวมากมายหลายอย่างที่ควรต้องลองสัมผัสสักเรื่อง คุณค่าแห่งเรื่องราวต่าง ๆ มิได้ตีค่าเพียงแค่ราคา แต่ความเป็นเอกอันไร้ที่ใดเสมอเหมือนแห่งความงดงามและวัฒนธรรมไทย เปรียบประหนึ่งหน้าต่างสู่จิตวิญญาณแห่งอาณาจักรแห่งนี้',
+
+        ONCE_SSC_H : 'จิบแชมเปญชมอาทิตย์อัสดงบนเรือสำราญที่ภูเก็ต',
+        ONCE_SSC_P1 : 'ถือ Perrier Jouet ติดมือไปดื่มฉลองให้กับวันอันแสนงามเมื่อเสร็จสิ้นการล่องเรือสำราญ MY Victory 85 พร้อมดูพระอาทิตย์อัสดง คือความพิเศษสุดที่จัดบริการโดยอันดามันครุยส์ (Andaman-cruises.com/join-day-cruise.html) ที่มีเรือยอร์ชหลายแบบให้เลือกเพื่อการเดินทาง ต้องไม่ลืมหยุดแวะที่แหลมพรหมเทพปลายสุดแห่งเกาะอันเป็นจุดชมลำแสงเหลืองแดงของพระอาทิตย์ยามอัสดงที่งดงามที่สุดบนเกาะนี้',
+
+        ONCE_KYW_H : 'ท่องเที่ยวชิมไวน์ที่เขาใหญ่ด้วยลัมบูร์กินีหรูและเครื่องบินส่วนตัว ',
+        ONCE_KYW_P1 : 'ลองเช่าเครื่องบินเจ็ทส่วนตัว แล้วบินไปร่อนลงจอดที่ลานบินขนงพระ (Khanong Phra Airport) ของชาญวีร์ รีสอร์ท แอนด์คันทรี่คลับ (www.ranchocharnvee.com) หรือจะเรียกบริษัทรถเช่าให้นำลัมบูร์กินี รถยนต์ระดับสุดยอดหรูหรา  มาให้ขับลดเลี้ยวไปยังอุทยานแห่งชาติเขาใหญ่ในแบบสุดหรูอลังการ (www.prestigecarrentalbangkok.com) แล้วเยี่ยมชมไร่องุ่นกรานมอนเต ไร่องุ่นที่สวยงามที่สุดแห่งหนึ่งในเมืองไทย (www.grandmonte.com) ก่อนจะกลับมาค้างที่ ศาลาเขาใหญ่ (www.salaresorts.com/khaoyai) ที่พักหรูสุดพิเศษที่มีห้องพักและพูลวิลล่าให้เลือกพักเพียง 7 ห้อง',
+
+        ONCE_PYA_H : 'สนุกสนานแล่นเรือยอร์ชส่วนตัว',
+        ONCE_PYA_P1 : 'เช่าเหมาลำเรือยอร์ชส่วนตัวท่องไปบนผืนน้ำในแบบที่จะจดจำไม่ลืมเลือนกับทิวทัศน์ของเกาะอันเขียวชอุ่มด้วยภาพความงามแห่งธรรมชาติ ไม่ว่าจะเป็นการปิกนิกแบบหลบลี้จากผู้คน หรือท่องเที่ยวไปในท้องทะเล เรือยอร์ชเช่าเหมาลำ เช่น พริ้นเซสยอร์ช (www.princessyachtssea.com) และ เอเชียมารีน (www.asia-marine.com) สรรหาทุกสิ่งที่พร้อมสำหรับการออกสำรวจไปตามหมู่เกาะและคุ้งอ่าวอันเงียบสงบในอ่าวไทยและทะเลอันดามัน   ',
+
+        ONCE_AEF_H : 'ชื่นชมงานศิลป์แห่งดอกไม้ในกรุงเทพ',
+        ONCE_AEF_P1 : 'ให้โชเฟอร์ที่พูดภาษาอังกฤษจาก www.firstclassbangkok.com ขับจากัวร์ XJ ที่พร้อมสรรพด้วยไวไฟ แชมเปญมารับไปท่องย่านเมืองเก่าในเขตดุสิต ที่ พิพิธภัณฑ์วัฒนธรรมดอกไม้ (www.floralmuseum.com) ผลงานของสกุล อินทกุล ศิลปินงานดอกไม้ชื่อเสียงเป็นที่รู้จักระดับนานาชาติแห่งนี้คือที่แห่งเดียวในโลกที่ควรค่าไปเยี่ยมชม และเข้าร่วมกิจกรรมหัดร้อยมาลัย หรือเพียงไปสัมผัสความหอมอบอวลนานาจากดอกไม้ของที่นี่ ',
+
+        ONCE_CPD_H : 'อาหารมื้อค่ำสุดหรูบนเรือล่องลำน้ำเจ้าพระยาในกรุงเทพ',
+        ONCE_CPD_P1 : 'ทิ้งภาพความวุ่นวายจากตึกคอนกรีตอันน่าเวียนหัวของกรุงเทพ หันมาลอยล่องไปบนลำน้ำเจ้าพระยาหัวใจแห่งอาณาจักรแห่งนี้ที่สมบูรณ์แบบที่สุดสำหรับดื่มด่ำมื้ออาหารอันทรงเกียรติบนเรือ อัปสราดินเนอร์ครุยส์ ที่ลอยล่องอย่างสงบไปตามลำน้ำด้วยบริการอาหารไทยชั้นสูงด้วยกรรมวิธีการปรุงที่ละเมียดละไมซับซ้อนมากกว่าการทำผัดไทย อาหารที่รู้จักกันทั่วไป และได้ชื่นชมทิวทัศน์วิถีชีวิตแห่งลำน้ำสำคัญที่สุดของประเทศ (www.banyantree.com/en/ap-thailand-bangkok/apsara)',
+
+        ONCE_HAB_H : 'โบยบินบนกระเช้าบอลลูนลมร้อนเหนือฟ้าที่เชียงใหม่',
+        ONCE_HAB_P1 : 'การเดินทางหนึ่งชั่วโมงด้วยกระเช้าบอลลูนลมร้อนอันสมบูรณ์แบบจะพาท่านสู่ยอดไม้เหนือทิวเขาของภาคเหนือที่จังหวัดเชียงใหม่ สัมผัสทิวทัศน์เขียวชอุ่มยามพระอาทิตย์ขึ้นด้วยมุมมองอย่างนก ปลุกประสาทให้ตื่นด้วยกาแฟหรือน้ำชาที่เสิร์ฟต้อนรับเมื่อมาถึง เพลิดเพลินไปกับการเดินทาง (พร้อมกับผู้ขับขี่บอลลูนที่ได้รับการฝึกฝนมาอย่างดี) ร่อนลงมารับมื้อเช้าพร้อมจิบแชมเปญฉลองเพื่อเริ่มกิจกรรมสุดวิเศษอื่นที่พื้นล่างต่อไป (www.ballonadventurethailand.com)',
+
+
+        ONCE_HTS_H : 'เที่ยวชมหมู่เกาะภาคใต้ด้วยเฮลิคอปเตอร์',
+        ONCE_HTS_P1 : 'บริการท่องเที่ยวด้วยเฮลิคอปเตอร์บินชมอัญมณีแห่งชายฝั่งทางภาคใต้ที่เกาะภูเก็ต และเกาะเล็กน้อยอื่น เช่น เกาะพีพี เกาะลันตา เกาะใหญ่ใน และอ่าวพังงา การเดินทางสี่ชั่วโมงแระกอบด้วยเกาะลันตาสองชั่วโมง และหยุดพักที่แหลมพรหมเทพอันโรแมนติคที่สุดของภูเก็ต ได้เก็บภาพพระพุทธรูปหินอ่อนขาวแบบพม่านามพระพุทธมิ่งมงคลเอกนาคคีรี และภาพแนวชายฝั่ง ป่าไม้และหมู่บ้านต่างในแบบมุมสูงที่ไม่มีใครเหมือน (www.skydance.aero) ',
+
+        ONCE_TCT_H : 'ตามรอยเส้นทางท่องเที่ยวด้วยรถไฟจากกรุงเทพ',
+        ONCE_TCT_P1 : 'ตู้รถไฟ Presidential ของ The Eastern and Oriental Express หรูหราระดับราชาจากกรุงเทพไปสิงคโปร์ไปเลียบตามเส้นทางแนวชายฝั่งภาคใต้สู่มาเลเซีย ได้สัมผัสวัฒนธรรมพื้นเมืองขนานแท้ พบปะพุดคุยกับควาญช้าง ผู้นำหมู่บ้านรุ่นเก่าที่เชี่ยวชาญเรื่องไวน์ และพักผ่อนอย่างสะดวกสบายในตู้รถไฟระดับหรู (www.belmond.com/eastern-and-oriental-express/journeys)',
+
+        ONCE_BBF_H : 'คืนสู่สามัญในฟาร์มที่โคราช ',
+        ONCE_BBF_P1 : 'ใช่แล้ว ฟาร์มจิม ทอมป์สัน (www.jimthompsonfarm.com) ชื่อเดียวกันกับบริษัทผลิตผ้าไหมไทยอันหรูหรา ฟาร์มนี้เป็นการผสมผสานการท่องเที่ยวเชิงเกษตรและเป็นมิตรกับส่งแวดล้อมด้วยวิถีแห่งการทำฟาร์มแบบยั่งยืน ติดกันกับฟาร์ม คือ หมู่บ้านชาวอีสานดั้งเดิมที่อาศัยกันอยู่มายาวนานก่อนที่วัฒนธรรมตะวันตกจะคืบคลานเข้ามา โคราช ไม่ใช่เมืองหลักที่จะเดินทางด้วยเครื่องบินพาณิชย์ จึงมีบริษัทจัดการเครื่องบินเจ็ทส่วนตัวไว้รับรองแทน (www.mjets.com)',
+
+        ONCE_ATS_H : 'เยือนวัดโบราณยามเช้าตรู่ด้วยเรือขนข้าวเก่าที่อยุธยา',
+        ONCE_ATS_P1 : 'สัมผัสความสงบยามอาทิตย์อุทัยที่อยุธยาเมืองหลวงเก่าบนดาดฟ้าเรือหรูที่ดัดแปลงจากเรือขนข้าวสมัยโบราณ (www.mekhala.com) เริ่มออกเดินทางจากกรุงเทพยามค่ำตามลำน้ำสู่อยุธยาตามรอยกระบวนพยุหยาตราทางชลมารค เพลิดเพลินกับชีวิตริมฝั่งน้ำตามรายทางและอาหารไทยสุดหรูแบบชาวน้ำ (ประณีตบรรจงเพียบพร้อมด้วยกุ้งแม่น้ำ)',
+
+        ONCE_PBD_H : 'อาหารค่ำส่วนตัวริมหาดบนเกาะสมุย',
+        ONCE_PBD_P1 : 'อาหารค่ำสำหรับสองเราใต้แสงดาวบนสวรรค์หาดทรายในแบบส่วนตัว คือความโรแมนติคที่โรงแรมหรรษา เกาะสมุย (www.hansarsamui.com/dinning_un-der_stars) จัดสรรไว้รับรอง ด้วยการบริการจากบริกรส่วนตัวที่เชี่ยวชาญ รายการอาหารที่ปรับเปลี่ยนไม่ซ้ำกันทุกเดือน จานเรียกน้ำย่อยและอาหารออกแบบปรุงรสโดยเชฟชั้นนำที่จะช่วยให้ความสนุกสนานบนหาดปิดท้ายวันอย่างงดงาม',
+
+        ONCE_KYP_H : 'เทศกาลลอยกระทงและยี่เป็งเชียงใหม่',
+        ONCE_KYP_P1 : 'ที่เชียงใหม่ นอกจากจะลองอาหารดั้งเดิมนามว่า ข้าวซอย (บะหมี่กรอบราดน้ำแกง) ไปแล้ว ไม่มีอะไรจะรื่นเริงได้มากเท่ากับเทศกาลลอยกระทง (เทศกาลที่แสดงความเคารพต่อพระแม่คงคา) และ ยี่เป็ง (โคมลอยที่จุดเทียนนับพันโคมที่ลอยสู่ท้องฟ้า) จองห้องพักที่โรงแรมดาราเทวี (www.dharadhevi.com) เพื่อการดื่มด่ำกับวัฒนธรรมอันงดงามระหว่างการพักผ่อนในวันหยุดอันสงบเยือกเย็นด้วยกิจกรรมประจำวันแบบพื้นเมือง (เช่น การสานตะกร้า) และบริการสปาอันเยี่ยมยอด  ',
+        
+        ONCE_SS_H : 'สงกรานต์ที่สุโขทัย',
+        ONCE_SS_P1 : 'ทั้งกรุงเทพและเชียงใหม่ขึ้นชื่อในเรื่องการเล่นสาดน้ำฉลองวันขึ้นปีใหม่ไทย (เทศกาลสงกรานต์) แต่สุโขทัยนั้นมีเสน่ห์เรื่องนี้ไม่แพ้กันด้วยความงามจากวัดเก่าแก่ที่เป็นภาพฉากหลังและบรรยากาศแบบสงบมากกว่า ลองค้นหาวัฒนธรรมแบบผ่อนคลายให้ลึกลงไปด้วยการเลือกพักที่โฮมสเตย์ (homestaynatonchan.blogpost.com) ที่เจ้าของบ้านจะแนะนำให้รู้จักเครื่องมือท้องถิ่น อย่างเช่น กี่ทอผ้า และงานฝีมือต่าง ๆ แม้ห้องพักจะดูไม่ค่อยมีอะไรแต่วิถีวัฒนธรรมท้องถิ่นที่คุณจะได้เข้าถึงนั้นควรค่าแห่งการไปสัมผัสกว่าการไปเที่ยวตามธรรมดาอันดาษดื่น',
+
+        ONCE_HOE_H : 'สัมผัสประสบการณ์ที่ปางช้าง',
+        ONCE_HOE_P1 : 'การมาพักที่ Four Seasons Tented Camp Golden Triangle (www.fourseasons.com/goldentriangle) คือโอกาสที่คุณจะได้สัมผัสกับยักษ์ใหญ่ใจดีที่บ้านในธรรมชาติของมันแบบเป็นส่วนตัวที่สุด ตารางการเดินทางแบบสามถึงสี่วันทำไว้ให้คุณได้เริ่มตั้งแต่การเป็นควาญเบื้องต้น (ควบคุมช้าง) การให้อาหาร การดูแล ไปจนถึงการออกเดินเข้าไปในป่าและดูช่วงเวลาสุดโปรดชองช้าง คือการอาบน้ำและเล่นน้ำในแม่น้ำ ช้างหลายเชือกได้รับการช่วยเหลือออกมาจากการใช้งานที่ถูกทารุณพาร่อนเร่ไปตามถนนในกรุงเทพและพัทยา คุณจะประทับใจไปกับความสุขของช้างที่ได้กลับคืนสู่ถิ่นที่พวกมันควรได้อาศัยอยู่',
+
+        ONCE_CSU_H : 'ทุ่งบัวแดงแห่งอุดรธานี',
+        ONCE_CSU_P1 : 'ละลานตากับภาพความงามอันสุดวิเศษของบัวแดงมากมายที่บานเต็มทุ่งได้ปีละครั้งในช่วงเดือนตุลาคมไปจนถึงปลายเดือนมกราคมที่หนองหาน จังหวัดอุดรธานี ด้วยการนั่งเครื่องบินไปแบบเที่ยวบินส่วนตัว แล้วเข้าพักที่บ้านเดียมโฮมสเตย์ (Ban Diam Homestay) อันน่ารักอบอวลด้วยบรรยากาศแบบอีสานแท้ที่อยู่ใกล้กับทุ่ง ตื่นแต่เช้าให้ไปทันดูบัวบาน (ดีที่สุดคือช่วง 6-10 โมงเช้า) เติมพลังด้วยอาหารเช้าจากโฮมสเตย์ แล้วมุ่งหน้าสู่อุทยานก่อนประวัติศาสตร์บ้านเชียงที่ UNESCO จัดให้เป็นมรดกโลกและเป็นแหล่งท่องเที่ยวที่ดีที่สุดของจังหวัด',
+
+        ONCE_LCC_H : 'เรียนทำอาหารบนเรือล่องเจ้าพระยา ',
+        ONCE_LCC_P1 : 'สำหรับผู้ที่ต้องการเรียนรู้ทุกอย่างที่เป็นไทยแล้ว ชั้นเรียนทำอาหารไทยจัดว่าเป็นเรื่องยอดนิยม ดังนั้น เรือมโนราห์ครุยส์ (www.manoharacruises.com) จึงคัดสรรการเรียนการสอนแบบสุดยอดพร้อมกับทิวทัศน์ในแบบที่ไม่มีใครทำ ด้วยการลงเรือมโนราห์ซึ่งดัดแปลงจากเรือขนข้าวสารแบบโบราณล่องลอยไปในแม่น้ำเจ้าพระยา ก่อนจะหยุดเลือกซื้อหาวัตถุดิบสุดสดใหม่ที่ตลาดสดเพื่อมาทำอาหารแบบริมน้ำขนานแท้คู่กับผักสดพื้นบ้าน '
 }

@@ -188,6 +188,12 @@ body {
     color: #fff;
 }
 
+@media (max-width: 1024px){
+    .nav>li>a {
+        padding: 10px 5px;
+    }
+}
+
 @media (min-width: 768px){
     .nav li:hover ul {
         display: block;
@@ -219,7 +225,7 @@ body {
     .parent {
         width: 100%;
         position: relative;
-        resize: vertical;
+       /* resize: vertical; */
         overflow: hidden;
     }
     .child {

@@ -5,11 +5,33 @@ var translationsEN = {
             NAV_CENTRAL: 'Central & Eastern Regions',
             NAV_SOUTHEN: 'Southern Thailand',
         NAV_DINING: 'Find Dining',
+            NAV_MICHELIN: 'The Michelin Connection',
+            NAV_FRENCH: 'The French Tradition',
+            NAV_FLAVOURSTH: 'The Flavours of Thailand',
+            NAV_IMPERIAL: 'Imperial Pleasures',
+            NAV_WITHLOVEITALY: 'With Love from Italy',
+            NAV_RISINGSUN: 'Form The Land of the Rising Sun',
+            NAV_SPECIALTREATS: 'Special Treats',
         NAV_LIFTIME: 'One in A Lifetime',
+            NAV_YACHTING : 'Yachting',
+            NAV_GOFFING : 'Goffing',
         NAV_AFTERDARK: 'After Dark',
+            NAV_WISKY: 'Champagne, Cigars & Whisky',
+            NAV_CLUBS: 'Clubs & Bars',
+            NAV_BEACH: 'Beach Clubs',
         NAV_MADEINTH: 'Made in Thailand',
+            NAV_FASHION: 'Fashion',
+            NAV_JEWELLERY: 'Jewellery',
+            NAV_SPA: 'Spa Products',
+            NAV_BESPOKE: 'Bespoke Tailoring',
+            NAV_LUXURYSHOP: 'Luxury Shopping Guide',
         NAV_WELLNESS: 'Wellness',
+            NAV_SPAMASSAGE: 'Spa & Massage',
+            NAV_YOGA: 'Yoga',
+            NAV_MEDITATION: 'Meditation',
+            NAV_REHAB: 'Rehab & Detox',
         NAV_MEDICALTOURISM: 'Medical Tourism',
+        NAV_INFORMATION : 'Contact Information',
         NAV_LANG: 'Language',
 
         INTRO_H : 'Introduction',
@@ -203,6 +225,34 @@ var translationsEN = {
 
         HOTEL_SOUTHRN_FSK_H : 'Four Seasons Resort Koh Samui',
         HOTEL_SOUTHRN_FSK_P1 : 'Synonymous with superlative service and an authentic understanding of Thai-style luxury hospitality, the private hillside villas of Four Seasons Resort Koh Samui make an ideal retreat for relaxation and rejuvenation. A lush, tropical setting with awe-inspiring views over the Gulf of Siam provide more than enough visual stimulation, while the culinary team and resort concierge ensure that every guest’s needs are seen to in a personalised way. Whether you select a day out at sea or exploring nearby attractions on land – or simply choose to enjoy the splendour of this very special place – guests are assured of a stay that will remain with them forever.',
+
+
+        DINNING_H : 'Fine Dining A Taste for Life',
+        DINNING_P1 : 'From a bevy of restaurants with Michelin-star connections to dining experiences that represent cuisines from all around the world – not to mention the unforgettable flavours of Thailand – the culinary scene in the Kingdom has reached new heights.',
+      
+        DINNING_MICHELIN_H : 'The Michelin Connection',
+
+        DINNING_MICHELIN_LD_H : 'L’Atelier de Joël Robuchon',
+        DINNING_MICHELIN_LD_P1 : 'An experimental approach to fine French dining, elegant yet contemporary interiors and a high level of interaction between chefs and diners is the winning formula that has earned L’Atelier de Joël Robuchon Michelin stars in a dozen cities around the world.',
+
+        DINNING_MICHELIN_ST_H : 'Savelberg Thailand',
+        DINNING_MICHELIN_ST_P1 : 'Savelberg Thailand is the first overseas venture of Dutch chef Henk Savelberg, whose various restaurants in the Netherlands have received Michelin stars for more than three decades. His contemporary French cuisine is just as pleasing to the eye as it is to the palate.',
+
+        DINNING_MICHELIN_SKK_H : 'Sra Bua by Kiin Kiin',
+        DINNING_MICHELIN_SKK_P1 : 'Chef Henrik Yde-Andersen’s modern interpretation of Thai food has earned him a Michelin star at Copenhagen-based Kiin Kiin since 2007. At his Bangkok outpost, Henrik breaks with long established culinary traditions to offer a sensory gastronomic experience in sophisticated surroundings with a contemporary Asian touch.',
+
+        DINNING_MICHELIN_N_H : 'Nahm',
+        DINNING_MICHELIN_N_P1 : 'Through diligent research and exemplary gastronomic prowess, Australian chef David Thompson has earned himself a status as an authority on Thai food. Under David’s culinary tutelage, Nahm (located at the Metropolitan Bangkok hotel) has become a hallmark of traditional Thai cuisine, winning the hearts of Thais and foreigners alike.',
+
+        DINNING_MICHELIN_GG_H : 'Ginza Sushi Ichi',
+        DINNING_MICHELIN_GG_P1 : 'Receiving daily deliveries from Tokyo’s iconic Tsukiji Fish Market and chefs trained in customary Edo-style sushi techniques, Ichi Sushi delivers the most authentic sushi experience in Bangkok. Its mother restaurant in Tokyo held a Michelin star from 2011-2012.',
+
+        DINNING_MICHELIN_A_H : 'Aziamendi (Phang Nga, Phuket)',
+        DINNING_MICHELIN_A_P1 : 'The genius of Spanish chef Eneko Atxa lies in his ability to engage all five senses in his diners through an intriguing play with aroma, texture and flavour. Guided by his Basque roots and inspired by traditional Thai flavours, Eneko delights guests with his unique approach to haute cuisine.',
+
+        DINNING_MICHELIN_JM_H : 'J’aime by Jean-Michel Lorain',
+        DINNING_MICHELIN_JM_P1 : 'One of few chefs in the world to retain three Michelin stars for almost three decades, Jean-Michel Lorain is a paragon of fine French cuisine. With J’AIME he departs from traditional French dining etiquette to offer an Asian-inspired, shared-meal experience, centred around personable service and meticulous attention to detail.',
+
 
         DINNING_FRENCH_H : 'The French Tradition',
 

@@ -32,6 +32,11 @@
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav language hidden-xs">
+                    <li><a href="#" ng-click="changeLanguage('en')">English</a></li>
+                    <li class="line">&nbsp;</li>
+                    <li><a href="#" ng-click="changeLanguage('th')">ภาษาไทย</a></li>
+                </ul>
                 <ul class="nav navbar-nav">
                     <li ng-class="{navactive: isActive('/')}">
                         <a href="/">{{ 'NAV_HOME' | translate }}</a>
@@ -45,35 +50,58 @@
                         </ul>
                     </li>
                     <li ng-class="{navactive: isActive('/find.dining')}">
-                        <a href="/find.dining">{{ 'NAV_DINING' | translate }}</a>
+                        <a href="/find.dining">{{ 'NAV_DINING' | translate }}<span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="/find.dining#michelin">{{ 'NAV_MICHELIN' | translate }}</a></li>
+                            <li><a href="/find.dining#french">{{ 'NAV_FRENCH' | translate }}</a></li>
+                            <li><a href="/find.dining#flavours.thailand">{{ 'NAV_FLAVOURSTH' | translate }}</a></li>
+                            <li><a href="/find.dining#imperial">{{ 'NAV_IMPERIAL' | translate }}</a></li>
+                            <li><a href="/find.dining#italy">{{ 'NAV_WITHLOVEITALY' | translate }}</a></li>
+                            <li><a href="/find.dining#rising.sun">{{ 'NAV_RISINGSUN' | translate }}</a></li>
+                            <li><a href="/find.dining#special">{{ 'NAV_SPECIALTREATS' | translate }}</a></li>
+                        </ul>
                     </li>
                     <li ng-class="{navactive: isActive('/once.lift.time')}">
-                        <a href="/once.lift.time">{{ 'NAV_LIFTIME' | translate }}</a>
+                        <a href="/once.lift.time">{{ 'NAV_LIFTIME' | translate }}<span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="/once.lift.time#yachting">{{ 'NAV_YACHTING' | translate }}</a></li>
+                            <li><a href="/once.lift.time#goffing">{{ 'NAV_GOFFING' | translate }}</a></li>
+                        </ul>
                     </li>
                     <li ng-class="{navactive: isActive('/after.dark')}">
-                        <a href="/after.dark">{{ 'NAV_AFTERDARK' | translate }}</a>
+                        <a href="/after.dark">{{ 'NAV_AFTERDARK' | translate }}<span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="/after.dark#champagne.cigars.whisky">{{ 'NAV_WISKY' | translate }}</a></li>
+                            <li><a href="/after.dark#clubs.bars">{{ 'NAV_CLUBS' | translate }}</a></li>
+                            <li><a href="/after.dark#beach.clubs">{{ 'NAV_BEACH' | translate }}</a></li>
+                        </ul>
                     </li>
                     <li ng-class="{navactive: isActive('/made.thailand')}">
-                        <a href="/made.thailand">{{ 'NAV_MADEINTH' | translate }}</a>
+                        <a href="/made.thailand">{{ 'NAV_MADEINTH' | translate }}<span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="/made.thailand#fashion">{{ 'NAV_FASHION' | translate }}</a></li>
+                            <li><a href="/made.thailand#jewellery">{{ 'NAV_JEWELLERY' | translate }}</a></li>
+                            <li><a href="/made.thailand#spa.products">{{ 'NAV_SPA' | translate }}</a></li>
+                            <li><a href="/made.thailand#bespoke.tailoring">{{ 'NAV_BESPOKE' | translate }}</a></li>
+                            <li><a href="/made.thailand#luxury.shopping.guide">{{ 'NAV_LUXURYSHOP' | translate }}</a></li>
+                        </ul>
                     </li>
                     <li ng-class="{navactive: isActive('/wellness')}">
-                        <a href="/wellness">{{ 'NAV_WELLNESS' | translate }}</a>
+                        <a href="/wellness">{{ 'NAV_WELLNESS' | translate }}<span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="/wellness#spa.massage">{{ 'NAV_FASHION' | translate }}</a></li>
+                            <li><a href="/wellness#yoga">{{ 'NAV_JEWELLERY' | translate }}</a></li>
+                            <li><a href="/wellness#meditation">{{ 'NAV_SPA' | translate }}</a></li>
+                            <li><a href="/wellness#rehab.detox">{{ 'NAV_BESPOKE' | translate }}</a></li>
+                        </ul>
                     </li>
                     <li ng-class="{navactive: isActive('/medical.tourism')}">
                         <a href="/medical.tourism">{{ 'NAV_MEDICALTOURISM' | translate }}</a>
                     </li>
-                    <li class="dropdown hidden-lg">
-                        <a href="#">{{ 'NAV_LANG' | translate }}<span class="caret"></span></a>
-                        <ul class="dropdown-menu">
-                            <li><a href="#" ng-click="changeLanguage('en')">English</a></li>
-                            <li><a href="#" ng-click="changeLanguage('th')">ภาษาไทย</a></li>
-                        </ul>
+                    <li ng-class="{navactive: isActive('/medical.tourism')}">
+                        <a href="/medical.tourism">{{ 'NAV_INFORMATION' | translate }}</a>
                     </li>
-                </ul>
-                <ul class="nav navbar-nav language visible-lg-block ">
-                    <li><a href="#" ng-click="changeLanguage('en')">English</a></li>
-                    <li class="line">&nbsp;</li>
-                    <li><a href="#" ng-click="changeLanguage('th')">ภาษาไทย</a></li>
+        
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
