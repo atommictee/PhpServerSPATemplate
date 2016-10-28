@@ -5,7 +5,7 @@
  */
 
 body {
-    padding-top: 50px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+    padding-top: 101px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
     padding-bottom: 70px; /* for footer */
     display: table;
     position: absolute;
@@ -27,13 +27,6 @@ body {
     .footer div{
         height: 20px
     }
-
-
-/*.navbar {
-    min-height: 100px;
-}*/
-
-
 
     .navbar-inverse .navbar-nav>li a {
         color: #CEAB21;
@@ -188,6 +181,11 @@ body {
     color: #fff;
 }
 
+a.anchor {
+    top: -50px;
+    visibility: hidden;
+}
+
 @media (max-width: 1024px){
     .nav>li>a {
         padding: 10px 5px;
@@ -240,5 +238,10 @@ body {
     .col-one{
         background-color: #9C2318;
         color: #fff;
+    }
+
+    a.anchor {
+        position: relative;
+        margin-top: -101px;
     }
 }
