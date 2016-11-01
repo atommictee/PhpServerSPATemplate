@@ -14,7 +14,8 @@ thailuxuryApp.config(function($routeProvider, $locationProvider) {
   		})
 
 		.when('/once.lift.time', {
-  			templateUrl: 'app/components/once.lifetime/view.html'
+  			templateUrl: 'app/components/once.lifetime/view.html',
+			controller: 'onceLiftController'
   		})
 
 		.when('/after.dark', {
@@ -34,6 +35,10 @@ thailuxuryApp.config(function($routeProvider, $locationProvider) {
 
 		.when('/medical.tourism', {
   			templateUrl: 'app/components/medical.tourism/view.html'
+  		})
+
+		.when('/contact', {
+  			templateUrl: 'app/components/connection/view.html'
   		})
 
 

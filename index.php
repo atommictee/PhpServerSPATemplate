@@ -12,6 +12,7 @@
 
     <!-- Custom CSS -->
     <link href="css/thkingdomofluxury.css" rel="stylesheet">
+    <link href="css/card.views.css" rel="stylesheet">
 </head>
 <body>
     <!-- Navigation -->
@@ -50,7 +51,7 @@
                         </ul>
                     </li>
                     <li ng-class="{navactive: isActive('/find.dining')}">
-                        <a href="/find.dining">{{ 'NAV_DINING' | translate }}<span class="caret"></span></a>
+                        <a href="/find.dining" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ 'NAV_DINING' | translate }}<span class="caret"></span></a>
                         <ul class="dropdown-menu">
                             <li><a href="/find.dining#michelin">{{ 'NAV_MICHELIN' | translate }}</a></li>
                             <li><a href="/find.dining#french">{{ 'NAV_FRENCH' | translate }}</a></li>
@@ -62,14 +63,14 @@
                         </ul>
                     </li>
                     <li ng-class="{navactive: isActive('/once.lift.time')}">
-                        <a href="/once.lift.time">{{ 'NAV_LIFTIME' | translate }}<span class="caret"></span></a>
+                        <a href="/once.lift.time" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ 'NAV_LIFTIME' | translate }}<span class="caret"></span></a>
                         <ul class="dropdown-menu">
                             <li><a href="/once.lift.time#yachting">{{ 'NAV_YACHTING' | translate }}</a></li>
                             <li><a href="/once.lift.time#goffing">{{ 'NAV_GOFFING' | translate }}</a></li>
                         </ul>
                     </li>
                     <li ng-class="{navactive: isActive('/after.dark')}">
-                        <a href="/after.dark">{{ 'NAV_AFTERDARK' | translate }}<span class="caret"></span></a>
+                        <a href="/after.dark" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ 'NAV_AFTERDARK' | translate }}<span class="caret"></span></a>
                         <ul class="dropdown-menu">
                             <li><a href="/after.dark#champagne.cigars.whisky">{{ 'NAV_WISKY' | translate }}</a></li>
                             <li><a href="/after.dark#clubs.bars">{{ 'NAV_CLUBS' | translate }}</a></li>
@@ -77,7 +78,7 @@
                         </ul>
                     </li>
                     <li ng-class="{navactive: isActive('/made.thailand')}">
-                        <a href="/made.thailand">{{ 'NAV_MADEINTH' | translate }}<span class="caret"></span></a>
+                        <a href="/made.thailand" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ 'NAV_MADEINTH' | translate }}<span class="caret"></span></a>
                         <ul class="dropdown-menu">
                             <li><a href="/made.thailand#fashion">{{ 'NAV_FASHION' | translate }}</a></li>
                             <li><a href="/made.thailand#jewellery">{{ 'NAV_JEWELLERY' | translate }}</a></li>
@@ -87,7 +88,7 @@
                         </ul>
                     </li>
                     <li ng-class="{navactive: isActive('/wellness')}">
-                        <a href="/wellness">{{ 'NAV_WELLNESS' | translate }}<span class="caret"></span></a>
+                        <a href="/wellness" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ 'NAV_WELLNESS' | translate }}<span class="caret"></span></a>
                         <ul class="dropdown-menu">
                             <li><a href="/wellness#spa.massage">{{ 'NAV_FASHION' | translate }}</a></li>
                             <li><a href="/wellness#yoga">{{ 'NAV_JEWELLERY' | translate }}</a></li>
@@ -98,8 +99,8 @@
                     <li ng-class="{navactive: isActive('/medical.tourism')}">
                         <a href="/medical.tourism">{{ 'NAV_MEDICALTOURISM' | translate }}</a>
                     </li>
-                    <li ng-class="{navactive: isActive('/medical.tourism')}">
-                        <a href="/medical.tourism">{{ 'NAV_INFORMATION' | translate }}</a>
+                    <li ng-class="{navactive: isActive('/contact')}">
+                        <a href="/contact">{{ 'NAV_INFORMATION' | translate }}</a>
                     </li>
         
                 </ul>
@@ -139,5 +140,11 @@
 
 <script src="app/shared/lang/english.js"></script>
 <script src="app/shared/lang/thai.js"></script>
+<script src="app/shared/slide/card-view.js"></script>
+
+
+<script src="app/components/once.lifetime/onceLiftController.js"></script>
+
+
 
 </html>

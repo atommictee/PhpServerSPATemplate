@@ -1,4 +1,4 @@
-var thailuxuryApp = angular.module('thailuxuryApp', ['ngRoute', 'pascalprecht.translate','ngCookies']);
+var thailuxuryApp = angular.module('thailuxuryApp', ['ngRoute', 'ngAnimate','pascalprecht.translate','ngCookies']);
 
 thailuxuryApp.config(function ($translateProvider) {
     $translateProvider.translations('en', translationsEN);
@@ -37,6 +37,4 @@ thailuxuryApp.controller('HeaderController', ['$scope','$location', function($sc
     $scope.isActive = function (viewLocation) { 
         return viewLocation === $location.path();
     };
-
-    $scope.test="xxx";
 }]);

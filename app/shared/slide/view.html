@@ -1,0 +1,150 @@
+
+<div style="visibility: hidden;">current Card Index: {{displayCard}}</div>
+
+<div class="card-container" ng-switch="displayCard">
+    <div class="btn btn-prev" ng-click='prevFixed()'>
+      <span class="glyphicon glyphicon-menu-left" aria-hidden="true"></span>
+    </div>
+    <div class="btn btn-next" ng-click='nextFixed()'>
+      <span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span>
+    </div>
+  <div class="card col-md-12"
+       id="image1"
+       ng-switch-when="1"
+       ng-class="{'toLeft': toLeft, 'toRight': toRight}" data-scope-id={{$id}} >
+       <div class="col-md-6"
+          style="background-image: url('images/hotel_resort/FPO_CHR_008.jpeg');
+          background-position: center;
+          background-repeat: no-repeat;
+          background-size: cover;">
+       </div>
+        <div class="col-md-6" >
+          <div class="text-gold-header text-center">
+            <span>{{'HOTEL_NORTHERN_FSR_H' | translate }}</span>
+          </div>
+          <p>{{'HOTEL_NORTHERN_FSR_P1' | translate }}
+          </p>
+          <div class="text-right">
+          <a href="www.fourseasons.com/goldentriangle" target="_blank">www.fourseasons.com/goldentriangle</a>
+          </div>
+        </div>
+  </div>
+  <div class="card col-md-12"
+       id="image1"
+       ng-switch-when="2"
+       ng-class="{'toLeft': toLeft, 'toRight': toRight}" data-scope-id={{$id}} >
+       <div class="col-md-6"
+          style="background-image: url('images/hotel_resort/Dhara Dhevi Chiang Mai (Royal Residence).jpeg');
+          background-position: center;
+          background-repeat: no-repeat;
+          background-size: cover;">
+       </div>
+        <div class="col-md-6" >
+          <div class="text-gold-header text-center">
+            <span>{{'HOTEL_NORTHERN_DC_H' | translate }}</span>
+          </div>
+          <p>{{'HOTEL_NORTHERN_DC_P1' | translate }}
+          </p>
+          <div class="text-right">
+          <a href="http://www.dharadhevi.com" target="_blank">www.dharadhevi.com</a>
+          </div>
+        </div>
+  </div>
+    <div class="card col-md-12"
+       id="image1"
+       ng-switch-when="3"
+       ng-class="{'toLeft': toLeft, 'toRight': toRight}" data-scope-id={{$id}} >
+       <div class="col-md-6"
+          style="background-image: url('images/hotel_resort/Four Seasons Resort Chiang Mai.jpeg');
+          background-position: center;
+          background-repeat: no-repeat;
+          background-size: cover;">
+       </div>
+        <div class="col-md-6" >
+          <div class="text-gold-header text-center">
+            <span>{{'HOTEL_NORTHERN_FSM_H' | translate }}</span>
+          </div>
+          <p>{{'HOTEL_NORTHERN_FSM_P1' | translate }}
+          </p>
+          <div class="text-right">
+          <a href="http://www.fourseasons.com/chiangmai" target="_blank">www.fourseasons.com/chiangmai</a>
+          </div>
+        </div>
+  </div>
+  <div class="card col-md-12"
+       id="image1"
+       ng-switch-when="4"
+       ng-class="{'toLeft': toLeft, 'toRight': toRight}" data-scope-id={{$id}} >
+       <div class="col-md-6"
+          style="background-image: url('images/hotel_resort/52728331-H1-Palette_(2).jpeg');
+          background-position: center;
+          background-repeat: no-repeat;
+          background-size: cover;">
+       </div>
+        <div class="col-md-6" >
+          <div class="text-gold-header text-center">
+            <span>{{'HOTEL_NORTHERN_137_H' | translate }}</span>
+          </div>
+          <p>{{'HOTEL_NORTHERN_137_P1' | translate }}
+          </p>
+          <div class="text-right">
+          <a href="http://www.slh.com/hotels/137-pillars-house" target="_blank">www.slh.com/hotels/137-pillars-house</a>
+          </div>
+        </div>
+  </div>
+  <div class="card col-md-12"
+       id="image1"
+       ng-switch-when="5"
+       ng-class="{'toLeft': toLeft, 'toRight': toRight}" data-scope-id={{$id}} >
+       <div class="col-md-6"
+          style="background-image: url('images/hotel_resort/Rachamankha.jpeg');
+          background-position: center;
+          background-repeat: no-repeat;
+          background-size: cover;">
+       </div>
+        <div class="col-md-6" >
+          <div class="text-gold-header text-center">
+            <span>{{'HOTEL_NORTHERN_RCM_H' | translate }}</span>
+          </div>
+          <p>{{'HOTEL_NORTHERN_RCM_P1' | translate }}
+          </p>
+          <div class="text-right">
+            <a href="http://www.rachamankha.com" target="_blank">www.rachamankha.com</a>
+          </div>
+        </div>
+  </div>
+  <div class="card col-md-12"
+       id="image1"
+       ng-switch-when="6"
+       ng-class="{'toLeft': toLeft, 'toRight': toRight}" data-scope-id={{$id}} >
+       <div class="col-md-6"
+          style="background-image: url('images/hotel_resort/Anantara Chiang Mai Colonial House.jpeg');
+          background-position: center;
+          background-repeat: no-repeat;
+          background-size: cover;">
+       </div>
+        <div class="col-md-6" >
+          <div class="text-gold-header text-center">
+            <span>{{'HOTEL_NORTHERN_ACM_H' | translate }}</span>
+          </div>
+          <p>{{'HOTEL_NORTHERN_ACM_P1' | translate }}
+          </p>
+          <div class="text-right">
+            <a href="http://www.chiang-mai.anantara.com" target="_blank">www.chiang-mai.anantara.com</a>
+          </div>
+        </div>
+  </div>
+</div>
+  <div class="menu">
+    <div>
+      <div ng-click="goto(1)"><img ng-class="{'active' : displayCard == 1}" src="images/hotel_resort/FPO_CHR_008.jpeg"/></div>
+      <div ng-click="goto(2)"><img ng-class="{'active' : displayCard == 2}" src="images/hotel_resort/Dhara Dhevi Chiang Mai (Royal Residence).jpeg"/></div>
+      <div ng-click="goto(3)"><img ng-class="{'active' : displayCard == 3}" src="images/hotel_resort/Four Seasons Resort Chiang Mai.jpeg"/></div>
+      <div ng-click="goto(4)"><img ng-class="{'active' : displayCard == 4}" src="images/hotel_resort/52728331-H1-Palette_(2).jpeg"/></div>
+      <div ng-click="goto(5)"><img ng-class="{'active' : displayCard == 5}" src="images/hotel_resort/Rachamankha.jpeg"/></div>
+      <div ng-click="goto(6)"><img ng-class="{'active' : displayCard == 6}" src="images/hotel_resort/Anantara Chiang Mai Colonial House.jpeg"/></div>
+    </div>
+  </div>
+
+
+

@@ -186,6 +186,30 @@ a.anchor {
     visibility: hidden;
 }
 
+.img-text{
+    margin-bottom: 15px;
+}
+
+.list{
+    padding-left:2em; 
+    color: #CEAB21;
+}
+
+    .list div{
+        margin: 10px 0;
+    }
+
+    .list div a{
+        display: block;
+    }
+
+    .list div p{
+        color: rgb(96, 94, 94);
+        font-size: 11px;
+        font-style: normal;
+    }
+
+
 @media (max-width: 1024px){
     .nav>li>a {
         padding: 10px 5px;

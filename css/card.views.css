@@ -1,0 +1,119 @@
+.card-container {
+  position: relative;
+  min-height: 700px;
+  overflow: hidden;
+}
+
+  .card-container .btn{
+      z-index: 3;
+      height: 60px;
+      width: 55px;
+      /*background-color: #fff;
+      opacity: 0.5;
+      */
+      color: #fff;   
+      font-size: 40px;
+      top: 47%;
+      position: absolute;
+  }
+
+  .card-container .btn-prev {
+      left: 0px;
+  }
+
+  .card-container .btn-next {   
+      right: 0px;
+      padding-left: 3px;
+  }
+
+.card {
+  width: 100%;
+  background-color: #9C2318;
+  color: #fff;
+  text-indent: 20px;
+  padding-left:0px;
+  padding-right: 0px; 
+}
+
+  .card a{
+    text-decoration: underline;
+    font-size: 12px;
+    color: #fff;
+  }
+
+  .card > div{
+    padding: 0px 15px;
+    min-height: 300px
+  }
+
+  .menu{
+    display: none;
+  }
+
+@media (min-width: 992px){
+  .card {
+    position: absolute;
+  }
+
+  .card > div{
+    padding: 12% 5%;
+    min-height: 800px;
+  }
+
+  .menu{
+    padding-top: 5px;
+    text-align: center;
+    margin-top: -80px;
+    display: block;
+  }
+
+  .menu div{
+    display: inline-block;
+  }
+
+  .menu img{
+    cursor: pointer;
+    height: 50px;
+    opacity: .9;
+  }
+
+  .menu img.active{
+    height: 70px;
+  }
+
+  .card.ng-animate {
+  transition: 0.8s linear all;
+  }
+
+  .card.ng-enter.toLeft {
+    left: -100%;
+  }
+  .card.ng-enter-active.toLeft {
+    left: 0;
+  }
+  .card.ng-leave.toLeft {
+    left: 0;
+  }
+  .card.ng-leave-active.toLeft {
+    left: 100%;
+  }
+
+  .card.ng-enter.toRight {
+    left: 100%;
+  }
+
+  .card.ng-enter-active.toRight {
+    left: 0;
+  }
+
+  .card.ng-leave.toRight {
+    left: 0;
+  }
+
+  .card.ng-leave-active.toRight {
+    left: -100%;
+  }
+}
+
+
+
