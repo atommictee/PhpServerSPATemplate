@@ -206,7 +206,7 @@ var translationsEN = {
         HOTEL_SOUTHRN_SPP_P1 : ' Phuket’s global popularity is undeniable, but there remains plenty of scope for getting away from it all on the “Pearl of the Andaman”. Dotted amid the coastal forest, Sri Panwa’s 52 villas are the ultimate in castaway chic. Accommodations are effortlessly contemporary, with plenty of wood furnishings, home cinema systems and pre-loaded iPods. The most alluring feature of the villas, however, is its bedrooms, which are enclosed in floor-to-ceiling glass windows and open out directly to a private infinity pool.',
 
         HOTEL_SOUTHRN_TP_H : 'Trisara, Phuket',
-        HOTEL_SOUTHRN_TP_P1 : 'Phuket’s global popularity is undeniable, but there remains plenty of scope for getting away from it all on the “Pearl of the Andaman”. Dotted amid the coastal forest, Sri Panwa’s 52 villas are the ultimate in castaway chic. Accommodations are effortlessly contemporary, with plenty of wood furnishings, home cinema systems and pre-loaded iPods. The most alluring feature of the villas, however, is its bedrooms, which are enclosed in floor-to-ceiling glass windows and open out directly to a private infinity pool.',
+        HOTEL_SOUTHRN_TP_P1 : 'Small is exceedingly beautiful at this exclusive hideaway in Phuket’s unspoiled northwestern corner. Beloved by the international jet set, this is one of the shining stars in Thailand’s hotel firmament. With each of the resort’s bijou collection of suites and villas featuring its own pool as well as jaw-dropping ocean views, total privacy is both achievable and desirable. If guests do decide to venture out of their gilded cocoon, the resort’s restaurant is one of the highest rated on Phuket and the spa is predictably gorgeous. ',
 
         HOTEL_SOUTHRN_IBH_H : 'Iniala Beach House, Phang Nga',
         HOTEL_SOUTHRN_IBH_P1 : 'Tucked away on gorgeous Natai Beach in Phang Nga, this small but perfectly formed little resort is one of Thailand’s most unique. Owner Mark Weingard ploughed plenty of his substantial fortune into making the property special and few can argue with the results. A total of 11 designers worked on the three villa suites (each divided into three more villas) and magnificent penthouse suite, which are all very different. Other extravagances, meanwhile, include a private cinema, a Thai boxing ring in the gymnasium and a games room with Swarovski-studded pool table. Iniala is also home to Aziamendi, a spectacular fine-dining restaurant. ',
@@ -545,8 +545,11 @@ var translationsEN = {
         CONNECT_OO_EP_FF_P1:'Areas of Responsibility: Germany, Austria, Yugoslavia, Croatia, Switzerland, Liechtenstein, Romania, Bulgaria, Moldova, Macedonia, Albania, Czech Republic, Slovakia, Poland, Hungary and Bosnia-Herzegovina',
 
         CONNECT_OO_EP_PR:'PARIS Office National du Tourisme de Thailande',
-        CONNECT_OO_EP_KL_P1:'Areas of Responsibility: Italy, Spain, Greece, Portugal, Israel, Egypt, Turkey and Cyprus',
+        CONNECT_OO_EP_PR_P1:'Areas of Responsibility: Italy, Spain, Greece, Portugal, Israel, Egypt, Turkey and Cyprus',
 
+        CONNECT_OO_EP_R: 'ROME Ente Nazionale per il Turismo Thailandese',
+        CONNECT_OO_EP_R_P1: 'Areas of Responsibility: Italy, Spain, Greece, Portugal, Israel, Egypt, Turkey and Cyprus',
+        
         CONNECT_OO_EP_SH:'STOCKHOLM Tourism Authority of Thailand',
         CONNECT_OO_EP_SH_P1:'Areas of Responsibility: Sweden, Norway, Denmark, Finland, Iceland, Estonia, Latvia and Lithuania',
 
@@ -623,11 +626,11 @@ var translationsEN = {
         CONNECT_LF_EG_RY:'Tourism Authority of Thailand, Rayong Office (TAT Rayong)',
         CONNECT_LF_EG_RY_P1:'Areas of Responsibility: Rayong and Chanthaburi',
 
-        CONNECT_LF_EG_PT:'Tourism Authority of Thailand, Trat Office (TAT Trat)',
-        CONNECT_LF_EG_PT_P1:'Areas of Responsibility: Trat and its Islands',
+        CONNECT_LF_EG_T:'Tourism Authority of Thailand, Trat Office (TAT Trat)',
+        CONNECT_LF_EG_T_P1:'Areas of Responsibility: Trat and its Islands',
 
-        CONNECT_LF_EG_PT:'Tourism Authority of Thailand, Nakhon Nayok Office (TAT Nakhon Nayok)',
-        CONNECT_LF_EG_PT_P1:'Areas of Responsibility: Nakhon Nayok, Prachin Buri and Sa Kaeo',
+        CONNECT_LF_EG_NN:'Tourism Authority of Thailand, Nakhon Nayok Office (TAT Nakhon Nayok)',
+        CONNECT_LF_EG_NN_P1:'Areas of Responsibility: Nakhon Nayok, Prachin Buri and Sa Kaeo',
 
         CONNECT_LF_NR_H:'NORTHEASTERN REGION',
         CONNECT_LF_NR_NR:'Tourism Authority of Thailand, Nakhon Ratchasima Office (TAT Nakhon Ratchasima)',
