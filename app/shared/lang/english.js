@@ -680,86 +680,86 @@ var translationsEN = {
         CONNECT_LF_SR_C_P1:'Areas of Responsibility: Chumphon and Ranong',
 
 
-        WELLNESS_H:'ท่องเที่ยวเพื่อสุขภาพ',
-        WELLNESS_P1:'สปาและการนวดแผนโบราณที่สืบย้อนหลังไปได้หลายศตวรรษ ทำให้ประเทศไทยในฐานะที่เป็นหนึ่งในจุดหมายปลายทางด้านการท่องเที่ยวทีมีชื่อเสียงด้านการดูแลรักษาสุขภาพซึ่งเก่าแก่พอกับอายุของประเทศ เมื่อไม่นานมานี้ ประเทศไทยได้กลายเป็นสถานที่ระดับโลกสำหรับโยคะและศูนย์ล้างพิษ ทำให้ประเทศไทยเป็นศูนย์กลางของการฟื้นฟูร่างกาย จิตใจ และจิตวิญญาณอย่างแท้จริง',
+        WELLNESS_H:'Wellness',
+        WELLNESS_P1:'With massage and spa traditions dating back centuries, Thailand’s reputation as one of the world’s best destinations for wellness remedies is as old as the country itself. More recently, it has become a hotbed for world-class yoga retreats and detox centres, making Thailand a true mecca of physical, mental and spiritual rejuvenation.',
 
-        WELLNESS_SM_H:'สปาและการนวดผ่อนคลาย',
-        WELLNESS_SM_DT_H:'เทวาสปาและศูนย์สุขภาพ โรงแรมดาราเทวี เชียงใหม่',
-        WELLNESS_SM_DT_P1:'เทวาสปาเป็นผลงานด้านสถาปัตยกรรมชั้นยอด ใช้เวลาสร้างมากกว่า 3 ปีด้วยศิลปท้องถิ่นคล้ายกับวังแบบพม่า ล้อมรอบไปด้วยลวดลายแกะแบบศิลปพม่า ณ ที่นี่ คุณจะได้รับการบำบัดแบบตะวันออกโบราณอย่างเช่น อายุรเวช ในบรรดาการนวดและการรักษา สปาที่ใช้เทคนิคแบบอายุรเวชที่มีอายุมากกว่า 5,000 ปีที่เรียกว่า ศิโรธรา ซึ่งจะราดน้ำมันลงบนหน้าผาก หรือ “ตาดวงที่สาม” เพื่อที่จะสร้างความสงบและความสมดุลย์ภายใน',
+        WELLNESS_SM_H:'Spa & Massage',
+        WELLNESS_SM_DT_H:'The Dheva Spa and Wellness Centre, The Dhara Dhevi Chiang Mai, Chiang Mai',
+        WELLNESS_SM_DT_P1:'The Dheva is an architectural masterpiece, built over three years by local artisans in the likeness of a Burmese palace. Surrounded by elaborate carvings of Buddhist motifs, here you can receive ancient Eastern relaxation therapies like Ayurveda. Among massages and treatments, the spa offers a 5,000-year-old Ayurvedic technique called Shirodhara, where oil is poured onto the forehead or “third eye” to instill inner peace and balance.',
 
-        WELLNESS_SM_GT_H:'โฟร์ซีซั่น เต้นท์ แคมป์ สามเหลี่ยมทองคำ เชียงราย',
-        WELLNESS_SM_GT_P1:'หลังจากวันที่ไม่สามารถจะลืมได้จากการเดินป่าบนหลังช้าง ไม่มีอะไรจะเหมือนกับการให้รางวัลเหมือนกับสปาในป่าที่หรูหราของโฟร์ซีซั่น การพักผ่อนตั้งอยู่ห่างไม่กี่ก้าว ในศาลาที่โปร่งรับลมที่ฝังตัวอยู่ในป่าที่บริสุทธิ์ เมนูสปามีทั้งการบำบัดรักษาทางเลือกซึ่งใช้พันธุ์ไม้ภูเขาและสมุนไพรที่อบอุ่น เหมือนภาพฉายของ Ruak Ritual การนวดทั้งตัวด้วยไม้ที่ทำด้วยมือจากไม้ไผ่ป่าที่หามาจากพื้นที่รอบๆ',
+        WELLNESS_SM_GT_H:'Four Seasons Tented Camp Golden Triangle, Chiang Rai',
+        WELLNESS_SM_GT_P1:'After an unforgettable day of elephant trekking, there’s nothing like retreating to the Four Seasons’ lush and luxurious jungle spa. Relaxation lies beyond a footbridge, in open-air salas buried in primeval forest. The spa menu is comprised of holistic treatments that use mountain botanicals and local warming spices, like the illustrious Ruak Ritual: a full body massage with hand-carved sticks made from wild bamboo found around the camp.',
 
-        WELLNESS_SM_MD_H:'ดิ โอเรียนท์ สปา แมนดาริน กรุงเทพ ฯ',
-        WELLNESS_SM_MD_P1:'ดิโอเรียนท์สปาตั้งอยู่ในบ้านไม้สักอายุกว่าศตวรรษที่ปรับปรุงใหม่บนริมฝั่งแม่น้ำเจ้าพระยาในกรุงเทพ ตกแต่งด้วยสัมผัสแบบสยามจากวันวานที่แสนคลาสสิค นอกจากนี้ เมนูสปายังประกอบด้วยการบำบัดรักษาที่เป็นเอกลักษณ์ และวารีบำบัดระดับโลก อยู่ในแพคเกจที่เอาอกเอาใจตั้งแต่หัวจรดปลายเท้า ลองโปรแกรมที่เป็นเอกลักษณ์เฉพาะ “Oriental Organic Journey” ซึ่งจะล้างพิษโดยการขัดผิว การบำรุงรักษาเส้นผม และการนวดที่อ่อนละมุนด้วยครีมน้ำนมข้าว',
+        WELLNESS_SM_MD_H:'The Orient Spa, Mandarin Oriental, Bangkok',
+        WELLNESS_SM_MD_P1:'The Orient Spa is located in a restored century-old teak house right on the edge of Bangkok’s Chao Phraya River, decorated with classic Siamese touches from days of yore. Despite this, the spa menu features state-of-the-art treatments and world-class hydrotherapy,folded into complete packages that pamper from head to toe. Try the signature “Oriental Organic  Journey”, which detoxifies through a handmade body scrub, nourishing hair treatment and a smoothing massage of rice milk cream.',
 
-        WELLNESS_SM_TS_H:'ตรีสรา ภูเก็ต',
-        WELLNESS_SM_TS_P1:'สปาแห่งนี้เป็นบ้านของการนวดที่หรูหรา การนวดที่เป็นเอกลักษณ์ของตรีสราคือการนวดแบบหกมือ หรือเรียกว่า “รอยัล ตรีสรา”  การบำบัดที่ฟุ่มเฟือยนี้เริ่มด้วยการขัดเท้าด้วยตะไคร้และเกลือทะเล นำไปสู่การบำบัดแบบไทยดั้งเดิมและสวีดิช และการนวดกดจุดซึ่งดำเนินไปพร้อมๆ กันโดยนักบำบัดสามคน แขกสามารถที่จะเพลิดเพลินกับ รอยัล ตรีสรา ได้ในแบบการบำบัดในวิลล่า บนระเบียงไม้สักที่มองออกไปเห็นทะเลอันดามัน',
+        WELLNESS_SM_TS_H:'Trisara, Phuket',
+        WELLNESS_SM_TS_P1:'This spa is home to the be-all and endall of luxury kneading: Trisara’s signature sixhand massage, otherwise known as the “Royal Trisara”. This opulent treatment opens with a lemongrass and organic sea salt foot scrub, leading into therapies of traditional Thai, Swedish and acupuncture massage conducted simultaneously by three therapists. Guests can enjoy the “Royal Trisara” as an in-villa treatment, on a private teak balcony overlooking the Andaman Sea.',
 
-        WELLNESS_SM_HR_H:'บารายสปา ไฮแอทรีเจนซี่ หัวหิน',
-        WELLNESS_SM_HR_P1:'บารายตั้งเป้าที่จะพาแขกไปยังการเดินทางของประสาทสัมผัส โดยใช้เมนูที่คิดค้นผ่านทางธาตุทั้งสี่ โดยการเลือก น้ำ ดิน ลม และไฟ แขกจะได้รับการการบำบัดที่มุ่งเน้นการคลายความเครียด ความสมดุลย์ ความงามและพลังงาน ตามลำดับ เป็นสิ่งที่เป็นเลิศสำหรับโรแมนติกเก็ตอะเวย์ คือ วอเตอร์ คัปเปิล คอนเน็ค โปรแกรมสำหรับสองคนประกอบด้วยการนวดสมดุลย์จักรราศี รวมทั้งการขัดผิวและหน้าโดยใช้การกระตุ้นด้วยมะลิหรือกระดังงา เป็นต้น',
+        WELLNESS_SM_HR_H:'The Barai Spa, Hyatt Regency, Hua Hin',
+        WELLNESS_SM_HR_P1:'The Barai’s aim is to take its guests on a journey of the senses using an intuitive menu based on the four elements. By choosing water, earth, wind or fire, guests receive a treatment that focuses on stress relief, balance, beauty or energy respectively. For a romantic getaway, the Water Couple Connect is exquisite. This two-person program features chakra-balancing massages, as well as scrubs and facials using aphrodisiacs like jasmine and Ylang Ylang.',
 
-        WELLNESS_SM_SL_H:'ชิ เดอะสปา โรงแรมแชงกรีล่า กรุงเทพ ฯ',
-        WELLNESS_SM_SL_P1:'หลังจากที่ได้ก้าวเข้าสู่ชิ และลงไปสู่อารามแห่งความงามที่อยู่ใต้ดิน ยากที่คุณจะไม่ยอมจำนนต่อการผ่อนคลายทั้งหมด เมนูสปาที่ได้รับรางวัล รวมทั้งความหลากหลายของเทคนิคแบบเอเซียและไทยดั้งเดิม ที่ใช้เส้นศูนย์สูตร ดินเหนียว และสมุนไพร เพื่อที่จะฟื้นฟูความกลมกลืนทั้งภายนอกและภายใน จากการบำบัดหน้าด้วยคาเวียร์สีชมพูไปจนถึงการนวดด้วยหินร้อน แขกสามารถที่จะสร้างแพคเกจส่วนตัวแบบสองถึงสี่ชั่วโมงให้เป็นไปตามที่ต้องการได้',
+        WELLNESS_SM_SL_H:'Chi, The Spa, Shangri-La Hotel, Bangkok',
+        WELLNESS_SM_SL_P1:'After stepping into Chi and taking in its underground monastery aesthetic, it’s impossible not to submit to total relaxation. The award-winning spa menu includes a variety of traditional Asian and Thai techniques that use meridian lines, clay and herbs to restore inner and outer harmony. From pink caviar facial treatments to gliding hot stone massages, guests can even create their own two- to fourhour packages to suit their personal needs.',
 
-        WELLNESS_SM_PS_H:'เดอะ เพนนินซูลา สปา เพนนินซูลา กรุงเทพ ฯ',
-        WELLNESS_SM_PS_P1:'ภายในอาคารทรงโคโลเนี่ยลแบบไทยที่มองออกไปเห็นแม่น้ำเจ้าพระยา เพนนินซูลาสปานำเสนอการบำบัดที่จัดเฉพาะบุคคลสำหรับร่างกาย จิตใจ และจิตวิญญาณ แพคเกจประกอบด้วยการขัดผิวด้วยเกลือสมุทร อบไอน้ำ และการบำบัดด้วยกลิ่นหอม เพือที่จะปลดปล่อยความเครียดที่ฝังลึกและยกระดับสัมผัสขึ้นอย่างอ่อนโยน เพนนินซูลาสปายังมีเมนูการบำบัดที่เหนือธรรมดาที่เน้นสำหรับผู้ชาย ความเครียดไม่สามารถต้านทานใบหน้าที่บริสุทธิ์และแจ่มใส และการนวดกดจุดที่เท้า คอและหลัง',
+        WELLNESS_SM_PS_H:'The Peninsula Spa, The Peninsula Bangkok',
+        WELLNESS_SM_PS_P1:'In a bespoke Thai colonial-style building overlooking the Chao Phraya River, the Peninsula’s spa offers tailor-made treatments for the body, mind and soul. Packages combine marine salt exfoliation, steam and aromatherapy to release deep-seated tension and gently uplift the senses. The Peninsula also boasts an exceptional treatment menu aimed towards men. Stress stands no chance against purifying and brightening facials and deep pressure point foot, neck and back massages.',
 
-        WELLNESS_Y_H:'โยคะ',
-        WELLNESS_SM_SK_H:'สมาฮิตา เกาะสมุย',
-        WELLNESS_SM_SK_P1:'การบำบัดริมหาดที่นี่เป็นที่รู้จักันดีว่าเป็นหนึ่งในจุดหมายชั้นยอดของโลกสำหรับโยคะและเป็นด้วยเหตุผลที่ดี การบำบัดที่สมาฮิตานั้นล้ำลึกอย่างยิ่ง ไม่เพียงแต่เป็นการฝึกฝนประจำวันเท่านั้น แต่ยังสอนถึงปรัชญา ประวัติศาสตร์และสุขภาพในระยะยาว ทั้งผู้ที่เริ่มต้นและผู้ที่ช่ำชองสามารถที่จะได้กำไรจากโปรแกรมที่จัดเฉพาะและจะมีทางเลือกที่จะรวมการล้างพิษ การทำความสะอาด และการทำสมาธิ ในแพคเกจใดๆ สำหรับวิธีการที่ครอบคลุมในการรักษาสุขภาพ',
+        WELLNESS_Y_H:'Yoga',
+        WELLNESS_SM_SK_H:'Samahita, Koh Samui',
+        WELLNESS_SM_SK_P1:'This beachfront retreat is known as one of the world’s top destinations for yogis, and for good reason. Retreats at Samahita are extremely in-depth, offering not just daily practice but teachings about philosophy, history and long-term health. Both beginners and seasoned practitioners can benefit from Samahita’s custom programmes, and there’s always the option of incorporating detox, cleansing and meditation into any of the packages for the most allaround approach to wellbeing.',
 
-        WELLNESS_SM_SS_H:'สปา แซงค์ชัวรี่ บันยันทรี ภูเก็ต',
-        WELLNESS_SM_SS_P1:'ไม่มีการฟื้นฟูที่ไหนที่ดีไปกว่าที่หมู่บ้านสปาแห่งนี้ กลุ่มวิลล่าที่หรูหราจำนวน 14 หลังที่ตั้งอยู่ในแมกไม้ที่ห้อมล้อมอยู่ของอ่าวบางเทา ภูเก็ต ที่สปา แซงค์ชัวรี่แห่งนี้ แขกสามารถที่จะมีความสุขไปกับโยคะในสวนกลางแจ้งของวิลล่าที่เป็นส่วนตัวและเงียบสงบ ห้อมล้อมไปด้วยดอกไม้ที่สดใสและปาล์มที่มีใบดกเขียวสด ท้ายที่สุดกล้ามเนื่อที่ปวดเมื่อยจะคลายไปอย่างง่ายดายบนระเบียงส่วนตัวที่ออกแบบสำหรับการนวดในวิลล่า',
+        WELLNESS_SM_SS_H:'Spa Sanctuary, Banyan Tree Phuket',
+        WELLNESS_SM_SS_P1:'Rejuvenation doesn’t get much better than this spa village, a collection of 14 exclusive luxury villas nestled in the bountiful greenery of Bang Tao Bay, Phuket. At Spa Sanctuary, guests can enjoy yoga in the peace and intimacy of the villa’s outdoor garden, surrounded by bright flowers and big, leafy palms. Afterwards, aching muscles are effortlessly soothed only steps away, on a private veranda designed for in-villa massage.',
 
-        WELLNESS_SM_JY_H:'จิรวรรณ โยคะ ภูเก็ต',
-        WELLNESS_SM_JY_P1:'การบำบัดด้วยโยคะเพื่อสุขภาพนี้ตั้งอยู่ในโอเอซิสสมัยใหม่ แหลมพันวาที่สวยงามจนตะลึง มันเป็นคำจำกัดความของคำว่า ”ห้องจำนวนน้อย” ซึ่งมีเพียงวิลล่าที่หรูหราจำนวน 16 หลัง ตั้งอยู่อย่างกว้างขวางบนชายหาด ชั้นเรียนแรกของโยคะเริ่มตอนพระอาทิตย์ขึ้น บนหาดทรายสีขาวหันหน้าไปทางทะเลอันดามัน ว่ากันว่าคุณสามารถว่ายน้ำได้ 365 วันต่อปีบนชายหาดแห่งนี้ และการที่จะลงแช่น้ำหลังจากการคารวะดวงอาทิตย์เป็นความเลิศเลอที่เรียบง่าย',
+        WELLNESS_SM_JY_H:'Chirawan Yoga Retreat, Phuket',
+        WELLNESS_SM_JY_P1:'This boutique health yoga retreat is located on a modern-day oasis, the stunning Cape Panwa peninsula. It’s the definition of low-key, with only 16 luxury villas spaciously located along the beach. The first yoga class takes place as the sun comes up, on white sands overlooking the Andaman. They say you can swim 365 days a year on this shoreline, and taking a dip after sun salutations is quite simply divine.',
 
-        WELLNESS_SM_SKP_H:'เดอะ แซงค์ชัวรี่ เกาะพงัน',
-        WELLNESS_SM_SKP_P1:'ตั้งอยู่บนชายฝั่งที่ไม่ถูกแตะต้องของหาดเทียน เกาะพงัน เดอะแซงค์ชัวรี่เป็นหนึ่งในการบำบัดด้วยโยคะที่ลับที่สุดแห่งหนึ่งของประเทศไทย ที่รีสอร์ทนี้จัดให้มีการบำบัดและเวิร์คชอปโยคะเป็นประจำ เช่นเดียวกับชั้นเรียนโยคะ สมาธิ และพิลาทิส ประจำวัน แพคเกจโยคะวันหยุดนำเสนอดปรแกรม 3, 7 และ 10 วัน ที่เต็มไปด้วยชั้นเรียนส่วนตัว และการนวดบำบัด บังกะโลในป่าที่มีเปลและบันไดไม้ทำให้ที่พักนี้เป็นที่พักที่แท้จริง',
+        WELLNESS_SM_SKP_H:'The Sanctuary, Koh Phangan',
+        WELLNESS_SM_SKP_P1:'Found on the untouched coast of Hat Thian, Koh Phangan, The Sanctuary is one of the most clandestine yoga retreats in Thailand. The resort hosts regular yoga retreats and workshops, as well as daily classes in yoga, meditation and pilates. The yoga holiday package offers three, seven and 10-day programmes loaded up with private sessions, steam sessions and massage therapy. Jungle bungalows with hammocks and wooden ladders make for authentic accommodation.',
 
 
-        WELLNESS_M_H:'การทำสมาธิ',
-        WELLNESS_M_DK_H:'ทีปภาวันธรรมสถาน เกาะสมุย',
-        WELLNESS_M_DK_P1:'ธรรมสถานแห่งนี้นำเสนอทางเลือกที่จะดื่มด่ำกับความงามของเกาะสมุยผ่านทางการบำบัดโดยการทำสมาธิบำบัด เป็นภาษาอังกฤษ ที่จะช่วยรักษาจิตใจ ร่างกาย และจิตวิญญาณที่ไม่เหมือนอื่นใด กิจกรรมของศูนย์เน้นในการฝึกฝนการทำสมาธิด้วยการเดิน การยืน และการนั่ง เพื่อช่วยให้แขกได้เอาชนะจิตใจที่วุ่นวายและได้รับความสงบสุขภายใน ทีปภาวันตั้งอยู่ในหุบเขาที่ซ่อนตัวอย่างเงียบสงบไม่ไกลจากชายฝั่งสมุย ซึ่งเป็นที่ที่สมบูรณ์แบบที่จะปล่อยให้โลกภายนอกได้ออกไป',
+        WELLNESS_M_H:'Meditation',
+        WELLNESS_M_DMC_H:'Dipabhavan Meditation Center, Koh Samui',
+        WELLNESS_M_DMC_P1:'This meditation centre offers tourists an alternative way to enjoy the beauty of Koh Samui through English-language meditation retreats that rejuvenate the mind, body and soul like no other. The centre’s activities focus on various walking, standing and sitting meditation practices that help guests conquer their chaotic minds and to attain inner peace. Dipabhāvan is located in the secluded lush hills just off Samui’s coast, providing the perfect setting to let the outside world fall away.',
 
-        WELLNESS_M_DK_H:'ศูนย์ฯ ธรรมกมลา ปราจีณบุรี',
-        WELLNESS_M_DK_P1:'ศูนย์วิปัสสนาสมาธิแห่งนี้มีหลักสูตรที่ตามคำสอนของ เอส เอ็น โกเอ็นก้า ผู้สอนวิปัสสนาที่มีชื่อเสียงที่สุดในโลกสมัยใหม่ เทคนิคเหล่านี้ ถูกสอนครั้งแรกในอินเดียกว่า 2,500 ปีมาแล้ว สอนการเปลี่ยนแปลงตนเองโดยการสังเกต ผู้เรียนจะถือศีลแปดและการรักษาความเงียบเป็นเวลา 10 วัน ทำสมาธิเป็นเวลา 10 ชั่งโมงต่อวันโดยมีการหยุดพัก โรงเรียนนี้ตั้งอยู่ใกล้อุทยานแห่งชาติเขาใหญ่ รอบล้อมด้วยสระบัวและต้นไม้ที่พลิ้วไหวเพิ่มมุมมองในปรากฏการณ์ทางธรรวมชาติให้แก่การเดินทาง',
+        WELLNESS_M_DK_H:'Dhamma Kamala, Prachinburi',
+        WELLNESS_M_DK_P1:'This Vipassana meditation school offers courses that follow the teachings of S.N. Goenka, the foremost Vipassana instructor of the modern age. These techniques, first taught in India 2,500 years ago, teach self-transformation through observation. Students do this by practising the eight precepts and noble silence for 10 days, meditating for 10 hours a day with pauses. Located near Khao Yai National Park, the surrounding lotus ponds and swaying trees add phenomenal perspective to the journey.',
 
-        WELLNESS_M_MWM_H:'สมาธิบำบัดมิดเดิลเวย์ เลย',
-        WELLNESS_M_MWM_P1:'ท่ามกลางความเขียวขจีและขุนเขาของภาคตะวันออกเฉียงเหนือของประเทศไทย ผู้เรียนที่มาที่มิดเดิลเวย์เพื่อเรียนรู้การทำสมาธิและการพัฒนาตนผ่านทางการบำบัด 7 วัน ที่นี่เน้นที่การทำสมาธิแบบธรรมกาย จากการค้นหาตัวตนที่แท้จริงสู่ความแท้จริงของนิพพาน ศูนย์แห่งนี้มีภูมิทัศน์ที่สวยงามโดดเด่นพร้อมทั้งการสนทนาธรรมและทำสมาธิติดกับสวนภายนอก ใกล้น้ำตก และในบ้านพักทำด้วยไม้ที่มองเห็นป่า',
+        WELLNESS_M_MWM_H:'The Middle Way Meditation Retreat, Loei',
+        WELLNESS_M_MWM_P1:'Amongst the green, rolling mountains of northeastern Thailand, students come to The Middle Way to learn about meditation and self-development through a seven-day retreat. Dhammakaya meditation is the focus here, from finding the true self to the underlying reality of nirvana. The centre is fabulously landscaped with Dharma talks and meditation next to outdoor gardens, near waterfalls and in wooden bungalows overlooking the jungle.',
 
-        WELLNESS_M_WSM_H:'วัดสวนโมกข์ ไชยา',
-        WELLNESS_M_WSM_P1:'วัดป่าที่ตั้งอยู่ใกล้หมู่บ้านทางใต้ของอำเภอไชยาแห่งนี้เปิดให้การบำบัดด้วยการทำวิปัสสนาสมาธิ 10 วัน เพียงเดือนละครั้ง แขกสามารถเรียนรู้การอยู่แบบพระ ต่อด้วยการนั่งและยืนสมาธิประจำวัน และสนทนาธรรม ซึ่งเริ่มเวลา 4 นาฬิกาของทุกวัน การนอนบนเสื่อและหมอนไม้ ทำให้ได้ประสบการณ์ที่แท้จริงและเป็นเพียงหนึ่งเดียว',
+        WELLNESS_M_WSM_H:'Wat Suan Mokkh, Chaiya',
+        WELLNESS_M_WSM_P1:'This forest monastery near the southern village of Chaiya opens its doors just once a month for a 10-day silent meditation retreat. Guests learn to live as the temple’s monks do, following a daily routine of sitting and standing meditations and Dharma talks starting everyday at 4am. Sleeping on wooden pillows covered by straw mats only makes the experience that much more genuine and one-of-a-kind.',
 
-        WELLNESS_M_JIP_H:'ศูนย์สมาธิเขาธรรม เกาะพงัน',
-        WELLNESS_M_JIP_P1:'ก่อตั้งโดยแม่ชีในพุทธศาสนา แม่ชีอมรพันธ์ เมื่อกว่า 50 มาแล้ว อารามในถ้ำบนภูเขาแห่งนี้ตั้งอยู่ท่ามกลางป่าที่บริสุทธิ์ และสวนมะพร้าวบนเกาะพงัน เขาธรรมจัดให้มีการทำสมาธิบำบัดแบบสติพัฒนา พื้นฐานหลัก 4 ประการของการค้นหาทางจิตผ่านทาง การสวดมนต์ โยคะ และรูปแบบที่หลากหลายของการทำสมาธิ ปัจจุบันในวัยกว่า 90 ปีของท่าน แม่ชีอมรพันธ์ยังคงให้ธรรมโอวาทแก่ผู้เข้าร่วมในการบำบัดทุกครั้ง',
+        WELLNESS_M_JIP_H:'Kow Tahm Insight Meditation Centre, Koh Phangan',
+        WELLNESS_M_JIP_P1:'Founded by the Thai Buddhist nun Mae Chee Ahmon Pun over 50 years ago, this mountain cave monastery sits amongst pristine jungle and coconut plantations in Koh Phangan. Kow Tahm offers a meditation retreat on Satipatthana, the four foundations of mindfulness, discovered through chanting, yoga and various forms of meditation. Now in her 90s, Mae Chee Ahmon Pun continues to give a welcoming Dhamma speech to every retreat.',
 
-        WELLNESS_RD_H:'การพักฟื้นและล้างพิษ',
-        WELLNESS_RD_SK_H:'แอบโซลูต แซงค์ชัวรี่ เกาะสมุย',
-        WELLNESS_RD_SK_P1:'เอกเขนกบนพรมมาราเกสและหมอนผ้าไหมที่ฟุ่มเฟือยเป็นวิธีที่คุณจะคาดหวังได้จากการใช้เวลาในการล้างพิษที่การบำบัดที่ได้รับแรงบรรดาลใจจากโมรอกโกแห่งนี้ แอบโซลูต แซงค์ชัวรี่ ใช้การบำบัดทางเลือกเพื่อช่วยระบบเช่น ชิเนซุง และการแพทย์ทางเลือกแบบ ชิอัตซึ ที่มีชื่อเสียงในด้านที่เป็นบ้านของมารดาแห่งการล้างพิษทั้งปวง เดอะ ดีท๊อกซอร์ ดีไลท์ การบำบัดรวมถึงชุดบำบัด 20 วัน ที่มีชั่วโมงเรอิกิ โยคะที่ไม่จำกัด และการหุ้มร่างกายเพื่อทำความสะอาด เพื่อยกระดับให้ภาวะจิตใจไปสู่อีกมิติหนึ่ง',
+        WELLNESS_RD_H:'Rehab & Detox',
+        WELLNESS_RD_SK_H:'Absolute Sanctuary, Koh Samui',
+        WELLNESS_RD_SK_P1:'Lounging on Marrakesh carpets and lavish silk pillows is how you’ll expect to spend time on a detox at this Moroccan-inspired retreat. Absolute Sanctuary uses alternative therapies to help flush the system, like Chi Nei Tsang and holistic Shiatsu. It’s famous as the home of the mother of all detoxes: the Detoxer’s Delight. The treatment includes 20 days packed with Reiki sessions, unlimited yoga and cleansing body wraps to lift the spirit into another dimension.',
 
-        WELLNESS_RD_HR_H:'โฮป รีแฮบ เซ็นเตอร์ ประเทศไทย ศรีราชา',
-        WELLNESS_RD_HR_P1:'โปรแกรมของโฮป รีแฮบ ผสมผสานระหว่างพุทธ และ 12 เสต็ป นำหลักการจากทั้งตะวันออกและมุมมองโลกจากตะวันตกเพื่อต่อสู้กับการเสพติด การฟื้นฟูทำโดยผ่านทางการทำสมาธิและการรักษาทางเลือกที่นี่ ที่ศรีราชา ท่าเรือประมงเก่าแก่บนชายฝั่งตะวันออกของอ่าวไทย ภูมิประเทศโดยรอบช่วยให้เกิดที่ตั้งที่สงบของศูนย์ ซึ่งงานหลักคือ การให้คำปรึกษา การช่วยฝึกสอนให้ละเลิก การบำบัดโดยการทำความเข้าใจในพฤติกรรม และการทำกลุ่มซื่อสัตย์ ',
+        WELLNESS_RD_HR_H:'Hope Rehab Centre Thailand, Sriracha',
+        WELLNESS_RD_HR_P1:'Hope Rehab’s programme blends together Buddhism and the 12 steps, taking principles from both Eastern and Western worldviews to battle addiction. Recovery takes place through meditation and holistic practices here in Sriracha, a charming old fishing port on the east coast of the Gulf of Thailand. The surrounding countryside provides a calming setting for the centre’s key work: counseling, sober coaching, cognitive behavioural therapy and honest group work',
 
-        WELLNESS_RD_CCM_H:'เดอะ เคบิ้น เชียงใหม่',
-        WELLNESS_RD_CCM_P1:'ต้องขอบคุณสำหรับกลุ่มลูกค้าคนดัง เดอะ เคบิ้น ได้กลายเป็นหนึ่งในศูนย์บำบัดยาเสพติดที่มีชื่อเสียงในโลก บ้านหลังเล็กๆ ที่ทำจากไม้สักกลุ่มนี้ที่ตั้งอยู่ริมแม่น้ำปิงในจังหวัดเชียงใหม่เป็นที่ที่ผู้ที่ดิ้นรนกับการติดยาเสพติดมาเพื่อทำให้จิตใจ ร่างกาย และจิตวิญญาณสามารถกลับสู่เส้นทางได้ หลักการในการรักษาที่นี่คือการบำบัดโดยการทำความเข้าใจในพฤติกรรม เสริมด้วย 12 สเต็ป และเทคนิคสมัยใหม่ที่เรียกว่าความเอาใจใส่อย่างมีสติ ตั้งอยู่บนพื้นฐานของความเชื่อในศาสนาพุทธ จึงมุ่งอยู่กับความเป็นอยู่ในปัจจุบันผ่านทางโยคะและการทำสมาธิ',
+        WELLNESS_RD_CCM_H:'The Cabin, Chiang Mai',
+        WELLNESS_RD_CCM_P1:'Thanks to a long list of celebrity clientele, The Cabin has become one of the world’s most famous drug treatment centres. This collection of teakwood cabins along Chiang Mai’s Ping River is where those struggling with addiction come to get mind, body and soul back on track. The principal treatment is cognitive behaviourial therapy, complemented by the 12 steps and a modern technique called mindfulness. Based on Buddhist beliefs, it encourages focusing on the present moment through yoga and meditation.',
 
-        WELLNESS_RD_DR_H:'ดารา รีแฮบ เกาะช้าง',
-        WELLNESS_RD_DR_P1:'ศูนย์บำบัดที่หรูหราแห่งนี้มีวิลล่าส่วนตัวที่มองเห็นสวนภูมิทัศน์ และเติมความสมบูรณ์ด้วยสระส่วนตัว จากุซซี่ และปัจจัยความสะดวกแบบห้าดาว น้ำพุในสวนและสระแสดงถึงสวรรค์เขตร้อน ที่ซึ่งผู้ป่วยสามารถเริ่มและติดตามได้ตลอดการรักษาที่เข้มข้นและด้วยความช่วยเหลือของโค้ชชีวิตและแพทย์ทางเลือก ที่นี่เป็นศูนย์ที่เป็นเรือธงของดารา และยังมีศูนย์ที่เล็กกว่าอีกหนึ่งแห่งตั้งอยู่ที่จังหวัดจันทบุรีซึ่งมองเห็นทิวทัศน์ของอ่าวไทย',
+        WELLNESS_RD_DR_H:'Dara Rehab, Koh Chang',
+        WELLNESS_RD_DR_P1:'This luxury treatment centre boasts private villas overlooking plush, landscaped gardens, complete with private pools, Jacuzzis and fivestar amenities. The courtyard fountains and koi pond present a tropical paradise, where patients can begin and follow through on their intensive work with the help of life coaches and holistic practitioners. This is Dara’s flagship centre, with another smaller one located in Chanthaburi overlooking the Gulf.',
 
-        WELLNESS_RD_KY_H:'กมาลยา เกาะสมุย',
-        WELLNESS_RD_KY_P1:'ที่รีสอร์ทสุขภาพระดับสูงแห่งนี้จะแผ่รังสีพลังงานด้านดีและตั้งอยู่ติดกับถ้ำซึ่งครั้งหนึ่งเคยเป็นสำนักวิปัสสนาของพระในพระพุทธศาสนา ด้วยที่เป็นหุบลึกไหลลงไปยังชายหาดส่วนตัวตัดกับกำแพงหินธรรมชาติและต้นไม้ที่สวยงาม แน่นอนที่กมลายาเป็นสถานที่ที่สมบูรณ์ในการที่จะตรวจสอบภายในตนเอง การบำบัดมีโปรแกรมสุขภาพที่ตอบสนองต่อปัญหาเฉพาะ จากโรคนอนไม่หลับไปจนถึงความไม่สมดุลยของอารมย์และการหมดกำลังใจโดยจะใช้การทำสมาธิเป็นหลัก',
+        WELLNESS_RD_KY_H:'Kamalaya, Koh Samui',
+        WELLNESS_RD_KY_P1:'This upscale wellness resort radiates good energy, and is situated next to a cave that was once a meditation temple for Buddhist monks. With a wild ravine that flows down onto a private beach, offset by natural rock walls and beautiful trees, Kamalaya is indeed the perfect setting for introspection. The retreat offers wellness programmes that tackle specific issues, from insomnia to emotional imbalance and burnout, always using meditation as a core practice.',
 
-        WELLNESS_RD_CH_H:'ชีวาศรม หัวหิน',
-        WELLNESS_RD_CH_P1:'ที่นี่เป็นที่ดูแลสุขภาพชั้นนำของโลก การกำจัดของเสียจากร่างกายไม่ใช่เรื่องยาก ต้องขอบคุณความหลากหลายของโปรแกรมการทำความสะอาดที่ครอบคลุมและสปาที่มีชื่อเสียง มีโปรแกรมการดูแลมากกว่า 200 โปรแกรมที่ชีวาศรม ตั้งแต่การชำระระบบไปจนถึงหลักการล้างพิษเบื้องต้น แพทย์ทางเลือกและการรักษาโดยการดูแลด้านอาหารและจิตใจจะเป็นผู้แนะนำในทุกขั้นตอน และยังจัดสอนการทำอาหารและเวลาในการรักษาในสวนอินทรีย์',
+        WELLNESS_RD_CH_H:'Chiva-Som, Hua Hin',
+        WELLNESS_RD_CH_P1:'Here at the world’s leading health retreat, getting rid of toxins is no struggle thanks to a wide range of comprehensive cleansing programs and renowned spa cuisine. There are over 200 treatments offered at Chiva-Som, and packages range from strict system flushes to introductory detox regimens. Naturopaths and holistic practitioners provide guidance every step of the way, also offering cooking classes and time in the retreat’s organic garden.',
 
-        WELLNESS_RD_SPA_H:'เดอะ สปา เกาะช้าง',
-        WELLNESS_RD_SPA_P1:'รายการดูแลระดับโลกที่มี้พียงที่เกาะช้างได้พิสูจน์แล้วว่าการล้างพิษไม่ได้หมายความถึงการปล่อยให้หิว คุณจะไม่ต้องการสิ่งอื่นใดนอกเหนือจากรายการเช่น น้ำผลไม้คั้นสด สมูทตี้ และสิ่งสร้างสรรค์จากอาหารดิบ คุณสามารถที่จะตั้งตารอคอยของหวานดิบเพื่อสุขภาพ ทุกอย่างบนเมนูมาจากแหล่งท้องถิ่น สดและอร่อย รวมทั้งผลไม้และผักจากโครงการหลวงดอยคำที่อยู่ใกล้เคียง',
+        WELLNESS_RD_SPA_H:'The SPA, Koh Chang',
+        WELLNESS_RD_SPA_P1:'The world-class menu at Koh Chang’s only health retreat proves that detoxing does not mean going hungry. You won’t want for anything from their list of healthy fruit juices, smoothies and raw food creations. You can even look forward to a healthy raw dessert! Everything on the menu is locally sourced, fresh and delicious, including fruits and vegetables from the nearby Doi Kum Royal Project.',
 
-        WELLNESS_RD_SS_H:'เซนส์เสส ภูเก็ต',
-        WELLNESS_RD_SS_P1:'จะมีอะไรดีไปกว่าการทำความสะอาดในระหว่างที่ล่องเรือในทะเลอันดามัน เซนสเสส ภูเก็ตเสนอการล่องเรือล้างพิษภายใต้ตรรกะที่ว่าแสงอาทิตย์ ทะเล และอากาศบริสุทธิ์เป็นสิ่งวิเศษในกระบวนการการทำความสะอาด ไม่เพียงแต่เป็นการผจญภัยของร่างกายแต่เป็นสำหรับจิตใจด้วยเช่นกัน เรือจะหยุดแวะที่จุดหมายหลายแห่งเช่นอ่าวพังงา เกาะพีพี ขึ้นอยู่กับความต้องการของแขก',
+        WELLNESS_RD_SS_H:'Senses Phuket',
+        WELLNESS_RD_SS_P1:'What better way to cleanse than while sailing on the Andaman? Senses Phuket offers a detox cruise, under the logic that the sun, sea and fresh air can be fantastic for the cleansing process. It’s not only an adventure of the body but the mind as well. The ship stops at various destinations, including Phang Nga Bay and Phi Phi island, according to the preference of the guests.',
 
-        WELLNESS_RD_AH_H:'อัตสุมิ ฮีลลิ่ง เกาะสมุย',
-        WELLNESS_RD_AH_P1:'รายการอาหารมังสวิรัตและวีแกนอันหรูหราของ อัตสุมิ ฮีลลิ่ง เป็นเมนูระดับโลกที่นำพาการล้างพิษไปสู่อีกระดับหนึ่ง จากพาสต้า ถึงสลัด และแรป สิ่งที่เชฟของ อัตสุมิ สามารถทำได้กับวัตถุดิบที่ไม่ผ่านการปรุงสุกเป็นเรื่องที่มหัศจรรย์โดยไม่ต้องพูดถึงความอร่อย การดูแลรวมถึงการบริการพิเศษเช่น เครื่องดื่มจาก ฮวีตแกรส และเครื่องดื่มเพิ่มพลังโปรไบโอติค ที่จะปลุกการทำงานของระบบและกระตุ้นพลังงานขึ้นอีกระดับ ระบบย่อยอาหารและภูมิคุ้มกันของคุณจะดีขึ้นกว่าที่ผ่านมา ก่อนที่คุณจะรู้ตัวเสียอีก',
+        WELLNESS_RD_AH_H:'Atsumi Healing, Koh Samui',
+        WELLNESS_RD_AH_P1:'Atsumi Healing’s world-class luxury raw vegan and vegetarian food menu takes detox to another level. From pasta to salad and wraps, what Atsumi’s chefs can do with only uncooked ingredients is amazing, not to mention delicious. The retreat also offers extras like wheatgrass shots and probiotic boosters to awaken the system and step up energy levels. Before you know it, your digestion and immune system will be in better shape than ever.',
 }
