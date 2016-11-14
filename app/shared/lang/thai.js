@@ -476,6 +476,492 @@ var translationsTH = {
         ONCE_GOLFING_SC_P1:'สนามกอล์ฟสภาพดีที่สุดแห่งหนึ่งของประเทศ ออกแบบโดยโรเบิร์ต เทรนท์ โจนส์ (Robert Trent Jones)',
 
 
+        CONNECT_H:'Useful Contact Information',
+        CONNECT_HOFF_H:'HEAD OFFICE',
+        CONNECT_HOFF_TAT:'Tourism Authority of Thailand',
+
+        CONNECT_OO_H:'OVERSEAS OFFICES',
+        CONNECT_OO_AP_H:'ASIA & PACIFIC',
+        CONNECT_OO_AP_KL:'KUALA LUMPUR Tourism Authority of Thailand',
+        CONNECT_OO_AP_KL_P1:'Areas of Responsibility: Malaysia and Brunei Darussalam',
+
+        CONNECT_OO_AP_SG:'SINGAPORE Tourism Authority of Thailand',
+        CONNECT_OO_AP_SG_P1:'Areas of Responsibility: Singapore and Philippines',
+
+        CONNECT_OO_AP_G:'GUANGZHOU Tourism Authority of Thailand',
+        CONNECT_OO_AP_G_P1:'Areas of Responsibility: Jiangxi, Fujian, Guangdong, Hainan and Hunan',
+
+        CONNECT_OO_AP_JT:'JAKARTA Tourism Authority of Thailand',
+        CONNECT_OO_AP_JT_P1:'Area of Responsibility: Indonesia',
+
+        CONNECT_OO_AP_HCM:'HO CHI MINH CITY Tourism Authority of Thailand',
+        CONNECT_OO_AP_HCM_P1:'Areas of Responsibility: Vietnam, Laos PDR and Cambodia',
+
+        CONNECT_OO_AP_HK:'HONG KONG Tourism Authority of Thailand',
+        CONNECT_OO_AP_HK_P1:'Areas of Responsibility: Hong Kong and Macau',
+
+        CONNECT_OO_AP_BJ:'BEIJING Tourism Authority of Thailand',
+        CONNECT_OO_AP_BJ_P1:'Areas of Responsibility: Beijing, Liaoning Province, Jilin, Tianjin, Hebei, Heilongjiang, Shanxi, Henan, inner Mongolia Autonomous Region and Mongolia',
+
+        CONNECT_OO_AP_KM:'KUNMING Tourism Authority of Thailand',
+        CONNECT_OO_AP_KM_P1:'Areas of Responsibility: Yunnan, Guizhou and Guangxi Zhuang Autonomous Region',
+
+        CONNECT_OO_AP_SH:'SHANGHAI Tourism Authority of Thailand',
+        CONNECT_OO_AP_SH_P1:'Area of Responsibility: Shanghai, Shandong, Hubei, Anhui, Jiangsu and Zhejiang',
+
+        CONNECT_OO_AP_CD:'CHENGDU Tourism Authority of Thailand',
+        CONNECT_OO_AP_CD_P1:'Areas of Responsibility: Xinjiang Uyghur Autonomous Region, Qinghai, Ningxia Hui Autonomous Region, Gansu, Shaanxi, Chongqing, Sichuan and Tibet Autonomous Region',
+
+        CONNECT_OO_AP_TP:'TAIPEI Thailand Tourism Division',
+        CONNECT_OO_AP_TP_P1:'Area of Responsibility: Taiwan',
+
+        CONNECT_OO_AP_TY:'TOKYO Tourism Authority of Thailand',
+        CONNECT_OO_AP_TY_P1:'Areas of Responsibility: Northern Area of Honshu Island: Tohoku, Kanto and Hokkaido Island',
+
+        CONNECT_OO_AP_OS:'OSAKA Tourism Authority of Thailand',
+        CONNECT_OO_AP_OS_P1:'Areas of Responsibility: Southern Area of Honshu Island: Kinki, Chugoku and Chubu',
+
+        CONNECT_OO_AP_SO:'SEOUL Tourism Authority of Thailand',
+        CONNECT_OO_AP_SO_P1:'Areas of Responsibility: Northern India, Bangladesh, Nepal and Bhutan',
+
+        CONNECT_OO_AP_ND:'NEW DELHI Tourism Authority of Thailand',
+        CONNECT_OO_AP_ND_P1:'Areas of Responsibility: Jiangxi, Fujian, Guangdong, Hainan and Hunan',
+
+        CONNECT_OO_AP_MB:'MUMBAI Tourism Authority of Thailand',
+        CONNECT_OO_AP_MB_P1:'Areas of Responsibility: Western and Southern India, Sri Lanka and Maldives',
+
+        CONNECT_OO_AP_SN:'SYDNEY Tourism Authority of Thailand',
+        CONNECT_OO_AP_SN_P1:'Areas of Responsibility: Australia, New Zealand and South Pacific',
+
+
+        CONNECT_OO_EP_H:'EUROPE',
+        CONNECT_OO_EP_LT:'LONDON Tourism Authority of Thailand',
+        CONNECT_OO_EP_LT_P1:'Areas of Responsibility: United Kingdom and Ireland',
+
+        CONNECT_OO_EP_FF:'FRANKFURT Thailandisches Fremdenverkehrsamt',
+        CONNECT_OO_EP_FF_P1:'Areas of Responsibility: Germany, Austria, Yugoslavia, Croatia, Switzerland, Liechtenstein, Romania, Bulgaria, Moldova, Macedonia, Albania, Czech Republic, Slovakia, Poland, Hungary and Bosnia-Herzegovina',
+
+        CONNECT_OO_EP_PR:'PARIS Office National du Tourisme de Thailande',
+        CONNECT_OO_EP_PR_P1:'Areas of Responsibility: Italy, Spain, Greece, Portugal, Israel, Egypt, Turkey and Cyprus',
+
+        CONNECT_OO_EP_R: 'ROME Ente Nazionale per il Turismo Thailandese',
+        CONNECT_OO_EP_R_P1: 'Areas of Responsibility: Italy, Spain, Greece, Portugal, Israel, Egypt, Turkey and Cyprus',
+        
+        CONNECT_OO_EP_SH:'STOCKHOLM Tourism Authority of Thailand',
+        CONNECT_OO_EP_SH_P1:'Areas of Responsibility: Sweden, Norway, Denmark, Finland, Iceland, Estonia, Latvia and Lithuania',
+
+        CONNECT_OO_EP_MC:'MOSCOW Tourism Authority of Thailand',
+        CONNECT_OO_EP_MC_P1:'Areas of Responsibility: Russia, Belarus, Ukraine, Georgia, Armenia, Azerbaijan, Kazakhstan, Uzbekistan, Turkmenistan, Tajikistan and Kyrgyz',
+
+        CONNECT_OO_EP_DB:'DUBAI Tourism Authority of Thailand Dubai & Middle East Office',
+        CONNECT_OO_EP_DB_P1:'Areas of Responsibility: Bahrain, Iran, Iraq, Jordan, Kuwait, Lebanon, Oman, Qatar, Syria and Saudi Arabia and United Arab Emirales',
+
+
+        CONNECT_OO_AM_H:'THE AMERICAS ',
+        CONNECT_OO_AM_LA:'LOS ANGELES Tourism Authority of Thailand',
+        CONNECT_OO_AM_LA_P1:'California, Colorado, Hawaii, Idaho, Kansas, Montana, Nebraska, Nevada, New Mexico, North Dakota, Oklahoma, Oregon, South Dakota, Texas, Utah, Washington, Wyoming, Guam Island and all Central and Southern American Countrie',
+
+        CONNECT_OO_AM_NY:'NEW YORK Tourism Authority of Thailand',
+        CONNECT_OO_AM_NY_P1:'Areas of Responsibility: Alabama, Arkansas, Connecticut, Delaware, Florida, Georgia, Illinois, Indiana, Iowa, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, New York, New Hampshire, New Jersey, North Carolina, Ohio, Pennsylvania, Rhode Island, South Carolina, Tennessee, Vermont, Virginia, Washington D.C., West Virginia, Wisconsin, Puerto Rico, the Bahamas and Canada Countries (West Canada: Alberta, BritishColumbia, Manitoba, Northwest Territories, Saskatchewan and Yukon; East Canada: Ontario, Quebec, New Brunswick, Nova Scotia and Newfoundland)',
+
+
+        CONNECT_LF_H:'LOCAL OFFICES',
+        CONNECT_LF_NR_H:'NORTHERN REGION',
+        CONNECT_LF_NR_CM:'Tourism Authority of Thailand, Chiang Mai Office (TAT Chiang Mai)',
+        CONNECT_LF_NR_CM_P1:'Areas of Responsibility: Chiang Mai,Lamphun and Lampang',
+
+        CONNECT_LF_NR_MH:'Tourism Authority of Thailand, Mae Hong Son Office (TAT Mae Hong Son)',
+        CONNECT_LF_NR_MH_P1:'Area of Responsibility: Mae Hong Son',
+
+        CONNECT_LF_NR_CR:'Tourism Authority of Thailand, Chiang Rai Office (TAT Chiang Rai)',
+        CONNECT_LF_NR_CR_P1:'Areas of Responsibility: Chiang Rai and Phayao',
+
+        CONNECT_LF_NR_P:'Tourism Authority of Thailand, Phrae Office (TAT Phrae)',
+        CONNECT_LF_NR_P_P1:'Areas of Responsibility: Phrae, Nan and Uttaradit',
+
+        CONNECT_LF_NR_PN:'Tourism Authority of Thailand, Phitsanulok Office (TAT Phitsanulok)',
+        CONNECT_LF_NR_PN_P1:'Areas of Responsibility: Phitsanulok, Phetchabun and Phichit',
+
+        CONNECT_LF_NR_T:'Tourism Authority of Thailand, Tak Office (TAT Tak)',
+        CONNECT_LF_NR_T_P1:'Area of Responsibility: Tak',
+
+        CONNECT_LF_NR_UT:'Tourism Authority of Thailand, Uthai Thani Office (TAT Uthai Thani)',
+        CONNECT_LF_NR_UT_P1:'Areas of Responsibility: Uthai Thani and Nakhon Sawan',
+
+        CONNECT_LF_NR_SK:'Tourism Authority of Thailand, Sukhothai Office (TAT Sukhothai)',
+        CONNECT_LF_NR_SK_P1:'Areas of Responsibility: Sukhothai and Kamphaeng Phet',
+
+        CONNECT_LF_CR_H:'CENTRAL REGION',
+        CONNECT_LF_CR_BK:'Tourism Authority of Thailand, Bangkok Office (TAT Bangkok)',
+        CONNECT_LF_CR_BK_P1:'Areas of Responsibility: Bangkok, Pathum Thani, Nonthaburi, Samut Prakan and Chachoengsao',
+
+        CONNECT_LF_CR_SS:'Tourism Authority of Thailand, Samut Songkhram Office (TAT Samut Songkhram)',
+        CONNECT_LF_CR_SS_P1:'Areas of Responsibility: Samut Songkhram, Nakhon Pathom and Samut Sakhon',
+
+        CONNECT_LF_CR_KK:'Tourism Authority of Thailand, Prachuap Khiri Khan Office (TAT Prachuap Khiri Khan)',
+        CONNECT_LF_CR_KK_P1:'Area of Responsibility: Prachuap Khiri Khan',
+
+        CONNECT_LF_CR_KB:'Tourism Authority of Thailand, Kanchanaburi Office (TAT Kanchanaburi)',
+        CONNECT_LF_CR_KB_P1:'Area of Responsibility: Kanchanaburi',
+
+        CONNECT_LF_CR_PB:'Tourism Authority of Thailand, Phetchaburi Office (TAT Phetchaburi)',
+        CONNECT_LF_CR_PB_P1:'Areas of Responsibility: Phetchaburi (Cha-am) and Ratchaburi',
+
+        CONNECT_LF_CR_PN:'Tourism Authority of Thailand, Phra Nakhon Si Ayutthaya Office (TAT Phra Nakhon Si Ayutthaya)',
+        CONNECT_LF_CR_PN_P1:'Area of Responsibility: Phra Nakhon Si Ayutthaya',
+
+        CONNECT_LF_CR_SB:'Tourism Authority of Thailand, Suphan Buri Office (TAT Suphan Buri)',
+        CONNECT_LF_CR_SB_P1:'Areas of Responsibility: Suphan Buri, Ang Thong and Chai Nat',
+
+        CONNECT_LF_CR_LB:'Tourism Authority of Thailand, Lop Buri Office (TAT Lop Buri)',
+        CONNECT_LF_CR_LB_P1:'Areas of Responsibility: Lop Buri, Sing Buri and Saraburi',
+
+        CONNECT_LF_EG_H:'EASTERN REGION',
+        CONNECT_LF_EG_PT:'Tourism Authority of Thailand, Chon Buri Office (TAT Pattaya)',
+        CONNECT_LF_EG_PT_P1:'Area of Responsibility: Chon Buri (Pattaya)',
+
+        CONNECT_LF_EG_RY:'Tourism Authority of Thailand, Rayong Office (TAT Rayong)',
+        CONNECT_LF_EG_RY_P1:'Areas of Responsibility: Rayong and Chanthaburi',
+
+        CONNECT_LF_EG_T:'Tourism Authority of Thailand, Trat Office (TAT Trat)',
+        CONNECT_LF_EG_T_P1:'Areas of Responsibility: Trat and its Islands',
+
+        CONNECT_LF_EG_NN:'Tourism Authority of Thailand, Nakhon Nayok Office (TAT Nakhon Nayok)',
+        CONNECT_LF_EG_NN_P1:'Areas of Responsibility: Nakhon Nayok, Prachin Buri and Sa Kaeo',
+
+        CONNECT_LF_NR_H:'NORTHEASTERN REGION',
+        CONNECT_LF_NR_NR:'Tourism Authority of Thailand, Nakhon Ratchasima Office (TAT Nakhon Ratchasima)',
+        CONNECT_LF_NR_NR_P1:'Areas of Responsibility: Nakhon Ratchasima and Chaiyaphum',
+
+        CONNECT_LF_NR_UR:'Tourism Authority of Thailand, Ubon Ratchathani Office (TAT Ubon Ratchathani)',
+        CONNECT_LF_NR_UR_P1:'Areas of Responsibility: Ubon Ratchathani, Amnat Charoen and Yasothon',
+
+        CONNECT_LF_NR_KK:'Tourism Authority of Thailand, Khon Kaen Office (TAT Khon Kaen)',
+        CONNECT_LF_NR_KK_P1:'Areas of Responsibility: Khon Kaen, Roi Et, Kalasin and Maha Sarakham',
+
+        CONNECT_LF_NR_NP:'Tourism Authority of Thailand, Nakhon Phanom Office (TAT Nakhon Phanom)',
+        CONNECT_LF_NR_NP_P1:'Areas of Responsibility: Nakhon Phanom, Sakon Nakhon and Mukdahan',
+
+        CONNECT_LF_NR_UT:'Tourism Authority of Thailand, Udon Thani Office (TAT Udon Thani)',
+        CONNECT_LF_NR_UT_P1:'Areas of Responsibility: Udon Thani, Nong Khai and Bueng Kan',
+
+        CONNECT_LF_NR_L:'Tourism Authority of Thailand, Loei Office (TAT Loei)',
+        CONNECT_LF_NR_L_P1:'Areas of Responsibility: Loei and Nong Bua Lam Phu',
+
+        CONNECT_LF_NR_SR:'Tourism Authority of Thailand, Surin Office (TAT Surin)',
+        CONNECT_LF_NR_SR_P1:'Areas of Responsibility: Surin, Buri Ram and Si Sa Ket',
+
+        CONNECT_LF_SR_H:'SOUTHERN REGION',
+        CONNECT_LF_SR_HY:'Tourism Authority of Thailand, Songkhla Office (TAT Hat Yai)',
+        CONNECT_LF_SR_HY_P1:'Areas of Responsibility: Songkhla (Hat Yai) and Phatthalung',
+        
+        CONNECT_LF_SR_NST:'Tourism Authority of Thailand, Nakhon Si Thammarat Office (TAT Nakhon Si Thammarat)',
+        CONNECT_LF_SR_NST_P1:'Area of Responsibility: Nakhon Si Thammarat',
+
+        CONNECT_LF_SR_NT:'Tourism Authority of Thailand, Narathiwat Office (TAT Narathiwat)',
+        CONNECT_LF_SR_NT_P1:'Areas of Responsibility: Narathiwat, Yala and Pattani',
+
+        CONNECT_LF_SR_P:'Tourism Authority of Thailand, Phuket Office (TAT Phuket)',
+        CONNECT_LF_SR_P_P1:'Areas of Responsibility: Phuket and Phang-nga',
+
+        CONNECT_LF_SR_ST:'Tourism Authority of Thailand, Surat Thani Office (TAT Surat Thani)',
+        CONNECT_LF_SR_ST_P1:'Area of Responsibility: Surat Thani',
+
+        CONNECT_LF_SR_T:'Tourism Authority of Thailand, Trang Office (TAT Trang)',
+        CONNECT_LF_SR_T_P1:'Areas of Responsibility: Trang and Satun',
+
+        CONNECT_LF_SR_K:'Tourism Authority of Thailand, Krabi Office (TAT Krabi)',
+        CONNECT_LF_SR_K_P1:'Area of Responsibility: Krabi',
+
+        CONNECT_LF_SR_C:'Tourism Authority of Thailand, Chumphon Office (TAT Chumphon)',
+        CONNECT_LF_SR_C_P1:'Areas of Responsibility: Chumphon and Ranong',
+
+
+        MADE_IN_TH_H : 'ผลิตภัณฑ์ของเมืองไทย',
+        MADE_IN_TH_P1 : 'ผลิตภัณฑ์ด้านแฟชั่น อัญมณี ผลิตภัณฑ์สปา และของตกแต่งในบ้านมากมายหลายรายการของไทยดึงดูดความสนใจจากนานาประเทศในช่วงไม่กี่ปีที่ผ่านมา ด้วยการออกแบบอันประณีตบรรจงและฝีมือช่างชั้นเลิศในการผลิต',
+
+        MADE_IN_TH_FASHION_H : 'ผลิตภัณฑ์ด้านแฟชั่น',
+
+        MADE_IN_TH_FASHION_BOYY : 'Boyy',
+        MADE_IN_TH_FASHION_BOYY_P1 : 'มีชื่อที่สุดเรื่องกระเป๋าถือของผู้หญิงทำจากหนังแท้ที่เหล่าผู้มีชื่อเสียงทั่วโลกนิยมเลือกใช้ แบรนด์อันทันสมัยนี้เริ่มนำหนังแกะมาใช้เมื่อเร็ว ๆ นี้ด้วย',
+        MADE_IN_TH_FASHION_BOYY_P2 : '(ทองหล่อ / ชั้น 2 เซ็นทรัล เอมบาสซี่)',
+
+        MADE_IN_TH_FASHION_CGL : 'Chai Gold Label',
+        MADE_IN_TH_FASHION_CGL_P1 : 'การใช้เทคนิคจับจีบและเนื้อผ้าเนื้อละเอียดยืนยันชื่อเสียงของความสง่างามตลอดกาลให้กับแฟชั่นของแบรนด์สากลนี้ได้เป็นอย่างดี',
+        MADE_IN_TH_FASHION_CGL_P2 : '(ชั้น 3 สยามเซ็นเตอร์)',
+
+        MADE_IN_TH_FASHION_CET : 'Curated by Ek Thongprasert',
+        MADE_IN_TH_FASHION_CET_P1 : 'แบรนด์เสื้อผ้าที่มีแนวคิดสำหรับชายและหญิงด้วยการหลอมรวมรายละเอียดของศิลปะให้เข้ากับความเรียบง่ายเพื่อสวมใส่ในชีวิตประจำวัน',
+        MADE_IN_TH_FASHION_CET_P2 : '(ชั้น 3 สยามเซ็นเตอร์ / ชั้น 2 เอ็มควอเทียร์)',
+
+        MADE_IN_TH_FASHION_D : 'Disaya',
+        MADE_IN_TH_FASHION_D_P1 : 'แบรนด์เสื้อผ้าผู้หญิงที่มีลูกเล่นสดใสและเครื่องประดับสำหรับผู้มีความอ่อนเยาว์ในหัวใจ',
+        MADE_IN_TH_FASHION_D_P2 : '( ชั้น 2 เซ็นทรัล เอมบาสซี่ / ชั้น 1 สยามพารากอน)',
+
+        MADE_IN_TH_FASHION_F : 'Flynow',
+        MADE_IN_TH_FASHION_F_P1 : 'แบรนด์แห่งสีสันและการออกแบบอันหรูหราที่ผสมผสานงานฝีมือแบบไทยกับแนวสมัยใหม่',
+        MADE_IN_TH_FASHION_F_P2 : '(ชั้น  1 สยามพารากอน / ชั้น 1 เซ็นทรัล ชิดลม)',
+
+        MADE_IN_TH_FASHION_JT : 'Jim Thompson',
+        MADE_IN_TH_FASHION_JT_P1 : 'แหล่งรวมผ้าไหมไทยที่รู้จักกันทั่วโลกที่อวดโฉมมรดกจากบรรพบุรุษจากภูมิปัญญาท้องถิ่นด้วยการออกแบบผลิตภัณฑ์ให้ร่วมสมัย',
+        MADE_IN_TH_FASHION_JT_P2 : '(Jim Thompson House / ชั้น M สยามพารากอน / ชั้น 4 เซ็นทรัลเวิลด์)',
+
+        MADE_IN_TH_FASHION_KB : 'Kai Boutique',
+        MADE_IN_TH_FASHION_KB_P1 : 'ร้านของดีไซน์เนอร์สำหรับชุดราตรีและงานแต่งงานที่มีชื่อด้วยการใช้การออกแบบของแฟชั่นชั้นสูง',
+        MADE_IN_TH_FASHION_KB_P2 : '(อาคารบางกอกเคเบิ้ล)',
+
+        MADE_IN_TH_FASHION_N : 'Nasha',
+        MADE_IN_TH_FASHION_N_P1 : 'ด้วยรูปแบบเรขาคณิต การผลิตราวงานสถาปัตยกรรมและการตัดเย็บอันประณีตทำให้กระเป๋าถือของแบรนด์นี้กระตุ้นความสนใจของบรรดานักแฟชั่นได้เสมอ',
+        MADE_IN_TH_FASHION_N_P2 : '(คลับ 21 / เอราวัณ / สยามพารากอน)',
+
+        MADE_IN_TH_FASHION_RR : 'Rouge Rouge',
+        MADE_IN_TH_FASHION_RR_P1 : 'การใช้ลูกเล่นเส้นสายในการออกแบบของแบรนด์ทำให้กระเป๋าเป็นที่นิยม',
+        MADE_IN_TH_FASHION_RR_P2 : '(ชั้น 1 ห้างสรรพสินค้า Zen เซ็นทรัลเวิลด์ / ชั้น 2 เอ็มควอเทียร์)',
+
+        MADE_IN_TH_FASHION_KB : 'Kai Boutique',
+        MADE_IN_TH_FASHION_KB_P1 : 'One of the most celebrated evening and bridal gown designers, renowned for its touch of high fashion.',
+        MADE_IN_TH_FASHION_KB_P2 : '(Bangkok Cable Building)',
+
+        MADE_IN_TH_FASHION_P : 'Patinya',
+        MADE_IN_TH_FASHION_P_P1 : 'ด้วยแรงบันดาลใจจากวิถีชีวิตแบบใหม่ เสื้อผ้าผู้หญิงของแบรนด์นี้สวมใส่ได้ทั้งตอนทำงานเวลากลางวันและปรับเปลี่ยนเป็นชุดเที่ยวยามกลางคืน',
+        MADE_IN_TH_FASHION_P_P2 : '(ชั้น 2 ห้างสรรพสินค้า Zen เซ็นทรัลเวิลด์ / ชั้น 1 สยามพารากอน)',
+
+        MADE_IN_TH_FASHION_S : 'Sretsis',
+        MADE_IN_TH_FASHION_S_P1 : 'เสื้อผ้าและคอลเลคชั่นเครื่องประดับหวานซ่อนเปรี้ยวที่ลูกค้าทั่วโลกรู้จักและเฝ้าฝันถึง',
+        MADE_IN_TH_FASHION_S_P2 : '(ชั้น 2 เซ็นทรัล เอ็มบาสซี่ / ชั้น 2 เอ็มควอเทียร์)',
+
+        MADE_IN_TH_FASHION_TC : 'Tawn C.',
+        MADE_IN_TH_FASHION_TC_P1 : 'ตั้งชื่อจากความรักในธรรมชาติและภูมิหลังของการตัดเย็บแบบอีตาเลี่ยนของนักออกแบบของแบรนด์ รังสรรค์ผลงานแบบคลาสสิคอันโก้หรูด้วยคุณภาพสูง',
+        MADE_IN_TH_FASHION_TC_P2 : '(ชั้น 3 เกสรพลาซ่า / ชั้น 2 เซ็นทรัลชิดลม)',
+
+        MADE_IN_TH_FASHION_TA : 'Thakoon Addition',
+        MADE_IN_TH_FASHION_TA_P1 : 'แบรนด์สำหรับสาวน้อยโด่งดังระดับนานาชาติแห่งนี้ คือ การผสมผสานความเป็นผู้หญิง ความทันสมัยและความสบายเป็นกันเองไว้ด้วยกัน',
+        MADE_IN_TH_FASHION_TA_P2 : '(ชั้น 2 คลับ 21 เอราวัณ) ',
+
+        MADE_IN_TH_FASHION_TG : 'Tube Gallery',
+        MADE_IN_TH_FASHION_TG_P1 : 'ด้วยอิทธิพลอย่างมากจากการเดินทางท่องเที่ยวและศิลปะ  เสื้อผ้าของแบรนด์นี้จึงเป็นอาภรณ์ที่แปลกตาและมีลายพิมพ์หวือหวาสำหรับทั้งบุรุษและสตรี',
+        MADE_IN_TH_FASHION_TG_P2 : '(ชั้น 3 สยามเซ็นเตอร์ / ชั้น 2 สยามพารากอน)',
+
+        MADE_IN_TH_FASHION_VI : 'Vatit Itthi',
+        MADE_IN_TH_FASHION_VI_P1 : 'หลังจากประสบความสำเร็จอย่างใหญ่หลวงในชิคาโก แบรนด์ชุดราตรีและชุดวิวาห์นี้ได้ย้ายกลับมายังบ้านเกิดเมืองนอน เพื่อสร้างสรรค์ผลงานอันงดงามอย่างต่อเนื่องด้วยแพรพรรณและการประดับประดาอย่างหรูหรา',
+        MADE_IN_TH_FASHION_VI_P2 : '(ลาดพร้าว 94)',
+
+        MADE_IN_TH_FASHION_N: 'Naraya',
+        MADE_IN_TH_FASHION_N_P1 : 'ผลงานฝีมือช่างอันงดงามสำหรับผลิตภัณฑ์มากมายนับตั้งแต่ กระเป๋า เครื่องประดับ ของตกแต่งบ้าน ของใช้ในงานครัว และอุปกรณ์พิเศษต่าง ๆ ที่ผลิตจากผ้าไหมไทย',
+        MADE_IN_TH_FASHION_N_P2 : '(ชั้น 3 สยามพารากอน) ',
+
+        MADE_IN_TH_JW_H : 'เครื่องประดับเพชรพลอย',
+
+        MADE_IN_TH_JW_BG: 'Beauty Gems',
+        MADE_IN_TH_JW_BG_P1 : 'บริการครบวงจรสำหรับแหล่งเลือกซื้อเพชรพลอย การออกแบบ และการผลิตอย่างประณีตพิถีพิถัน เพื่อให้เป็นชิ้นงานที่ไม่มีใครเหมือน',
+        MADE_IN_TH_JW_BG_P2 : '(ชั้น 1 โรงแรมดุสิตธานี กรุงเทพ)',
+
+        MADE_IN_TH_JW_BR: 'Blue River',
+        MADE_IN_TH_JW_BR_P1 : 'หนึ่งในผู้นำการผลิตเครื่องเพชรพลอยที่ดีที่สุดของไทย ด้วยความเชี่ยวชาญเป็นเลิศจนถึงฝีมืองานช่างสำหรับอัญมณีที่หาได้ยาก',
+        MADE_IN_TH_JW_BR_P2 : '(ชั้นล่าง เอ็มโพเรียม / ชั้น M สยามพารากอน)',
+
+        MADE_IN_TH_JW_C: 'Chavana',
+        MADE_IN_TH_JW_C_P1 : 'ร้านเครื่องเพชรที่มีชื่อเสียงในเรื่องการออกแบบที่ไม่เหมือนใครโดยใช้แรงบันดาลใจจากงานศิลป์ในยุค Art Deco',
+        MADE_IN_TH_JW_C_P2 : '(ชั้นล่าง เซ็นทรัล เอ็มบาสซี่)',
+
+        MADE_IN_TH_JW_F: 'Fadamas',
+        MADE_IN_TH_JW_F_P1 : 'ผู้เชี่ยวชาญเรื่องเพชรที่มีชื่อเสียงอย่างดีในหมู่ลูกค้าชั้นสูง ด้วยผลงานที่สุดประณีต',
+        MADE_IN_TH_JW_F_P2 : '(ชั้นล่าง เซ็นทรัลเวิลด์)',
+
+        MADE_IN_TH_JW_GP: 'Gems Pavilion',
+        MADE_IN_TH_JW_GP_P1 : 'ร้านเพชรพลอยที่ดีที่สุดแห่งหนึ่งของประเทศ ขึ้นชื่อเรื่องการออกแบบ ฝีมือช่างและเลือกใช้อัญมณีที่งดงามล้ำค่าที่สุด',
+        MADE_IN_TH_JW_GP_P2 : '(ชั้น M เอ็มโพเรียม / ชั้น 1 สยามพารากอน)',
+
+        MADE_IN_TH_JW_MA: 'Matina Amanita',
+        MADE_IN_TH_JW_MA_P1 : 'งานเพชรพลอยที่ออกแบบให้สะท้อนตัวตนของผู้ส่วมใส่ที่ไม่เหมือนใคร',
+        MADE_IN_TH_JW_MA_P2 : '(ชั้น 2 เซ็นทรัล เอ็มบาสซี่)',
+
+        MADE_IN_TH_JW_S: 'Sette',
+        MADE_IN_TH_JW_S_P1 : 'มีชื่อเสียงที่สุดด้วยอัญมณีที่ละเอียดอ่อนและสีสันสดใส อันน่าเกรงขามและเป็นที่นิยม',
+        MADE_IN_TH_JW_S_P2 : '(ชั้น M สยามพารากอน)',
+
+        MADE_IN_TH_SP_H : 'ผลิตภัณฑ์สปา',
+
+        MADE_IN_TH_SP_D: 'Divana',
+        MADE_IN_TH_SP_D_P1 : 'ผลิตจากพันธุ์พืชกลิ่นหอมและส่วนประกอบจากธรรมชาติ  มีให้เลือกหลายชนิดและช่วยสร้างบรรยากาศผ่อนคลายให้กับบ้าน',
+        MADE_IN_TH_SP_D_P2 : '(สุขุมวิท 25 / ชั้น 4 สยามพารากอน / คิงส์ พาวเวอร์)',
+
+        MADE_IN_TH_SP_H: 'Harnn',
+        MADE_IN_TH_SP_H_P1 : 'ได้รับอิทธิพลวัฒนธรรมเอเชีย ส่วนประกอบของผลิตภัณฑ์ใช้ตำรับยาสมุนไพรเป็นพื้นฐานและมีกลิ่นหอมแบบพรรณไม้นานา',
+        MADE_IN_TH_SP_H_P2 : '(ชั้นล่างสุด เซ็นทรัล เอ็มบาสซี่ / ชั้น 4 สยามพารากอน)',
+
+        MADE_IN_TH_SP_O: 'Organika',
+        MADE_IN_TH_SP_O_P1 : 'ภายในบรรจุภัณฑ์ที่ได้แรงบันดาลใจจากเครื่องแก้วลายดอกไม้สมัยศตวรรษที่ 19 ส่วนประกอบของผลิตภัณฑ์ทำจากออร์แกนิคที่ดีที่สุดจากซีกโลกตะวันออกและตะวันตก',
+        MADE_IN_TH_SP_O_P2 : '(ชั้นล่าง สยามพารากอน)',
+
+        MADE_IN_TH_SP_P: 'Pañpuri',
+        MADE_IN_TH_SP_P_P1 : 'บำรุงบำเรอร่างกายด้วยผลิตภัณฑ์ออร์แกนิคที่ผสมผสานสมุนไพรตะวันออกกับน้ำมันหอมจากดอกไม้ที่สดชื่น',
+        MADE_IN_TH_SP_P_P2 : '(ชั้นล้อบบี้ เกสรพลาซ่า / ชั้น 1 เซ็นทรัลเวิลด์)',
+
+        MADE_IN_TH_SP_T: 'Thann',
+        MADE_IN_TH_SP_T_P1 : 'จากภูมิปัญญาท้องถิ่น ผลิตภัณฑ์ทุกอย่างใช้น้ำมันรำข้าวและส่วนประกอบจากธรรมชาติที่ช่วยคืนความเยาว์ให้กับผิวและเส้นผม',
+        MADE_IN_TH_SP_T_P2 : '(ชั้น 3 เกษรพลาซ่า / ชั้น 4 เอ็มโพเรียม)',
+
+        MADE_IN_TH_SP_V: 'Vuudh',
+        MADE_IN_TH_SP_V_P1 : 'ผ่อนคลายไปกับกลิ่นหอมในห้องแบบธรรมชาติที่ชวนให้นึกถึงการเดินทางไปยังแหล่งท่องเที่ยวชั้นนำ อย่างเช่น กรุงเทพ ภูเก็ต และเซี่ยงไฮ้',
+        MADE_IN_TH_SP_V_P2 : '(ชั้น 4 เซ็นทรัล เอ็มบาสซี่ / ชั้น 1 เซ็นทรัลเวิลด์)',
+
+        MADE_IN_TH_DI_H : 'ผลิตภัณฑ์สำหรับงานออกแบบและตกแต่งภายใน',
+
+        MADE_IN_TH_DI_D: 'Deesawat',
+        MADE_IN_TH_DI_D_P1 : 'เครื่องเรือนสำหรับทั้งภายในและภายนอก แหล่งรวมงานไม้หลากหลายที่มีทั้งงามแบบเรียบง่ายและซับซ้อน',
+        MADE_IN_TH_DI_D_P2 : '(สุขุมวิท 24)',
+
+        MADE_IN_TH_DI_K: 'Korakot',
+        MADE_IN_TH_DI_K_P1 : 'รู้จักกันดีในเรื่องของโคมไฟระย้าประดับเพดาน เครื่องเรือนที่ออกแบบอย่างงดงามล้วนทำจากไม้ไผ่ ยิ่งทำให้ดูโดดเด่นเป็นอย่างมาก',
+        MADE_IN_TH_DI_K_P2 : '(อำเภอบ้านแหลม จังหวัดเพชรบุรี)',
+
+        MADE_IN_TH_DI_LA: 'Lotus Arts de Vivre',
+        MADE_IN_TH_DI_LA_P1 : 'ด้วยการใช้ฝีมือช่างแบบดั้งเดิมและวัตถุดิบตามธรรมชาติ ผลิตภัณฑ์สุดยอดจากร้านนี้ทำให้เกิดงานศิลปะของการออกแบบในการตกแต่งบ้าน  ที่นี่มีงานอัญมณีชิ้นพิเศษและกระเป๋าถือให้เลือกอีกด้วย',
+        MADE_IN_TH_DI_LA_P2 : '(ถนนพระราม 3 / โรงแรมแมนดาริน โอเรียนเต็ล กรุงเทพ)',
+
+        MADE_IN_TH_DI_PC: 'Prempracha’s Collection',
+        MADE_IN_TH_DI_PC_P1 : 'สตูดิโองานเซรามิคบริการเต็มรูปแบบมีเครื่องจานชามแบบไม่เหมือนใครและของตกแต่งมากมายมากกว่า 1,000 ชิ้นให้เลือก',
+        MADE_IN_TH_DI_PC_P2 : '(ถนนเชียงใหม่-สันกำแพง จังหวัดเชียงใหม่)',
+
+        MADE_IN_TH_DI_Y: 'Yothaka',
+        MADE_IN_TH_DI_Y_P1 : 'ผู้บุกเบิกการนำผักตบชวามาใช้ทำเครื่องเรือนที่ทั่วโลกรู้จัก งานฝีมือแต่ละชิ้นมีกลิ่นอายของตะวันออกและสุนทรีย์แบบสมัยใหม่',
+        MADE_IN_TH_DI_Y_P2 : '(ถนนพระราม 4 กรุงเทพ)',
+
+        MADE_IN_TH_DI_AL: 'Alexander Lamont',
+        MADE_IN_TH_DI_AL_P1 : 'ผลงานที่นักออกแบบตกแต่งภายในนิยมกัน มีให้เลือกทั้งเครื่องเรือน โคมไฟ ของตกแต่งทำด้วยทองแดง หนังกระเบน กระดาษแปะ งานเคลือบ เปลือกไข่ เครื่องประดับมุก ทองคำ เครื่องกระเบื้องจากเมืองจีนและของหายากอีกมากมาย',
+        MADE_IN_TH_DI_AL_P2 : '(โรงแรมสุโขทัย / โรงแรม อนันตรา สยาม / ชั้น 2 เซ็นทรัล เอ็มบาสซี่ / ชั้น 3 เกสรพลาซ่า /สุรินทร์พลาซ่า ภูเก็ต )',
+
+        MADE_IN_TH_BT_H : 'บริการตัดเย็บเสื้อผ้าตามประสงค์',
+        MADE_IN_TH_BT_P1 : 'ช่างตัดเสื้อในไทยมีชื่อเสียงเป็นอย่างดีในเรื่องงานฝีมือ ใช้วัสดุคุณภาพดีและตัดเย็บเสร็จได้ในเวลาอันรวดเร็ว ทำให้การบริการตัดเย็บเสื้อผ้าช่วยอำนวยความสะดวกให้กับนักท่องเที่ยวได้เป็นอย่างดี',
+        MADE_IN_TH_BT_P2 : 'ท่านโชคดีทีเดียวหากว่าท่านมีเวลาเหลือเฟือและวางแผนล่วงหน้าไว้หลายเดือน ทั้งแบรนด์ Prada (เซ็นทรัล เอ็มบาสซี่และสยามพารากอน) และ Tom Ford (เซ็นทรัล เอ็มบาสซี่) มีบริการตัดเย็บเสื้อผ้าตามแบบร่างอย่างที่ท่านต้องการ บริการวัดตัวก่อนตัดเย็บ แม้ว่าเป็นเรื่องจริงที่ว่าบริการตัดเย็บเสื้อผ้าในไทยจะมีไปทั่วทุกหนแห่ง แต่ท่านจำเป็นต้องรู้ด้วยว่าช่างตัดเสื้อที่ดีในกรุงเทพอยู่ที่ไหนบ้าง',
+        MADE_IN_TH_BT_P3_1 : 'นับตั้งแต่เริ่มก่อตั้งในปีพ.ศ. 2553 ร้าน Tailor on Ten',
+        MADE_IN_TH_BT_P3_2 : 'ได้ให้บริการลูกค้าขาประจำมากมายที่ต้องการเสื้อผ้าชั้นสูงและการตัดเย็บตามแบบเฉพาะคนด้วยการใช้ผ้านำเข้าจากต่างประเทศ เช่น จาก  Holland & Sherry and Dormeuil ด้วยการใช้ผ้าระดับชั้นนำของโลกเช่นนี้กอปรกับการตัดเย็บแบบใส่ใจจากแบบเสื้อระดับยอดเยี่ยมที่ทำขึ้นเฉพาะลูกค้าแต่ละคน ชุดสูทที่ท่านได้รับจะไม่มีใครเทียบเทียมได้เลย ไม่ว่าจะเป็นรายละเอียดต่าง ๆ เช่น ปกเสื้อ ปลายแขน กระดุมและลายปักชื่อ  ชุดสูททุกชุดตัดเย็บพร้อมผ้าซับในมาตรฐานในแบบ Bemberg ซึ่งเป็นแบบที่ดีที่สุดในโลก',
+
+        MADE_IN_TH_BT_P4_1 : 'ชื่อเสียงที่รู้จักกันเรื่องความมุ่งมั่นในด้านคุณภาพของแบรนด์ Button Up',
+        MADE_IN_TH_BT_P4_2 : 'ที่ได้รับความนิยมจากลูกค้าทั้งในประเทศและต่างประเทศมาตั้งแต่ปีพ.ศ. 2552   ด้วยการควบคุมของหัวหน้าช่างตัดเสื้อผู้มีประสบการณ์ในการถวายงานให้กับบรรดาพระบรมวงศานุวงศ์ของไทยมามากกว่า 30 ปี  ลูกค้าต่างชาติชื่อดังของร้านนี้ ได้แก่  Snoop Lion (Dogg), The Jones Brothers, นักแสดงตลก Russell Peters และ Ben McKenzie แห่งThe O.C. fame',
+
+        MADE_IN_TH_BT_P5_1 : 'ช่างตัดเสื้ออีกคนที่เหล่าดาราผู้มีชื่อเสียงในประเทศ  นิยมมาใช้บริการที่ร้านเล็ก ๆ ที่ The Backyard ในซอยสุขุมวิท 26  คือ Vvon Sugunnasail',
+        MADE_IN_TH_BT_P5_2 : '(เขาอ้างว่าดารานายแบบชื่อดัง ณเดชย์ คูกิมิยะก็เป็นลูกค้าด้วย) Vvon เชี่ยวชาญเป็นพิเศษในการตัดเย็บแบบฝรั่งเศสคลาสสิค  และบริการตัดเย็บเสื้อเชิ้ต กางเกง ชุดสูทและแม้แต่เนคไทด้วยการทำแบบเสื้อผ้าเฉพาะเป็นรายบุคคล ',
+       
+        MADE_IN_TH_BT_P6_1 : 'Charles Siri ผู้กระฉับกระเฉงรอต้อนรับเหล่าบุรุษที่ เอราวัณ กรุงเทพทั้งที่ร้านตัดเสื้อ Charles Patnett Tailor',
+        MADE_IN_TH_BT_P6_2 : 'และที่ร้านตัดผมชาย Barberford คุณภาพในการตัดเย็บ คือ หลักสำคัญในการทำงานของร้าน Charles Patnett นี้ จึงเกิดผลงานการตัดเย็บอันแสนมหัศจรรย์จากการเลือกใช้ผ้าคุณภาพดีที่สุดพร้อมรายละเอียดอันหรูหรา เช่น กระดุมมุก ชุดสูทมีหลายระดับตั้งแต่ผ้าธรรมดาไปจนถึงผ้าลินินน้ำหนักเบาสำหรับสวมใส่ในสภาพอากาศร้อนเหงื่อตกในกรุงเทพ',
+
+        MADE_IN_TH_AZ_H : 'รายชื่อแหล่งชอปปิ้ง A-Z',
+        MADE_IN_TH_AZ_AC_H : 'A-C',
+        MADE_IN_TH_AZ_DF_H : 'D-F',
+        MADE_IN_TH_AZ_GI_H : 'G-I',
+        MADE_IN_TH_AZ_JL_H : 'J-L',
+        MADE_IN_TH_AZ_JL_H : 'M-O',
+        MADE_IN_TH_AZ_JL_H : 'P-R',
+        MADE_IN_TH_AZ_JL_H : 'S-U',
+        MADE_IN_TH_AZ_JL_H : 'V-Z',
+
+        MADE_IN_TH_AZ_A_P1 :'A.Lange & Sohne (Pendulum ที่เกษรพลาซ่า เอ็มโพเรียม และ สยามพารากอน)',
+        MADE_IN_TH_AZ_A_P2 :'Alberta Ferretti (ชั้น 2 เซ็นทรัลเวิลด์)',
+        MADE_IN_TH_AZ_A_P3 :'Alexander McQueen (ชั้น 1 ดิเอราวัณ / คลับ 21 ชั้น M สยามพารากอน)',
+        MADE_IN_TH_AZ_A_P4 :'Alexander Wang (ชั้น 2 ดิเอราวัณ)',
+        MADE_IN_TH_AZ_A_P5 :'Anyallerie (ชั้น G เซ็นทรัล เอ็มบาสซี่)',
+        MADE_IN_TH_AZ_A_P6 :'Audemars Piguet (ชั้น G เซ็นทรัล เอ็มบาสซี่) ',
+
+        MADE_IN_TH_AZ_B_P1 	:'Balenciaga (ชั้น M สยามพารากอน / ชั้น M เอ็มควอเทียร์)',
+        MADE_IN_TH_AZ_B_P2	:'Bally (ชั้น 1 เกษรพลาซ่า)',
+        MADE_IN_TH_AZ_B_P3	:'Bottega Veneta (ชั้น 2 เซ็นทรัล เอ็มบาสซี่ / ชั้น 1 เซ็นทรัล ชิดลม)',
+        MADE_IN_TH_AZ_B_P4	:'Bovet (ชั้น 1 สยามพารากอน)',
+        MADE_IN_TH_AZ_B_P5	:'Breguet (S.T. Dimension สยามพารากอน และ เอ็มโพเรียม / Cortina Watch ดิ เอราวัณ)',
+        MADE_IN_TH_AZ_B_P6	:'Brioni (ชั้น G เกษรพลาซ่า)',
+        MADE_IN_TH_AZ_B_P7	:'Bulgari (ชั้น M สยามพารากอน / ชั้น M เอ็มโพเรียม)',
+        MADE_IN_TH_AZ_B_P8	:'Burberry (ชั้น M สยามพารากอน / ชั้น G เอ็มโพเรียม) ',
+
+        MADE_IN_TH_AZ_C_P1	:'Carl F. Bucherer (ชั้น M สยามพารากอน)',
+        MADE_IN_TH_AZ_C_P2	:'Cartier (ชั้น M สยามพารากอน / ชั้น M เอ็มโพเรียม)',
+        MADE_IN_TH_AZ_C_P3	:'Chanel (ชั้น G เซ็นทรัล เอ็มบาสซี่ / ชั้น M สยามพารากอน / ชั้น M เอ็มควอเทียร์)',
+        MADE_IN_TH_AZ_C_P4	:'Charlotte Olympia (Cloud 9 ชั้น 2 เกสรพลาซ่า / ชั้น G เอ็มโพเรียม)',
+        MADE_IN_TH_AZ_C_P5	:'Chloé (ชั้น M สยามพารากอน)',
+        MADE_IN_TH_AZ_C_P6	:'Chopard (ชั้น G เซ็นทรัล เอ็มบาสซี่)',
+        MADE_IN_TH_AZ_C_P7	:'Christian Louboutin (ชั้น G เซ็นทรัล เอ็มบาสซี่)',
+        MADE_IN_TH_AZ_C_P8	:'Corum (Cadeaux Jewelry ชั้น 1 เกสรพลาซ่า)',
+
+        MADE_IN_TH_AZ_D_P1	:'Dior (ชั้น M สยามพารากอน / ชั้น G เกสรพลาซ่า / ชั้น G เอ็มควอเทียร์)',
+        MADE_IN_TH_AZ_D_P2	:'Dior Homme (ชั้น M เอ็มโพเรียม)',
+        MADE_IN_TH_AZ_D_P3	:'Dolce & Gabbana (ชั้น M สยามพารากอน / ชั้น M เอ็มควอเทียร์)',
+
+        MADE_IN_TH_AZ_E_P1	:'Emilio Pucci (ชั้น M สยามพารากอน / ชั้น G เกสรพลาซ่า)',
+        MADE_IN_TH_AZ_E_P2	:'Ermenegildo Zegna (ชั้น M สยามพารากอน)',
+
+        MADE_IN_TH_AZ_F_P1	:'Fendi (ชั้น M สยามพารากอน / ชั้น G เอ็มโพเรียม)',
+        MADE_IN_TH_AZ_F_P2	:'Franck Muller (ชั้น M สยามพารากอน)',
+        MADE_IN_TH_AZ_F_P3	:'Fratelli Rossetti (ชั้น 2 เกษรพลาซ่า / ชั้น 1 สยามพารากอน)',
+
+        MADE_IN_TH_AZ_G_P1	:'Giorgio Armani (ชั้น M สยามพารากอน)',
+        MADE_IN_TH_AZ_G_P2	:'Givenchy (ชั้น G เซ็นทรัล เอ็มบาสซี่)',
+        MADE_IN_TH_AZ_G_P3	:'Gucci (ชั้น 1 และ ชั้น G เซ็นทรัล เอ็มบาสซี่ / ชั้น 1 เอ็มโพเรียม)',
+
+        MADE_IN_TH_AZ_H_P1	:'Harry Winston (PMT The Hour Glass เกสรพลาซ่า และ สยามพารากอน)',
+        MADE_IN_TH_AZ_H_P2	:'Hermès (ชั้น G เซ็นทรัล เอ็มบาสซี่ / ชั้น M สยามพารากอน)',
+        MADE_IN_TH_AZ_H_P3	:'Hublot (ชั้น G เซ็นทรัล เอ็มบาสซี่)',
+        MADE_IN_TH_AZ_H_P4	:'Hugo Boss (ชั้น 1 สยามพารากอน / ชั้น 1 เกษรพลาซ่า)',
+
+        MADE_IN_TH_AZ_I_P1	:'Isabel Marant (ชั้น 1 เซ็นทรัล เอ็มบาสซี่)',
+        MADE_IN_TH_AZ_I_P2	:'IWC Schaffhausen (ชั้น 1 สยามพารากอน)',
+
+        MADE_IN_TH_AZ_J_P1	:'Jaeger-LeCoultre (Cortina Watch ชั้น 1 ดิเอราวัณ)',
+        MADE_IN_TH_AZ_J_P2	:'Jil Sander (ชั้น 1 เซ็นทรัล เอ็มบาสซี่)',
+        MADE_IN_TH_AZ_J_P3	:'Jimmy Choo (ชั้น M สยามพารากอน / ชั้น 1 เซ็นทรัล ชิดลม)',
+
+        MADE_IN_TH_AZ_K_P1 : 'Kenzo (ชั้น 1 เซ็นทรัล เอ็มบาสซี่)',
+
+        MADE_IN_TH_AZ_L_P1	:'Lanvin (ชั้น 1 ดิเอราวัณ)',
+        MADE_IN_TH_AZ_L_P2	:'Loewe (ชั้น M สยามพารากอน / ชั้น M เอ็มโพเรียม)',
+        MADE_IN_TH_AZ_L_P3	:'Louis Vuitton (ชั้น M สยามพารากอน / ชั้น 1 และ ชั้น G เกษรพลาซ่า)',
+        MADE_IN_TH_AZ_L_P4	:'Lulu Guinness (ชั้น 1 สยามพารากอน)',
+
+
+        MADE_IN_TH_AZ_M_P1	:'Maison Martin Margiela (ชั้น 1 เซ็นทรัล เอ็มบาสซี่)',
+        MADE_IN_TH_AZ_M_P2	:'Marni (ชั้น 2 ดิเอราวัณ / คลับ 21 ชั้น M สยามพารากอน)',
+        MADE_IN_TH_AZ_M_P3	:'Max Mara (ชั้น 1 เกษรพลาซ่า)',
+        MADE_IN_TH_AZ_M_P4	:'MCM (ชั้น G เอ็มควอเทียร์)',
+        MADE_IN_TH_AZ_M_P5	:'Michael Kors (ชั้น 1 เซ็นทรัล เอ็มบาสซี่)',
+        MADE_IN_TH_AZ_M_P6	:'Mikimoto (ชั้น M สยามพารากอน)',
+        MADE_IN_TH_AZ_M_P7	:'Miu Miu (ชั้น G เซ็นทรัล เอ็มบาสซี่ / ชั้น M สยามพารากอน)',
+        MADE_IN_TH_AZ_M_P8	:'Montblanc (ชั้น M สยามพารากอน / ชั้น G เกษรพลาซ่า)',
+        MADE_IN_TH_AZ_M_P9	:'Mulberry (ชั้น G เซ็นทรัล เอ็มบาสซี่ / ชั้น M สยามพารากอน)',
+
+        MADE_IN_TH_AZ_N_P1 : 'Nina Ricci (Cloud 9 ชั้น 2 เกษรพลาซ่า)',
+        MADE_IN_TH_AZ_O_P1 : 'Oscar de la Renta (Cloud 9 ชั้น 2 เกษรพลาซ่า)',
+
+        MADE_IN_TH_AZ_P_P1	:'3.1 Phillip Lim (ชั้น 2 ดิเอราวัณ)',
+        MADE_IN_TH_AZ_P_P2	:'Parmigiani Fleurier (PMT The Hour Glass at เกษรพลาซ่า และ สยามพารากอน)',
+        MADE_IN_TH_AZ_P_P3	:'Panerai (ชั้น 1 สยามพารากอน / Pendulum ชั้น 1 เกษรพลาซ่า)',
+        MADE_IN_TH_AZ_P_P4	:'Patek Philippe (ชั้น M สยามพารากอน / ชั้น G เอ็มควอเทียร์)',
+        MADE_IN_TH_AZ_P_P5	:'Philip Stein (ชั้น 1 เซ็นทรัลเวิลด์)',
+        MADE_IN_TH_AZ_P_P6	:'Piaget (S.T. Dimension ชั้น M สยามพารากอน)',
+        MADE_IN_TH_AZ_P_P7	:'Prada (ชั้น 1,เซ็นทรัล เอ็มบาสซี่ / ชั้น M สยามพารากอน)',
+        MADE_IN_TH_AZ_P_P8	:'Proenza Schouler (ชั้น G เซ็นทรัล เอ็มบาสซี่ / ชั้น M เอ็มควอเทียร์)',
+
+        MADE_IN_TH_AZ_R_P1	:'Ralph Lauren (G & ชั้น 1 เซ็นทรัล เอ็มบาสซี่)',
+        MADE_IN_TH_AZ_R_P2	:'Roberto Cavalli (ชั้น G เซ็นทรัล เอ็มบาสซี่)',
+        MADE_IN_TH_AZ_R_P3	:'Roger Dubuis (ชั้น 1 เกษรพลาซ่า)',
+        MADE_IN_TH_AZ_R_P4	:'Roger Vivier (ชั้น G เอ็มควอเทียร์)',
+        MADE_IN_TH_AZ_R_P5	:'Rolex (ชั้น 1 เซ็นทรัล ชิดลม / ชั้น G เซ็นทรัล เอ็มบาสซี่ / ชั้น M สยามพารากอน)',
+
+
+        MADE_IN_TH_AZ_S_P1 : 'Saint Laurent (ชั้น G เซ็นทรัล เอ็มบาสซี่)',
+        MADE_IN_TH_AZ_S_P2 :'Salvatore Ferragamo (ชั้น M สยามพารากอน / ชั้น M Emporium)',
+        MADE_IN_TH_AZ_S_P3 :'Stella McCartney (ชั้น 1 ดิเอราวัณ)',
+
+        MADE_IN_TH_AZ_T_P1 : 'Tiffany & Co. (ชั้น G Emporium)',
+        MADE_IN_TH_AZ_T_P2 : 'Tod’s (ชั้น M สยามพารากอน)',
+        MADE_IN_TH_AZ_T_P3 : 'Tom Ford (ชั้น G เซ็นทรัล เอ็มบาสซี่)',
+        MADE_IN_TH_AZ_U_P1 : 'Ulysse Nardin (PMT The Hour Glass เกษรพลาซ่า และ สยามพารากอน)',
+
+        MADE_IN_TH_AZ_V_P1	:'Vacheron Constantin (Pendulum at เกษรพลาซ่า เอ็มโพเรียม และ สยามพารากอน)',
+        MADE_IN_TH_AZ_V_P2	:'Valentino (ชั้น M สยามพารากอน / ชั้น M เอ็มควอเทียร์)',
+        MADE_IN_TH_AZ_V_P3	:'Van Cleef & Arpels (ชั้น G เอ็มโพเรียม)',
+        MADE_IN_TH_AZ_V_P4	:'Versace (ชั้น G เซ็นทรัล เอ็มบาสซี่)',
+        MADE_IN_TH_AZ_V_P5	:'Vivienne Westwood (ชั้น 1 เซ็นทรัล ชิดลม)',
+
+
         WELLNESS_H:'ท่องเที่ยวเพื่อสุขภาพ',
         WELLNESS_P1:'สปาและการนวดแผนโบราณที่สืบย้อนหลังไปได้หลายศตวรรษ ทำให้ประเทศไทยในฐานะที่เป็นหนึ่งในจุดหมายปลายทางด้านการท่องเที่ยวทีมีชื่อเสียงด้านการดูแลรักษาสุขภาพซึ่งเก่าแก่พอกับอายุของประเทศ เมื่อไม่นานมานี้ ประเทศไทยได้กลายเป็นสถานที่ระดับโลกสำหรับโยคะและศูนย์ล้างพิษ ทำให้ประเทศไทยเป็นศูนย์กลางของการฟื้นฟูร่างกาย จิตใจ และจิตวิญญาณอย่างแท้จริง',
 
