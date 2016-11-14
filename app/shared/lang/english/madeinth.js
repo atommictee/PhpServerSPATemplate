@@ -41,10 +41,6 @@ var madeinthEN = {
         MADE_IN_TH_FASHION_RR_P1 : 'A quirky sense of style has made this designer’s bags popular.',
         MADE_IN_TH_FASHION_RR_P2 : '(1st Floor, Zen at CentralWorld / 2nd Floor, EmQuartier)',
 
-        MADE_IN_TH_FASHION_KB : 'Kai Boutique',
-        MADE_IN_TH_FASHION_KB_P1 : 'One of the most celebrated evening and bridal gown designers, renowned for its touch of high fashion.',
-        MADE_IN_TH_FASHION_KB_P2 : '(Bangkok Cable Building)',
-
         MADE_IN_TH_FASHION_P : 'Patinya',
         MADE_IN_TH_FASHION_P_P1 : 'Influenced by the modern lifestyle, this clothing line for women can transition seamlessly from day to night.',
         MADE_IN_TH_FASHION_P_P2 : '(2nd Floor, Zen at CentralWorld / 1st Floor, Siam Paragon)',
@@ -109,7 +105,7 @@ var madeinthEN = {
         MADE_IN_TH_SP_D_P1 : 'Made from aromatic plants and natural ingredients, the product range is diverse and helps create true relaxation at home.',
         MADE_IN_TH_SP_D_P2 : '(Sukhumvit 25 / 4th Floor, Siam Paragon / King Power)',
 
-        MADE_IN_TH_SP_H: 'Harnn',
+        MADE_IN_TH_SP_HN: 'Harnn',
         MADE_IN_TH_SP_H_P1 : 'Influenced by Asian traditions, the brand’s ingredients are based on herbal medicines and scented botanicals.',
         MADE_IN_TH_SP_H_P2 : '(Lower Ground Floor, Central Embassy / 4th Floor, Siam Paragon)',
 

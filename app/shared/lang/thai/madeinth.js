@@ -41,10 +41,6 @@ var madeinthTH = {
         MADE_IN_TH_FASHION_RR_P1 : 'การใช้ลูกเล่นเส้นสายในการออกแบบของแบรนด์ทำให้กระเป๋าเป็นที่นิยม',
         MADE_IN_TH_FASHION_RR_P2 : '(ชั้น 1 ห้างสรรพสินค้า Zen เซ็นทรัลเวิลด์ / ชั้น 2 เอ็มควอเทียร์)',
 
-        MADE_IN_TH_FASHION_KB : 'Kai Boutique',
-        MADE_IN_TH_FASHION_KB_P1 : 'One of the most celebrated evening and bridal gown designers, renowned for its touch of high fashion.',
-        MADE_IN_TH_FASHION_KB_P2 : '(Bangkok Cable Building)',
-
         MADE_IN_TH_FASHION_P : 'Patinya',
         MADE_IN_TH_FASHION_P_P1 : 'ด้วยแรงบันดาลใจจากวิถีชีวิตแบบใหม่ เสื้อผ้าผู้หญิงของแบรนด์นี้สวมใส่ได้ทั้งตอนทำงานเวลากลางวันและปรับเปลี่ยนเป็นชุดเที่ยวยามกลางคืน',
         MADE_IN_TH_FASHION_P_P2 : '(ชั้น 2 ห้างสรรพสินค้า Zen เซ็นทรัลเวิลด์ / ชั้น 1 สยามพารากอน)',
@@ -109,7 +105,7 @@ var madeinthTH = {
         MADE_IN_TH_SP_D_P1 : 'ผลิตจากพันธุ์พืชกลิ่นหอมและส่วนประกอบจากธรรมชาติ  มีให้เลือกหลายชนิดและช่วยสร้างบรรยากาศผ่อนคลายให้กับบ้าน',
         MADE_IN_TH_SP_D_P2 : '(สุขุมวิท 25 / ชั้น 4 สยามพารากอน / คิงส์ พาวเวอร์)',
 
-        MADE_IN_TH_SP_H: 'Harnn',
+        MADE_IN_TH_SP_HN: 'Harnn',
         MADE_IN_TH_SP_H_P1 : 'ได้รับอิทธิพลวัฒนธรรมเอเชีย ส่วนประกอบของผลิตภัณฑ์ใช้ตำรับยาสมุนไพรเป็นพื้นฐานและมีกลิ่นหอมแบบพรรณไม้นานา',
         MADE_IN_TH_SP_H_P2 : '(ชั้นล่างสุด เซ็นทรัล เอ็มบาสซี่ / ชั้น 4 สยามพารากอน)',
 

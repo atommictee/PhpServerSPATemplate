@@ -209,6 +209,16 @@ a.anchor {
         font-style: normal;
     }
 
+    .list hr{
+        border-top: 1px solid #CEAB21;
+        width: 100%;
+    }
+
+
+.img-col img{
+    width: 100%;
+}
+
 
 @media (max-width: 1024px){
     .nav>li>a {
