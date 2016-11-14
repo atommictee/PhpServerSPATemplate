@@ -90,10 +90,10 @@
                     <li ng-class="{navactive: isActive('/wellness')}">
                         <a href="/wellness" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ 'NAV_WELLNESS' | translate }}<span class="caret"></span></a>
                         <ul class="dropdown-menu">
-                            <li><a href="/wellness#spa.massage">{{ 'NAV_FASHION' | translate }}</a></li>
-                            <li><a href="/wellness#yoga">{{ 'NAV_JEWELLERY' | translate }}</a></li>
-                            <li><a href="/wellness#meditation">{{ 'NAV_SPA' | translate }}</a></li>
-                            <li><a href="/wellness#rehab.detox">{{ 'NAV_BESPOKE' | translate }}</a></li>
+                            <li><a href="/wellness#spa.massage">{{ 'NAV_SPAMASSAGE' | translate }}</a></li>
+                            <li><a href="/wellness#yoga">{{ 'NAV_YOGA' | translate }}</a></li>
+                            <li><a href="/wellness#meditation">{{ 'NAV_MEDITATION' | translate }}</a></li>
+                            <li><a href="/wellness#rehab.detox">{{ 'NAV_REHAB' | translate }}</a></li>
                         </ul>
                     </li>
                     <li ng-class="{navactive: isActive('/medical.tourism')}">
