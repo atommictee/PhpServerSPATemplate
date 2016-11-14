@@ -678,4 +678,58 @@ var translationsEN = {
 
         CONNECT_LF_SR_C:'Tourism Authority of Thailand, Chumphon Office (TAT Chumphon)',
         CONNECT_LF_SR_C_P1:'Areas of Responsibility: Chumphon and Ranong',
+        
+
+        MADE_IN_TH_H : 'Made in Thailand',
+        MADE_IN_TH_P1 : 'A number of Thai fashion labels, jewellery brands, spa products and interior shops have stolen the spotlight internationally in recent years the result of exquisite design and extraordinary craftsmanship.',
+
+        MADE_IN_TH_FASHION_H : 'Fashion',
+
+        MADE_IN_TH_FASHION_BOYY : 'Boyy',
+        MADE_IN_TH_FASHION_BOYY_P1 : 'Best known for its leather handbags for women popular with celebrities around the world, the trendy brand has recently also',
+        MADE_IN_TH_FASHION_BOYY_P2 : '(Thonglor / 2nd Floor, Central Embassy)',
+
+        MADE_IN_TH_FASHION_CGL : 'Chai Gold Label',
+        MADE_IN_TH_FASHION_CGL_P1 : 'Draping techniques and the use of delicate fabrics have ensured a reputation for timeless elegance for this internationally renowned fashion label.',
+        MADE_IN_TH_FASHION_CGL_P2 : '(3rd Floor, Siam Center)',
+
+        MADE_IN_TH_FASHION_CET : 'Curated by Ek Thongprasert',
+        MADE_IN_TH_FASHION_CET_P1 : 'A conceptual clothing brand for men and women that fuses artistic details with simple, everyday wear.',
+        MADE_IN_TH_FASHION_CET_P2 : '(3rd Floor, Siam Center / 2nd Floor, EmQuartier)',
+
+        MADE_IN_TH_FASHION_D : 'Disaya',
+        MADE_IN_TH_FASHION_D_P1 : 'A playful, feminine clothing and jewellery brand for the young at heart.',
+        MADE_IN_TH_FASHION_D_P2 : '(2nd Floor, Central Embassy / 1st Floor, Siam Paragon)',
+
+        MADE_IN_TH_FASHION_F : 'Flynow',
+        MADE_IN_TH_FASHION_F_P1 : 'The brand’s colourful and rich designs incorporate traditional Thai handicrafts and up-todate style.',
+        MADE_IN_TH_FASHION_F_P2 : '(1st Floor, Siam Paragon / 1st Floor, Central Chidlom)',
+
+        MADE_IN_TH_FASHION_JT : 'Jim Thompson',
+        MADE_IN_TH_FASHION_JT_P1 : 'The world-famous Thai silk house boasts a legacy rooted in local wisdom and contemporary design.',
+        MADE_IN_TH_FASHION_JT_P2 : '(Jim Thompson House / M Floor, Siam Paragon / 4th Floor, CentralWorld)',
+
+        MADE_IN_TH_FASHION_KB : 'Kai Boutique',
+        MADE_IN_TH_FASHION_KB_P1 : 'One of the most celebrated evening and bridal gown designers, renowned for its touch of high fashion.',
+        MADE_IN_TH_FASHION_KB_P2 : '(Bangkok Cable Building)',
+
+        MADE_IN_TH_FASHION_N : 'Nasha',
+        MADE_IN_TH_FASHION_N_P1 : 'Geometric shapes, architectural constructions and fine cuts have made these bags all the rage among fashionistas',
+        MADE_IN_TH_FASHION_N_P2 : '(Club21 / Erawan / Siam Paragon)',
+
+        MADE_IN_TH_FASHION_RR : 'Rouge Rouge',
+        MADE_IN_TH_FASHION_RR_P1 : 'A quirky sense of style has made this designer’s bags popular.',
+        MADE_IN_TH_FASHION_RR_P2 : '(1st Floor, Zen at CentralWorld / 2nd Floor, EmQuartier)',
+
+        MADE_IN_TH_FASHION_KB : 'Kai Boutique',
+        MADE_IN_TH_FASHION_KB_P1 : 'One of the most celebrated evening and bridal gown designers, renowned for its touch of high fashion.',
+        MADE_IN_TH_FASHION_KB_P2 : '(Bangkok Cable Building)',
+
+        MADE_IN_TH_FASHION_P : 'Patinya',
+        MADE_IN_TH_FASHION_P_P1 : 'Influenced by the modern lifestyle, this clothing line for women can transition seamlessly from day to night.',
+        MADE_IN_TH_FASHION_P_P2 : '(2nd Floor, Zen at CentralWorld / 1st Floor, Siam Paragon)',
+
+        MADE_IN_TH_FASHION_S : 'Sretsis',
+        MADE_IN_TH_FASHION_S_P1 : 'Offering a mix of sweetness and avant-garde, this label’s dreamy clothing and jewellery collections have gained popularity from customers across the globe.',
+        MADE_IN_TH_FASHION_S_P2 : '(2nd Floor, Central Embassy / 2nd Floor, EmQuartier)',
 }
