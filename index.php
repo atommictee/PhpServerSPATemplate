@@ -138,8 +138,25 @@
 <script src="app/app.module.js"></script>
 <script src="app/app.routes.js"></script>
 
-<script src="app/shared/lang/english.js"></script>
-<script src="app/shared/lang/thai.js"></script>
+<script src="app/shared/lang/english/main.js"></script>
+<script src="app/shared/lang/english/connect.js"></script>
+<script src="app/shared/lang/english/dinning.js"></script>
+<script src="app/shared/lang/english/home.js"></script>
+<script src="app/shared/lang/english/hotel.js"></script>
+<script src="app/shared/lang/english/madeinth.js"></script>
+<script src="app/shared/lang/english/once.js"></script>
+<script src="app/shared/lang/english/wellness.js"></script>
+
+
+<script src="app/shared/lang/thai/main.js"></script>
+<script src="app/shared/lang/thai/connect.js"></script>
+<script src="app/shared/lang/thai/dinning.js"></script>
+<script src="app/shared/lang/thai/home.js"></script>
+<script src="app/shared/lang/thai/hotel.js"></script>
+<script src="app/shared/lang/thai/madeinth.js"></script>
+<script src="app/shared/lang/thai/once.js"></script>
+<script src="app/shared/lang/thai/wellness.js"></script>
+
 <script src="app/shared/slide/card-view.js"></script>
 
 

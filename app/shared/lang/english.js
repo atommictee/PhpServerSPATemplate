@@ -964,7 +964,7 @@ var translationsEN = {
         MADE_IN_TH_AZ_V_P4	:'Versace (G Floor, Central Embassy)',
         MADE_IN_TH_AZ_V_P5	:'Vivienne Westwood (1st Floor, Central Chidlom)',
 
-        WELLNESS_H:'Wellness',
+         WELLNESS_H:'Wellness',
         WELLNESS_P1:'With massage and spa traditions dating back centuries, Thailand’s reputation as one of the world’s best destinations for wellness remedies is as old as the country itself. More recently, it has become a hotbed for world-class yoga retreats and detox centres, making Thailand a true mecca of physical, mental and spiritual rejuvenation.',
 
         WELLNESS_SM_H:'Spa & Massage',

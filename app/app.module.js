@@ -1,8 +1,24 @@
 var thailuxuryApp = angular.module('thailuxuryApp', ['ngRoute', 'ngAnimate','pascalprecht.translate','ngCookies']);
 
 thailuxuryApp.config(function ($translateProvider) {
-    $translateProvider.translations('en', translationsEN);
-    $translateProvider.translations('th', translationsTH);
+    $translateProvider.translations('en', mainEN);
+    $translateProvider.translations('en', homeEN);
+    $translateProvider.translations('en', hotelEN);
+    $translateProvider.translations('en', dinningEN);
+    $translateProvider.translations('en', onceEN);
+    $translateProvider.translations('en', wellnessEN);
+    $translateProvider.translations('en', madeinthEN);
+    $translateProvider.translations('en', connectEN);
+
+
+    $translateProvider.translations('th', mainTH);
+    $translateProvider.translations('th', homeTH);
+    $translateProvider.translations('th', hotelTH);
+    $translateProvider.translations('th', dinningTH);
+    $translateProvider.translations('th', onceTH);
+    $translateProvider.translations('th', wellnessTH);
+    $translateProvider.translations('th', madeinthTH);
+    $translateProvider.translations('th', connectTH);
     $translateProvider.preferredLanguage('en');
      // remember language
     $translateProvider.useLocalStorage();
