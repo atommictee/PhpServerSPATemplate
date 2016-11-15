@@ -83,6 +83,7 @@
                             <li><a href="/made.thailand#fashion">{{ 'NAV_FASHION' | translate }}</a></li>
                             <li><a href="/made.thailand#jewellery">{{ 'NAV_JEWELLERY' | translate }}</a></li>
                             <li><a href="/made.thailand#spa.products">{{ 'NAV_SPA' | translate }}</a></li>
+                            <li><a href="/made.thailand#decor.interior.design">{{ 'NAV_DECOR' | translate }}</a></li>
                             <li><a href="/made.thailand#bespoke.tailoring">{{ 'NAV_BESPOKE' | translate }}</a></li>
                             <li><a href="/made.thailand#luxury.shopping.guide">{{ 'NAV_LUXURYSHOP' | translate }}</a></li>
                         </ul>

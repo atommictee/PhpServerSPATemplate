@@ -23,6 +23,7 @@ var mainEN = {
             NAV_FASHION: 'Fashion',
             NAV_JEWELLERY: 'Jewellery',
             NAV_SPA: 'Spa Products',
+            NAV_DECOR : 'Décor & Interior Design',
             NAV_BESPOKE: 'Bespoke Tailoring',
             NAV_LUXURYSHOP: 'Luxury Shopping Guide',
         NAV_WELLNESS: 'Wellness',

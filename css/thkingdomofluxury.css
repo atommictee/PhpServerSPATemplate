@@ -129,9 +129,10 @@ body {
     font-size: 14px;
 }
 
-    .content-article a{
+    .content-article a, .list a{
         text-decoration: underline;
         font-size: 10px;
+        font-style: italic;
         color: rgb(96, 94, 94);
     }
 
@@ -199,7 +200,7 @@ a.anchor {
         margin: 10px 0;
     }
 
-    .list div a{
+    .list a{
         display: block;
     }
 
@@ -213,7 +214,6 @@ a.anchor {
         border-top: 1px solid #CEAB21;
         width: 100%;
     }
-
 
 .img-col img{
     width: 100%;
