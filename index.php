@@ -148,6 +148,7 @@
 <script src="app/shared/lang/english/once.js"></script>
 <script src="app/shared/lang/english/wellness.js"></script>
 <script src="app/shared/lang/english/medical.js"></script>
+<script src="app/shared/lang/english/afterdark.js"></script>
 
 <script src="app/shared/lang/thai/main.js"></script>
 <script src="app/shared/lang/thai/connect.js"></script>
@@ -158,6 +159,7 @@
 <script src="app/shared/lang/thai/once.js"></script>
 <script src="app/shared/lang/thai/wellness.js"></script>
 <script src="app/shared/lang/thai/medical.js"></script>
+<script src="app/shared/lang/thai/afterdark.js"></script>
 
 <script src="app/shared/slide/card-view.js"></script>
 
