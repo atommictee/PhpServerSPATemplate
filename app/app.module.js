@@ -9,7 +9,7 @@ thailuxuryApp.config(function ($translateProvider) {
     $translateProvider.translations('en', wellnessEN);
     $translateProvider.translations('en', madeinthEN);
     $translateProvider.translations('en', connectEN);
-
+    $translateProvider.translations('en', medicalEN);
 
     $translateProvider.translations('th', mainTH);
     $translateProvider.translations('th', homeTH);
@@ -19,6 +19,7 @@ thailuxuryApp.config(function ($translateProvider) {
     $translateProvider.translations('th', wellnessTH);
     $translateProvider.translations('th', madeinthTH);
     $translateProvider.translations('th', connectTH);
+    $translateProvider.translations('th', medicalEN);
     $translateProvider.preferredLanguage('en');
      // remember language
     $translateProvider.useLocalStorage();

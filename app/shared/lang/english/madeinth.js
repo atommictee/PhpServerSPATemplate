@@ -171,10 +171,10 @@ var madeinthEN = {
         MADE_IN_TH_AZ_DF_H : 'D-F',
         MADE_IN_TH_AZ_GI_H : 'G-I',
         MADE_IN_TH_AZ_JL_H : 'J-L',
-        MADE_IN_TH_AZ_JL_H : 'M-O',
-        MADE_IN_TH_AZ_JL_H : 'P-R',
-        MADE_IN_TH_AZ_JL_H : 'S-U',
-        MADE_IN_TH_AZ_JL_H : 'V-Z',
+        MADE_IN_TH_AZ_MO_H : 'M-O',
+        MADE_IN_TH_AZ_PR_H : 'P-R',
+        MADE_IN_TH_AZ_SU_H : 'S-U',
+        MADE_IN_TH_AZ_VZ_H : 'V-Z',
 
         MADE_IN_TH_AZ_A_P1 :'A. Lange & Söhne (Pendulum at Gaysorn, Emporium and Siam Paragon)',
         MADE_IN_TH_AZ_A_P2 :'Alberta Ferretti (2nd Floor, CentralWorld)',
@@ -272,6 +272,7 @@ var madeinthEN = {
         MADE_IN_TH_AZ_T_P1 : 'Tiffany & Co. (G Floor, Emporium)',
         MADE_IN_TH_AZ_T_P2 : 'Tod’s (M Floor, Siam Paragon)',
         MADE_IN_TH_AZ_T_P3 : 'Tom Ford (G Floor, Central Embassy)',
+        
         MADE_IN_TH_AZ_U_P1 : 'Ulysse Nardin (PMT The Hour Glass at Gaysorn and Siam Paragon)',
 
         MADE_IN_TH_AZ_V_P1	:'Vacheron Constantin (Pendulum at Gaysorn, Emporium and Siam Paragon)',
