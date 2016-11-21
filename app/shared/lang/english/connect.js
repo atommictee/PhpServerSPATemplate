@@ -66,7 +66,7 @@ var connectEN = {
         CONNECT_OO_EP_FF_P1:'Areas of Responsibility: Germany, Austria, Yugoslavia, Croatia, Switzerland, Liechtenstein, Romania, Bulgaria, Moldova, Macedonia, Albania, Czech Republic, Slovakia, Poland, Hungary and Bosnia-Herzegovina',
 
         CONNECT_OO_EP_PR:'PARIS Office National du Tourisme de Thailande',
-        CONNECT_OO_EP_PR_P1:'Areas of Responsibility: Italy, Spain, Greece, Portugal, Israel, Egypt, Turkey and Cyprus',
+        CONNECT_OO_EP_PR_P1:'Areas of Responsibility: France, Belgium, Luxembourg, The Netherlands, Morocco, Monaco, Tunisia and Algeria',
 
         CONNECT_OO_EP_R: 'ROME Ente Nazionale per il Turismo Thailandese',
         CONNECT_OO_EP_R_P1: 'Areas of Responsibility: Italy, Spain, Greece, Portugal, Israel, Egypt, Turkey and Cyprus',
@@ -153,7 +153,7 @@ var connectEN = {
         CONNECT_LF_EG_NN:'Tourism Authority of Thailand, Nakhon Nayok Office (TAT Nakhon Nayok)',
         CONNECT_LF_EG_NN_P1:'Areas of Responsibility: Nakhon Nayok, Prachin Buri and Sa Kaeo',
 
-        CONNECT_LF_NR_H:'NORTHEASTERN REGION',
+        CONNECT_LF_NER_H:'NORTHEASTERN REGION',
         CONNECT_LF_NR_NR:'Tourism Authority of Thailand, Nakhon Ratchasima Office (TAT Nakhon Ratchasima)',
         CONNECT_LF_NR_NR_P1:'Areas of Responsibility: Nakhon Ratchasima and Chaiyaphum',
 

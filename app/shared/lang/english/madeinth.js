@@ -33,9 +33,9 @@ var madeinthEN = {
         MADE_IN_TH_FASHION_KB_P1 : 'One of the most celebrated evening and bridal gown designers, renowned for its touch of high fashion.',
         MADE_IN_TH_FASHION_KB_P2 : '(Bangkok Cable Building)',
 
-        MADE_IN_TH_FASHION_N : 'Nasha',
-        MADE_IN_TH_FASHION_N_P1 : 'Geometric shapes, architectural constructions and fine cuts have made these bags all the rage among fashionistas',
-        MADE_IN_TH_FASHION_N_P2 : '(Club21 / Erawan / Siam Paragon)',
+        MADE_IN_TH_FASHION_NH : 'Nasha',
+        MADE_IN_TH_FASHION_NH_P1 : 'Geometric shapes, architectural constructions and fine cuts have made these bags all the rage among fashionistas',
+        MADE_IN_TH_FASHION_NH_P2 : '(Club21 / Erawan / Siam Paragon)',
 
         MADE_IN_TH_FASHION_RR : 'Rouge Rouge',
         MADE_IN_TH_FASHION_RR_P1 : 'A quirky sense of style has made this designer’s bags popular.',

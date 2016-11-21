@@ -33,9 +33,9 @@ var madeinthTH = {
         MADE_IN_TH_FASHION_KB_P1 : 'ร้านของดีไซน์เนอร์สำหรับชุดราตรีและงานแต่งงานที่มีชื่อด้วยการใช้การออกแบบของแฟชั่นชั้นสูง',
         MADE_IN_TH_FASHION_KB_P2 : '(อาคารบางกอกเคเบิ้ล)',
 
-        MADE_IN_TH_FASHION_N : 'Nasha',
-        MADE_IN_TH_FASHION_N_P1 : 'ด้วยรูปแบบเรขาคณิต การผลิตราวงานสถาปัตยกรรมและการตัดเย็บอันประณีตทำให้กระเป๋าถือของแบรนด์นี้กระตุ้นความสนใจของบรรดานักแฟชั่นได้เสมอ',
-        MADE_IN_TH_FASHION_N_P2 : '(คลับ 21 / เอราวัณ / สยามพารากอน)',
+        MADE_IN_TH_FASHION_NH : 'Nasha',
+        MADE_IN_TH_FASHION_NH_P1 : 'ด้วยรูปแบบเรขาคณิต การผลิตราวงานสถาปัตยกรรมและการตัดเย็บอันประณีตทำให้กระเป๋าถือของแบรนด์นี้กระตุ้นความสนใจของบรรดานักแฟชั่นได้เสมอ',
+        MADE_IN_TH_FASHION_NH_P2 : '(คลับ 21 / เอราวัณ / สยามพารากอน)',
 
         MADE_IN_TH_FASHION_RR : 'Rouge Rouge',
         MADE_IN_TH_FASHION_RR_P1 : 'การใช้ลูกเล่นเส้นสายในการออกแบบของแบรนด์ทำให้กระเป๋าเป็นที่นิยม',
@@ -171,10 +171,10 @@ var madeinthTH = {
         MADE_IN_TH_AZ_DF_H : 'D-F',
         MADE_IN_TH_AZ_GI_H : 'G-I',
         MADE_IN_TH_AZ_JL_H : 'J-L',
-        MADE_IN_TH_AZ_JL_H : 'M-O',
-        MADE_IN_TH_AZ_JL_H : 'P-R',
-        MADE_IN_TH_AZ_JL_H : 'S-U',
-        MADE_IN_TH_AZ_JL_H : 'V-Z',
+        MADE_IN_TH_AZ_MO_H : 'M-O',
+        MADE_IN_TH_AZ_PR_H : 'P-R',
+        MADE_IN_TH_AZ_SU_H : 'S-U',
+        MADE_IN_TH_AZ_VZ_H : 'V-Z',
 
         MADE_IN_TH_AZ_A_P1 :'A.Lange & Sohne (Pendulum ที่เกษรพลาซ่า เอ็มโพเรียม และ สยามพารากอน)',
         MADE_IN_TH_AZ_A_P2 :'Alberta Ferretti (ชั้น 2 เซ็นทรัลเวิลด์)',
