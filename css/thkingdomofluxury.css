@@ -232,6 +232,11 @@ a.anchor {
 }
 
 @media (min-width: 768px){
+    body {
+        padding-top: 101px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+    }
+
+
     .nav li:hover ul {
         display: block;
     }
