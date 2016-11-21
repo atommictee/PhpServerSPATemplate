@@ -5,7 +5,7 @@
  */
 
 body {
-    padding-top: 101px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+    padding-top: 55px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
     padding-bottom: 70px; /* for footer */
     display: table;
     position: absolute;
@@ -114,6 +114,11 @@ body {
         height: 300px;
         min-height: 300px;
     }
+
+        .content-width.header.center{
+            padding-top: 100px;
+        }
+
 
         .content-width.header .content-text.center{
            text-align: center;
