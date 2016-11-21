@@ -20,7 +20,7 @@ thailuxuryApp.config(function ($translateProvider) {
     $translateProvider.translations('th', wellnessTH);
     $translateProvider.translations('th', madeinthTH);
     $translateProvider.translations('th', connectTH);
-    $translateProvider.translations('th', medicalEN);
+    $translateProvider.translations('th', medicalTH);
     $translateProvider.translations('th', afterDarkTH);
     
     $translateProvider.preferredLanguage('en');
