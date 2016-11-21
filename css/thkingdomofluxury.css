@@ -57,6 +57,8 @@ body {
     margin: 15px 0 15px 0;
 }
 
+
+
 .text-gold-header2{
     font-size: 24px;
 }
@@ -297,5 +299,15 @@ a.anchor {
     a.anchor {
         position: relative;
         margin-top: -101px;
+    }
+
+    .text-gold-header:before, .text-gold-header:after{
+        content:"";
+        background-image: url('/images/Flower-icon.png');
+        background-size: 30px 30px;
+        display: inline-block;
+        width: 30px; 
+        height: 30px;
+        margin-right: 5px;
     }
 }
