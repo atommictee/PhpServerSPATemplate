@@ -1,6 +1,6 @@
 var thailuxuryApp = angular.module('thailuxuryApp', ['ngRoute', 'ngAnimate','pascalprecht.translate','ngCookies']);
 
-thailuxuryApp.config(function ($translateProvider) {
+thailuxuryApp.config(['$translateProvider', function ($translateProvider) {
     $translateProvider.translations('en', mainEN);
     $translateProvider.translations('en', homeEN);
     $translateProvider.translations('en', hotelEN);
@@ -26,11 +26,11 @@ thailuxuryApp.config(function ($translateProvider) {
     $translateProvider.preferredLanguage('en');
      // remember language
     $translateProvider.useLocalStorage();
-});
+}]);
 
 
 
-thailuxuryApp.run(function ($rootScope, $translate) {
+thailuxuryApp.run(['$rootScope', '$translate', function ($rootScope, $translate) {
 
     $translate.use() === 'en'?$rootScope.lang = "ไทย" : $rootScope.lang = 'EN';
 
@@ -51,7 +51,7 @@ thailuxuryApp.run(function ($rootScope, $translate) {
     };
 
 
-});
+}]);
 
 thailuxuryApp.controller('HeaderController', ['$scope','$location', function($scope, $location) {
     $scope.isActive = function (viewLocation) { 

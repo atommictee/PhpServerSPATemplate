@@ -121,7 +121,6 @@
     </div>
 </body>
 
-
 <script src="libs/jquery/jquery.min.js"></script>
 <script src="libs/angular/angular.min.js"></script>
 <script src="libs/angular-route/angular-route.min.js"></script>
@@ -131,42 +130,19 @@
 <script src="libs/angular/angular-ui-router.min.js"></script>
 <script src="libs/angular/angular-ui-bootstrap.min.js"></script>
 <script src="libs/angular/loading-bar/loading-bar.min.js"></script>
-<script src="libs/angular/angular-messages.js"></script>
+<script src="libs/angular/angular-messages.min.js"></script>
 <script src="libs/moment.min.js"></script>
 <script src="libs/angular-translate/angular-translate.min.js"></script>
-<script src="libs/angular-translate/angular-translate-storage-cookie/angular-translate-storage-cookie.js"></script>
+<script src="libs/angular-translate/angular-translate-storage-cookie/angular-translate-storage-cookie.min.js"></script>
 <script src="libs/angular-translate/angular-translate-storage-local/angular-translate-storage-local.min.js"></script>
 
-<script src="app/app.module.js"></script>
-<script src="app/app.routes.js"></script>
+<script src="app/app.module.min.js"></script>
+<script src="app/app.routes.min.js"></script>
 
-<script src="app/shared/lang/english/main.js"></script>
-<script src="app/shared/lang/english/connect.js"></script>
-<script src="app/shared/lang/english/dinning.js"></script>
-<script src="app/shared/lang/english/home.js"></script>
-<script src="app/shared/lang/english/hotel.js"></script>
-<script src="app/shared/lang/english/madeinth.js"></script>
-<script src="app/shared/lang/english/once.js"></script>
-<script src="app/shared/lang/english/wellness.js"></script>
-<script src="app/shared/lang/english/medical.js"></script>
-<script src="app/shared/lang/english/afterdark.js"></script>
-
-<script src="app/shared/lang/thai/main.js"></script>
-<script src="app/shared/lang/thai/connect.js"></script>
-<script src="app/shared/lang/thai/dinning.js"></script>
-<script src="app/shared/lang/thai/home.js"></script>
-<script src="app/shared/lang/thai/hotel.js"></script>
-<script src="app/shared/lang/thai/madeinth.js"></script>
-<script src="app/shared/lang/thai/once.js"></script>
-<script src="app/shared/lang/thai/wellness.js"></script>
-<script src="app/shared/lang/thai/medical.js"></script>
-<script src="app/shared/lang/thai/afterdark.js"></script>
-
-<script src="app/shared/slide/card-view.js"></script>
-
+<script src="app/shared/lang/english/english.min.js"></script>
+<script src="app/shared/lang/thai/thai.min.js"></script>
 
 <script src="app/components/once.lifetime/onceLiftController.js"></script>
-
 
 
 </html>

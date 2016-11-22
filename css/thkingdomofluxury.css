@@ -222,11 +222,14 @@ a.anchor {
 
     .list hr{
         border-top: 1px solid #CEAB21;
-        width: 100%;
     }
 
 .img-col img{
     width: 100%;
+}
+
+.navbar-fixed-bottom .navbar-collapse, .navbar-fixed-top .navbar-collapse {
+    max-height: 400px;
 }
 
 
@@ -303,11 +306,15 @@ a.anchor {
 
     .text-gold-header:before, .text-gold-header:after{
         content:"";
-        background-image: url('/images/Flower-icon.png');
+        background-image: url('/images/Flowericon.png');
         background-size: 30px 30px;
         display: inline-block;
         width: 30px; 
         height: 30px;
         margin-right: 5px;
+    }
+
+    .child .text-gold-header:before, .child  .text-gold-header:after{
+        display: none;
     }
 }

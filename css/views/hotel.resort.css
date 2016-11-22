@@ -7,15 +7,29 @@
     /* Set a specific height */
     height: 800px !important;
     min-height: 800px !important;
-    background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
-
+    background-attachment: scroll;
     margin-top: -20px;
 }
 
 .header-parallax.sm{
         /* Set a specific height */
     height: 400px !important;
+}
+
+@media (min-width: 768px){
+    .header-parallax {
+        /* The image used */
+        background-image: url("/images/hotel_resort/La Residence Royale Hua Hin Balcony Facing Ocean_resize.jpeg");
+
+        /* Set a specific height */
+        height: 800px !important;
+        min-height: 800px !important;
+        background-attachment: fixed;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        margin-top: -20px;
+    }
 }

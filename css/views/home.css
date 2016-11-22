@@ -8,28 +8,33 @@
     height: 800px !important;
     min-height: 800px !important;
 
-    /* Create the parallax scrolling effect */
-    background-attachment: fixed;
+    /* Create the parallax scrolling effect */;
+    background-attachment: scroll;
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    -webkit-background-size: cover; /* safari may need this */
+
+    margin-top: -20px;
+}
+
+.home{
+    background-image: url("/images/home/RCPHUBY_00055.jpg") !important;
 }
 
 .bangkok{
-    background-image: url("/images/home/ake1150140900012.jpg");
+    background-image: url("/images/home/ake1150140900012.jpg") !important;
 }
 
 .northern img{
-    min-height: 100%;
     height: 100%
 }
 
 .phuket{
-    background-image: url("/images/home/33973425_xl.jpg");
+    background-image: url("/images/home/33973425_xl.jpg") !important;
 }
 
 .samui{
-    background-image: url("/images/home/29393966_xl.jpg");
+    background-image: url("/images/home/29393966_xl.jpg") !important;
 }
 
 .intro{
@@ -41,3 +46,20 @@
     .intro .child{
         padding: 0px 5%;
     }
+
+@media (min-width: 768px){
+    .header-parallax {
+        /* The image used */
+        background-image: url("/images/home/RCPHUBY_00055.jpg");
+
+        /* Set a specific height */
+        height: 800px !important;
+        min-height: 800px !important;
+
+        /* Create the parallax scrolling effect */
+        background-attachment: fixed;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+}

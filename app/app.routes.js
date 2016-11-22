@@ -1,4 +1,4 @@
-thailuxuryApp.config(function($routeProvider, $locationProvider) {
+thailuxuryApp.config(['$routeProvider', '$locationProvider', function($routeProvider, $locationProvider) {
 
     $routeProvider
   		.when('/', {
@@ -49,4 +49,4 @@ thailuxuryApp.config(function($routeProvider, $locationProvider) {
     );
 
 		$locationProvider.html5Mode(true);
-});
+}]);
